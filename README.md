@@ -7,7 +7,7 @@ Proyecto de investigación (**Maestría en IA – UNI**)
 
 ## 👥 Autores
 
-* **Kenny S. Asto Hinsotroza** – [@juanperez01](https://github.com/kefencho)
+* **Kenny S. Asto Hinsotroza** – [@kefencho](https://github.com/kefencho)
 ---
 
 ## 📊 Dataset
