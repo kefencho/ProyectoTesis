@@ -21,6 +21,7 @@ Proyecto de investigación (**Maestría en IA – UNI**)
 ```text
 ├── data/
 │   ├── raw/                  # Dataset original
+|   ├── interim/              # Datos intermedios, pero que aún pueden cambiar
 │   └── processed/            # Dataset limpio y transformado
 ├── notebooks/         
 │   ├── EDA_basico.ipynb      # Análisis exploratorio inicial
@@ -33,8 +34,7 @@ Proyecto de investigación (**Maestría en IA – UNI**)
 ├── slides/                   # Presentaciones de resultados
 ├── .gitignore
 ├── README.md
-├── pyproject.toml
-└── poetry.lock / requirements.txt
+└── requirements.txt
 ```
 
 ---
