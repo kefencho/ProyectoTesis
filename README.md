@@ -1,4 +1,4 @@
-# 🛡️ Verificación de afirmaciones electorales mediante LLM y recuperación de evidencia
+# 🛡️ Verificación de afirmaciones sobre los resultados de las Elecciones Generales del Perú 2026  mediante LLM y recuperación de evidencia
 
 Proyecto de investigación de la Maestría en Inteligencia Artificial de la Universidad Nacional de Ingeniería (UNI), orientado a evaluar estrategias de recuperación de evidencia para la verificación automática de afirmaciones sobre los resultados de las Elecciones Generales del Perú 2026.
 
