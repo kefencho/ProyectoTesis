@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/020200_AIJA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 020201
+data[0].nombre: AIJA
+data[1].ubigeo: 020203
+data[1].nombre: CORIS
+data[2].ubigeo: 020205
+data[2].nombre: HUACLLAN
+data[3].ubigeo: 020206
+data[3].nombre: LA MERCED
+data[4].ubigeo: 020208
+data[4].nombre: SUCCHA

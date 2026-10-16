@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/170000_MOQUEGUA/170200_GENERAL_SÁNCHEZ_CERRO/170202_COALAQUE/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 4
+data.totalActas: 4
+data.participacionCiudadana: 74.742
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 796
+data.totalVotosValidos: 642
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

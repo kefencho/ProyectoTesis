@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/240000_CALLAO/240100_CALLAO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 240102
+data[0].nombre: BELLAVISTA
+data[1].ubigeo: 240101
+data[1].nombre: CALLAO
+data[2].ubigeo: 240104
+data[2].nombre: CARMEN DE LA LEGUA - REYNOSO
+data[3].ubigeo: 240105
+data[3].nombre: LA PERLA
+data[4].ubigeo: 240103
+data[4].nombre: LA PUNTA
+data[5].ubigeo: 240107
+data[5].nombre: MI PERÚ
+data[6].ubigeo: 240106
+data[6].nombre: VENTANILLA

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/190000_PIURA/190700_TALARA/190701_PARIÑAS/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 262
+data.totalActas: 262
+data.participacionCiudadana: 72.967
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 56161
+data.totalVotosValidos: 42842
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

@@ -1,0 +1,36 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/050100_HUAMANGA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 050111
+data[0].nombre: ACOCRO
+data[1].ubigeo: 050102
+data[1].nombre: ACOS VINCHOS
+data[2].ubigeo: 050116
+data[2].nombre: ANDRÉS AVELINO CÁCERES DORREGARAY
+data[3].ubigeo: 050101
+data[3].nombre: AYACUCHO
+data[4].ubigeo: 050103
+data[4].nombre: CARMEN ALTO
+data[5].ubigeo: 050104
+data[5].nombre: CHIARA
+data[6].ubigeo: 050115
+data[6].nombre: JESÚS NAZARENO
+data[7].ubigeo: 050113
+data[7].nombre: OCROS
+data[8].ubigeo: 050114
+data[8].nombre: PACAYCASA
+data[9].ubigeo: 050105
+data[9].nombre: QUINUA
+data[10].ubigeo: 050106
+data[10].nombre: SAN JOSÉ DE TICLLAS
+data[11].ubigeo: 050107
+data[11].nombre: SAN JUAN BAUTISTA
+data[12].ubigeo: 050108
+data[12].nombre: SANTIAGO DE PISCHA
+data[13].ubigeo: 050112
+data[13].nombre: SOCOS
+data[14].ubigeo: 050110
+data[14].nombre: TAMBILLO
+data[15].ubigeo: 050109
+data[15].nombre: VINCHOS

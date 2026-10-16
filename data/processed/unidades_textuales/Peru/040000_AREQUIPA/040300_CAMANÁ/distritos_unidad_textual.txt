@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/040000_AREQUIPA/040300_CAMANÁ/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 040301
+data[0].nombre: CAMANÁ
+data[1].ubigeo: 040302
+data[1].nombre: JOSÉ MARIA QUIMPER
+data[2].ubigeo: 040303
+data[2].nombre: MARIANO NICOLÁS VALCARCEL
+data[3].ubigeo: 040304
+data[3].nombre: MARISCAL CÁCERES
+data[4].ubigeo: 040305
+data[4].nombre: NICOLÁS DE PIEROLA
+data[5].ubigeo: 040306
+data[5].nombre: OCOÑA
+data[6].ubigeo: 040307
+data[6].nombre: QUILCA
+data[7].ubigeo: 040308
+data[7].nombre: SAMUEL PASTOR

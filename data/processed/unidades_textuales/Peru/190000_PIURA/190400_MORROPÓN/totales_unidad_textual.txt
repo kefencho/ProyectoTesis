@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/190000_PIURA/190400_MORROPÓN/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 503
+data.totalActas: 503
+data.participacionCiudadana: 73.039
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 104716
+data.totalVotosValidos: 76834
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

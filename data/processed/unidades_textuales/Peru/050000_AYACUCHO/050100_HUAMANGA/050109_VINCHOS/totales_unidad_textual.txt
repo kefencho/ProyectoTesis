@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/050100_HUAMANGA/050109_VINCHOS/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 54
+data.totalActas: 54
+data.participacionCiudadana: 75.008
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 11396
+data.totalVotosValidos: 8666
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/010000_AMAZONAS/010700_UTCUBAMBA/010702_CAJARURO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 77
+data.totalActas: 77
+data.participacionCiudadana: 64.444
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 14092
+data.totalVotosValidos: 10764
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

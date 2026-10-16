@@ -1,0 +1,22 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/200700_MELGAR/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 200702
+data[0].nombre: ANTAUTA
+data[1].ubigeo: 200701
+data[1].nombre: AYAVIRI
+data[2].ubigeo: 200703
+data[2].nombre: CUPI
+data[3].ubigeo: 200704
+data[3].nombre: LLALLI
+data[4].ubigeo: 200705
+data[4].nombre: MACARI
+data[5].ubigeo: 200706
+data[5].nombre: NUÑOA
+data[6].ubigeo: 200707
+data[6].nombre: ORURILLO
+data[7].ubigeo: 200708
+data[7].nombre: SANTA ROSA
+data[8].ubigeo: 200709
+data[8].nombre: UMACHIRI

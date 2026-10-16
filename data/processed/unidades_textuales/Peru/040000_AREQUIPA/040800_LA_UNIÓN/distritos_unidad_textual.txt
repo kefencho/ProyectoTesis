@@ -1,0 +1,26 @@
+FUENTE: data/raw/ONPE_2026/Peru/040000_AREQUIPA/040800_LA_UNIÓN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 040802
+data[0].nombre: ALCA
+data[1].ubigeo: 040803
+data[1].nombre: CHARCANA
+data[2].ubigeo: 040801
+data[2].nombre: COTAHUASI
+data[3].ubigeo: 040804
+data[3].nombre: HUAYNACOTAS
+data[4].ubigeo: 040805
+data[4].nombre: PAMPAMARCA
+data[5].ubigeo: 040806
+data[5].nombre: PUYCA
+data[6].ubigeo: 040807
+data[6].nombre: QUECHUALLA
+data[7].ubigeo: 040808
+data[7].nombre: SAYLA
+data[8].ubigeo: 040809
+data[8].nombre: TAURIA
+data[9].ubigeo: 040810
+data[9].nombre: TOMEPAMPA
+data[10].ubigeo: 040811
+data[10].nombre: TORO

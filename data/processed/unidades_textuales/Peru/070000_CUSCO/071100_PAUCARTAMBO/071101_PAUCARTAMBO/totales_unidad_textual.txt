@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/071100_PAUCARTAMBO/071101_PAUCARTAMBO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 37
+data.totalActas: 37
+data.participacionCiudadana: 77.345
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 7934
+data.totalVotosValidos: 5885
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

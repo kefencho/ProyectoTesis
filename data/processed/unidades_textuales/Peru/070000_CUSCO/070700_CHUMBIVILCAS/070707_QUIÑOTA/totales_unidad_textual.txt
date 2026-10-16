@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/070700_CHUMBIVILCAS/070707_QUIÑOTA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 13
+data.totalActas: 13
+data.participacionCiudadana: 67.655
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 2464
+data.totalVotosValidos: 1867
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

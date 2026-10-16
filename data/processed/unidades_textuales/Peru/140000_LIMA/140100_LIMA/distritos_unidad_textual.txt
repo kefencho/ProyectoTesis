@@ -1,0 +1,90 @@
+FUENTE: data/raw/ONPE_2026/Peru/140000_LIMA/140100_LIMA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 140102
+data[0].nombre: ANCÓN
+data[1].ubigeo: 140103
+data[1].nombre: ATE
+data[2].ubigeo: 140125
+data[2].nombre: BARRANCO
+data[3].ubigeo: 140104
+data[3].nombre: BREÑA
+data[4].ubigeo: 140105
+data[4].nombre: CARABAYLLO
+data[5].ubigeo: 140107
+data[5].nombre: CHACLACAYO
+data[6].ubigeo: 140108
+data[6].nombre: CHORRILLOS
+data[7].ubigeo: 140139
+data[7].nombre: CIENEGUILLA
+data[8].ubigeo: 140106
+data[8].nombre: COMAS
+data[9].ubigeo: 140135
+data[9].nombre: EL AGUSTINO
+data[10].ubigeo: 140134
+data[10].nombre: INDEPENDENCIA
+data[11].ubigeo: 140133
+data[11].nombre: JESÚS MARÍA
+data[12].ubigeo: 140110
+data[12].nombre: LA MOLINA
+data[13].ubigeo: 140109
+data[13].nombre: LA VICTORIA
+data[14].ubigeo: 140101
+data[14].nombre: LIMA
+data[15].ubigeo: 140111
+data[15].nombre: LINCE
+data[16].ubigeo: 140142
+data[16].nombre: LOS OLIVOS
+data[17].ubigeo: 140112
+data[17].nombre: LURIGANCHO
+data[18].ubigeo: 140113
+data[18].nombre: LURÍN
+data[19].ubigeo: 140114
+data[19].nombre: MAGDALENA DEL MAR
+data[20].ubigeo: 140115
+data[20].nombre: MIRAFLORES
+data[21].ubigeo: 140116
+data[21].nombre: PACHACÁMAC
+data[22].ubigeo: 140118
+data[22].nombre: PUCUSANA
+data[23].ubigeo: 140117
+data[23].nombre: PUEBLO LIBRE
+data[24].ubigeo: 140119
+data[24].nombre: PUENTE PIEDRA
+data[25].ubigeo: 140120
+data[25].nombre: PUNTA HERMOSA
+data[26].ubigeo: 140121
+data[26].nombre: PUNTA NEGRA
+data[27].ubigeo: 140122
+data[27].nombre: RÍMAC
+data[28].ubigeo: 140123
+data[28].nombre: SAN BARTOLO
+data[29].ubigeo: 140140
+data[29].nombre: SAN BORJA
+data[30].ubigeo: 140124
+data[30].nombre: SAN ISIDRO
+data[31].ubigeo: 140137
+data[31].nombre: SAN JUAN DE LURIGANCHO
+data[32].ubigeo: 140136
+data[32].nombre: SAN JUAN DE MIRAFLORES
+data[33].ubigeo: 140138
+data[33].nombre: SAN LUIS
+data[34].ubigeo: 140126
+data[34].nombre: SAN MARTÍN DE PORRES
+data[35].ubigeo: 140127
+data[35].nombre: SAN MIGUEL
+data[36].ubigeo: 140143
+data[36].nombre: SANTA ANITA
+data[37].ubigeo: 140128
+data[37].nombre: SANTA MARÍA DEL MAR
+data[38].ubigeo: 140129
+data[38].nombre: SANTA ROSA
+data[39].ubigeo: 140130
+data[39].nombre: SANTIAGO DE SURCO
+data[40].ubigeo: 140131
+data[40].nombre: SURQUILLO
+data[41].ubigeo: 140141
+data[41].nombre: VILLA EL SALVADOR
+data[42].ubigeo: 140132
+data[42].nombre: VILLA MARÍA DEL TRIUNFO

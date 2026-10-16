@@ -1,0 +1,68 @@
+FUENTE: data/raw/ONPE_2026/Peru/140000_LIMA/140600_HUAROCHIRÍ/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 140602
+data[0].nombre: ANTIOQUIA
+data[1].ubigeo: 140603
+data[1].nombre: CALLAHUANCA
+data[2].ubigeo: 140604
+data[2].nombre: CARAMPOMA
+data[3].ubigeo: 140607
+data[3].nombre: CHICLA
+data[4].ubigeo: 140606
+data[4].nombre: CUENCA
+data[5].ubigeo: 140630
+data[5].nombre: HUACHUPAMPA
+data[6].ubigeo: 140608
+data[6].nombre: HUANZA
+data[7].ubigeo: 140609
+data[7].nombre: HUAROCHIRÍ
+data[8].ubigeo: 140610
+data[8].nombre: LAHUAYTAMBO
+data[9].ubigeo: 140611
+data[9].nombre: LANGA
+data[10].ubigeo: 140612
+data[10].nombre: MARIATANA
+data[11].ubigeo: 140601
+data[11].nombre: MATUCANA
+data[12].ubigeo: 140613
+data[12].nombre: RICARDO PALMA
+data[13].ubigeo: 140614
+data[13].nombre: SAN ANDRÉS DE TUPICOCHA
+data[14].ubigeo: 140615
+data[14].nombre: SAN ANTONIO
+data[15].ubigeo: 140616
+data[15].nombre: SAN BARTOLOMÉ
+data[16].ubigeo: 140617
+data[16].nombre: SAN DAMIÁN
+data[17].ubigeo: 140618
+data[17].nombre: SANGALLAYA
+data[18].ubigeo: 140632
+data[18].nombre: SAN JUAN DE IRIS
+data[19].ubigeo: 140619
+data[19].nombre: SAN JUAN DE TANTARANCHE
+data[20].ubigeo: 140620
+data[20].nombre: SAN LORENZO DE QUINTI
+data[21].ubigeo: 140621
+data[21].nombre: SAN MATEO
+data[22].ubigeo: 140622
+data[22].nombre: SAN MATEO DE OTAO
+data[23].ubigeo: 140605
+data[23].nombre: SAN PEDRO DE CASTA
+data[24].ubigeo: 140623
+data[24].nombre: SAN PEDRO DE HUANCAYRE
+data[25].ubigeo: 140631
+data[25].nombre: SAN PEDRO DE LARAOS
+data[26].ubigeo: 140624
+data[26].nombre: SANTA CRUZ DE COCACHACRA
+data[27].ubigeo: 140625
+data[27].nombre: SANTA EULALIA
+data[28].ubigeo: 140626
+data[28].nombre: SANTIAGO DE ANCHUCAYA
+data[29].ubigeo: 140627
+data[29].nombre: SANTIAGO DE TUNA
+data[30].ubigeo: 140628
+data[30].nombre: SANTO DOMINGO DE LOS OLLEROS
+data[31].ubigeo: 140629
+data[31].nombre: SURCO

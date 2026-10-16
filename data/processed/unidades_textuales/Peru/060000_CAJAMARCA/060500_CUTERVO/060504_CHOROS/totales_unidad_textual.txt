@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/060500_CUTERVO/060504_CHOROS/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 13
+data.totalActas: 13
+data.participacionCiudadana: 49.409
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 1673
+data.totalVotosValidos: 1277
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

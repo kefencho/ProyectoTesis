@@ -1,0 +1,26 @@
+FUENTE: data/raw/ONPE_2026/Peru/150000_LORETO/150100_MAYNAS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 150102
+data[0].nombre: ALTO NANAY
+data[1].ubigeo: 150112
+data[1].nombre: BELÉN
+data[2].ubigeo: 150103
+data[2].nombre: FERNANDO LORES
+data[3].ubigeo: 150110
+data[3].nombre: INDIANA
+data[4].ubigeo: 150101
+data[4].nombre: IQUITOS
+data[5].ubigeo: 150104
+data[5].nombre: LAS AMAZONAS
+data[6].ubigeo: 150105
+data[6].nombre: MAZAN
+data[7].ubigeo: 150106
+data[7].nombre: NAPO
+data[8].ubigeo: 150111
+data[8].nombre: PUNCHANA
+data[9].ubigeo: 150113
+data[9].nombre: SAN JUAN BAUTISTA
+data[10].ubigeo: 150108
+data[10].nombre: TORRES CAUSANA

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/120800_ASCOPE/120808_CASA_GRANDE/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 81
+data.totalActas: 81
+data.participacionCiudadana: 78.407
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 18424
+data.totalVotosValidos: 14511
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

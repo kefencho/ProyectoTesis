@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/040000_AREQUIPA/040600_CONDESUYOS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 040602
+data[0].nombre: ANDARAY
+data[1].ubigeo: 040603
+data[1].nombre: CAYARANI
+data[2].ubigeo: 040604
+data[2].nombre: CHICHAS
+data[3].ubigeo: 040601
+data[3].nombre: CHUQUIBAMBA
+data[4].ubigeo: 040605
+data[4].nombre: IRAY
+data[5].ubigeo: 040608
+data[5].nombre: RÍO GRANDE
+data[6].ubigeo: 040606
+data[6].nombre: SALAMANCA
+data[7].ubigeo: 040607
+data[7].nombre: YANAQUIHUA

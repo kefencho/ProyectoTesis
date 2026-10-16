@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/110100_HUANCAYO/110113_EL_TAMBO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 475
+data.totalActas: 475
+data.participacionCiudadana: 78.965
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 110922
+data.totalVotosValidos: 98266
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

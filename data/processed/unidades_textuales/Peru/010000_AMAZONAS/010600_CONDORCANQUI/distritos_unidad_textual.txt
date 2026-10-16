@@ -1,0 +1,10 @@
+FUENTE: data/raw/ONPE_2026/Peru/010000_AMAZONAS/010600_CONDORCANQUI/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 010603
+data[0].nombre: EL CENEPA
+data[1].ubigeo: 010601
+data[1].nombre: NIEVA
+data[2].ubigeo: 010602
+data[2].nombre: RÍO SANTIAGO

@@ -1,0 +1,24 @@
+FUENTE: data/raw/ONPE_2026/Peru/210000_SAN_MARTÍN/210900_PICOTA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 210902
+data[0].nombre: BUENOS AIRES
+data[1].ubigeo: 210903
+data[1].nombre: CASPISAPA
+data[2].ubigeo: 210901
+data[2].nombre: PICOTA
+data[3].ubigeo: 210904
+data[3].nombre: PILLUANA
+data[4].ubigeo: 210905
+data[4].nombre: PUCACACA
+data[5].ubigeo: 210906
+data[5].nombre: SAN CRISTÓBAL
+data[6].ubigeo: 210907
+data[6].nombre: SAN HILARIÓN
+data[7].ubigeo: 210910
+data[7].nombre: SHAMBOYACU
+data[8].ubigeo: 210908
+data[8].nombre: TINGO DE PONASA
+data[9].ubigeo: 210909
+data[9].nombre: TRES UNIDOS

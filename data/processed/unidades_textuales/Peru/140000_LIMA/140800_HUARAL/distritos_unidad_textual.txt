@@ -1,0 +1,28 @@
+FUENTE: data/raw/ONPE_2026/Peru/140000_LIMA/140800_HUARAL/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 140802
+data[0].nombre: ATAVILLOS ALTO
+data[1].ubigeo: 140803
+data[1].nombre: ATAVILLOS BAJO
+data[2].ubigeo: 140804
+data[2].nombre: AUCALLAMA
+data[3].ubigeo: 140805
+data[3].nombre: CHANCAY
+data[4].ubigeo: 140801
+data[4].nombre: HUARAL
+data[5].ubigeo: 140806
+data[5].nombre: IHUARI
+data[6].ubigeo: 140807
+data[6].nombre: LAMPIAN
+data[7].ubigeo: 140808
+data[7].nombre: PACARAOS
+data[8].ubigeo: 140809
+data[8].nombre: SAN MIGUEL DE ACOS
+data[9].ubigeo: 140811
+data[9].nombre: SANTA CRUZ DE ANDAMARCA
+data[10].ubigeo: 140812
+data[10].nombre: SUMBILCA
+data[11].ubigeo: 140810
+data[11].nombre: VEINTISIETE DE NOVIEMBRE

@@ -1,0 +1,24 @@
+FUENTE: data/raw/ONPE_2026/Peru/190000_PIURA/190400_MORROPÓN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 190402
+data[0].nombre: BUENOS AIRES
+data[1].ubigeo: 190403
+data[1].nombre: CHALACO
+data[2].ubigeo: 190401
+data[2].nombre: CHULUCANAS
+data[3].ubigeo: 190408
+data[3].nombre: LA MATANZA
+data[4].ubigeo: 190404
+data[4].nombre: MORROPÓN
+data[5].ubigeo: 190405
+data[5].nombre: SALITRAL
+data[6].ubigeo: 190410
+data[6].nombre: SAN JUAN DE BIGOTE
+data[7].ubigeo: 190406
+data[7].nombre: SANTA CATALINA DE MOSSA
+data[8].ubigeo: 190407
+data[8].nombre: SANTO DOMINGO
+data[9].ubigeo: 190409
+data[9].nombre: YAMANGO

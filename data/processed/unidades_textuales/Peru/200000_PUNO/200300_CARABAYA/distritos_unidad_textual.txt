@@ -1,0 +1,24 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/200300_CARABAYA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 200302
+data[0].nombre: AJOYANI
+data[1].ubigeo: 200303
+data[1].nombre: AYAPATA
+data[2].ubigeo: 200304
+data[2].nombre: COASA
+data[3].ubigeo: 200305
+data[3].nombre: CORANI
+data[4].ubigeo: 200306
+data[4].nombre: CRUCERO
+data[5].ubigeo: 200307
+data[5].nombre: ITUATA
+data[6].ubigeo: 200301
+data[6].nombre: MACUSANI
+data[7].ubigeo: 200308
+data[7].nombre: OLLACHEA
+data[8].ubigeo: 200309
+data[8].nombre: SAN GABÁN
+data[9].ubigeo: 200310
+data[9].nombre: USICAYOS

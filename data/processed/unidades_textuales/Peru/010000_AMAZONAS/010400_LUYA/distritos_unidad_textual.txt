@@ -1,0 +1,50 @@
+FUENTE: data/raw/ONPE_2026/Peru/010000_AMAZONAS/010400_LUYA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 010402
+data[0].nombre: CAMPORREDONDO
+data[1].ubigeo: 010403
+data[1].nombre: COCABAMBA
+data[2].ubigeo: 010404
+data[2].nombre: COLCAMAR
+data[3].ubigeo: 010405
+data[3].nombre: CONILA
+data[4].ubigeo: 010406
+data[4].nombre: INGUILPATA
+data[5].ubigeo: 010401
+data[5].nombre: LAMUD
+data[6].ubigeo: 010407
+data[6].nombre: LONGUITA
+data[7].ubigeo: 010408
+data[7].nombre: LONYA CHICO
+data[8].ubigeo: 010409
+data[8].nombre: LUYA
+data[9].ubigeo: 010410
+data[9].nombre: LUYA VIEJO
+data[10].ubigeo: 010411
+data[10].nombre: MARÍA
+data[11].ubigeo: 010412
+data[11].nombre: OCALLI
+data[12].ubigeo: 010413
+data[12].nombre: OCUMAL
+data[13].ubigeo: 010414
+data[13].nombre: PISUQUIA
+data[14].ubigeo: 010423
+data[14].nombre: PROVIDENCIA
+data[15].ubigeo: 010415
+data[15].nombre: SAN CRISTÓBAL
+data[16].ubigeo: 010416
+data[16].nombre: SAN FRANCISCO DEL YESO
+data[17].ubigeo: 010417
+data[17].nombre: SAN JERÓNIMO
+data[18].ubigeo: 010418
+data[18].nombre: SAN JUAN DE LOPECANCHA
+data[19].ubigeo: 010419
+data[19].nombre: SANTA CATALINA
+data[20].ubigeo: 010420
+data[20].nombre: SANTO TOMÁS
+data[21].ubigeo: 010421
+data[21].nombre: TINGO
+data[22].ubigeo: 010422
+data[22].nombre: TRITA

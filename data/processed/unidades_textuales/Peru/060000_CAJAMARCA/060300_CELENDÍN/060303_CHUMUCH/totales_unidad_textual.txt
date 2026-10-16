@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/060300_CELENDÍN/060303_CHUMUCH/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 10
+data.totalActas: 10
+data.participacionCiudadana: 42.873
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 1125
+data.totalVotosValidos: 823
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/230000_TUMBES/230100_TUMBES/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 230102
+data[0].nombre: CORRALES
+data[1].ubigeo: 230103
+data[1].nombre: LA CRUZ
+data[2].ubigeo: 230104
+data[2].nombre: PAMPAS DE HOSPITAL
+data[3].ubigeo: 230105
+data[3].nombre: SAN JACINTO
+data[4].ubigeo: 230106
+data[4].nombre: SAN JUAN DE LA VIRGEN
+data[5].ubigeo: 230101
+data[5].nombre: TUMBES

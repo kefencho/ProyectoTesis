@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/091100_YAROWILCA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 091102
+data[0].nombre: APARICIO POMARES
+data[1].ubigeo: 091103
+data[1].nombre: CAHUAC
+data[2].ubigeo: 091104
+data[2].nombre: CHACABAMBA
+data[3].ubigeo: 091101
+data[3].nombre: CHAVINILLO
+data[4].ubigeo: 091108
+data[4].nombre: CHORAS
+data[5].ubigeo: 091105
+data[5].nombre: JACAS CHICO
+data[6].ubigeo: 091106
+data[6].nombre: OBAS
+data[7].ubigeo: 091107
+data[7].nombre: PAMPAMARCA

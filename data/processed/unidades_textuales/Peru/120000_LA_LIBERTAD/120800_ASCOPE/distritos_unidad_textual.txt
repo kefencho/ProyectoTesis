@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/120800_ASCOPE/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 120801
+data[0].nombre: ASCOPE
+data[1].ubigeo: 120808
+data[1].nombre: CASA GRANDE
+data[2].ubigeo: 120802
+data[2].nombre: CHICAMA
+data[3].ubigeo: 120803
+data[3].nombre: CHOCOPE
+data[4].ubigeo: 120805
+data[4].nombre: MAGDALENA DE CAO
+data[5].ubigeo: 120806
+data[5].nombre: PAIJÁN
+data[6].ubigeo: 120807
+data[6].nombre: RÁZURI
+data[7].ubigeo: 120804
+data[7].nombre: SANTIAGO DE CAO

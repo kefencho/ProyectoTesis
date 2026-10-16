@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/160000_MADRE_DE_DIOS/160300_TAHUAMANÚ/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 37
+data.totalActas: 37
+data.participacionCiudadana: 66.204
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 6970
+data.totalVotosValidos: 4934
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

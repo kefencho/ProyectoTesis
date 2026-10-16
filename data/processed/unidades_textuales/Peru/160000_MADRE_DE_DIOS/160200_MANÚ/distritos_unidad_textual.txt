@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/160000_MADRE_DE_DIOS/160200_MANÚ/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 160202
+data[0].nombre: FITZCARRALD
+data[1].ubigeo: 160204
+data[1].nombre: HUEPETUHE
+data[2].ubigeo: 160203
+data[2].nombre: MADRE DE DIOS
+data[3].ubigeo: 160201
+data[3].nombre: MANÚ

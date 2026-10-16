@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/190000_PIURA/190500_PAITA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 190502
+data[0].nombre: AMOTAPE
+data[1].ubigeo: 190503
+data[1].nombre: ARENAL
+data[2].ubigeo: 190505
+data[2].nombre: COLÁN
+data[3].ubigeo: 190504
+data[3].nombre: LA HUACA
+data[4].ubigeo: 190501
+data[4].nombre: PAITA
+data[5].ubigeo: 190506
+data[5].nombre: TAMARINDO
+data[6].ubigeo: 190507
+data[6].nombre: VICHAYAL

@@ -1,0 +1,30 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/120600_PATAZ/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 120602
+data[0].nombre: BULDIBUYO
+data[1].ubigeo: 120603
+data[1].nombre: CHILLIA
+data[2].ubigeo: 120605
+data[2].nombre: HUANCASPATA
+data[3].ubigeo: 120604
+data[3].nombre: HUAYLILLAS
+data[4].ubigeo: 120606
+data[4].nombre: HUAYO
+data[5].ubigeo: 120607
+data[5].nombre: ONGON
+data[6].ubigeo: 120608
+data[6].nombre: PARCOY
+data[7].ubigeo: 120609
+data[7].nombre: PATAZ
+data[8].ubigeo: 120610
+data[8].nombre: PIÁS
+data[9].ubigeo: 120613
+data[9].nombre: SANTIAGO DE CHALLAS
+data[10].ubigeo: 120611
+data[10].nombre: TAURIJA
+data[11].ubigeo: 120601
+data[11].nombre: TAYABAMBA
+data[12].ubigeo: 120612
+data[12].nombre: URPAY

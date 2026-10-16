@@ -26,26 +26,31 @@ Los archivos JSON originales constituyen la fuente de datos, mientras que las un
 
 ```text
 ├── data/
-│   ├── raw/                  # JSON originales de ONPE
-|   ├── processed/            # Unidades textuales generadas
-│   └── evaluation/           # Afirmaciones y etiquetas de referencia
+│   ├── raw/                  
+│   │   └── ONPE_2026/
+│   │       └── Peru/                           # JSON originales descargados de ONPE
+|   ├── processed/              
+│   │   └── unidades_textuales/                 # Unidades textuales generadas
+│   └── evaluation/                             # Afirmaciones y etiquetas de referencia
 ├── notebooks/         
-│   ├── 01_exploracion_datos.ipynb               # Análisis exploratorio inicial
-│   └── 02_validacion_unidades_textuales.ipynb 
+│   ├── 01_exploracion_datos.ipynb              # Análisis exploratorio inicial
+│   └── 02_validacion_unidades_textuales.ipynb  # Validación de unidades textuales
+├── scripts/
+│   └── descargar_onpe.sh                       # Descarga de datos oficiales de ONPE
 ├── src/               
-│   ├── ingesta.py            # Lectura de JSON
-│   ├── generar_unidades.py   # Generación de unidades textuales
+│   ├── data/
+│   │   └── generar_unidades.py                 # Conversión de JSON a texto
 │   ├── retrieval/
-│   │   ├── bm25.py           # Recuperación léxica
-│   │   ├── semantic.py       # Recuperación semántica
-│   │   └── hybrid.py         # Recuperación híbrida
+│   │   ├── bm25.py                             # Recuperación léxica
+│   │   ├── semantic.py                         # Recuperación semántica
+│   │   └── hybrid.py                           # Recuperación híbrida
 │   ├── verification/
-│   │   └── llm_verifier.py   # Verificación mediante LLM
+│   │   └── llm_verifier.py                     # Verificación mediante LLM
 │   └── evaluation/
-│       └── metrics.py        # Métricas de evaluación         
-├── logs/                     # Archivos de logging
-├── results/                  # Predicciones y métricas
-├── slides/                   # Presentaciones de resultados
+│       └── metrics.py                          # Métricas de evaluación         
+├── logs/                                       # Archivos de logging
+├── results/                                    # Predicciones y métricas
+├── slides/                                     # Presentaciones de resultados
 ├── .gitignore
 ├── README.md
 └── requirements.txt
@@ -55,9 +60,40 @@ Los archivos JSON originales constituyen la fuente de datos, mientras que las un
 ## ⚙️ Requisitos
 
 El proyecto utilizará Python y las bibliotecas necesarias para procesar los datos, implementar las estrategias de recuperación y evaluar los resultados.
-Instalar las dependencias mediante pip:
+
+**1. Verificar Python**
+
 ```bash
-pip install -r requirements.txt
+python --version
+```
+
+**2. Crear el entorno virtual**
+
+```bash
+python -m venv .venv
+```
+
+**3. Activar el entorno virtual en Windows PowerShell**
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
+
+Si utilizas **Git Bash**, activa el entorno con:
+
+```bash
+source .venv/Scripts/activate
+```
+
+**4. Actualizar pip (opcional, recomendado)**
+
+```bash
+python -m pip install --upgrade pip
+```
+
+**5. Instalar las dependencias del proyecto**
+```bash
+python -m pip install -r requirements.txt
 ```
 
 La lista definitiva de dependencias y las versiones compatibles se documentarán en requirements.txt.

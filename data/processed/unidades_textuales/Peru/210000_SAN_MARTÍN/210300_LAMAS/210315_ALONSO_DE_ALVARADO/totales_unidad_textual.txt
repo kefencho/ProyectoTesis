@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/210000_SAN_MARTÍN/210300_LAMAS/210315_ALONSO_DE_ALVARADO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 41
+data.totalActas: 41
+data.participacionCiudadana: 72.465
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 8632
+data.totalVotosValidos: 5948
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

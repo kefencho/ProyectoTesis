@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/200500_HUANCANÉ/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 200502
+data[0].nombre: COJATA
+data[1].ubigeo: 200501
+data[1].nombre: HUANCANÉ
+data[2].ubigeo: 200511
+data[2].nombre: HUATASANI
+data[3].ubigeo: 200504
+data[3].nombre: INCHUPALLA
+data[4].ubigeo: 200506
+data[4].nombre: PUSI
+data[5].ubigeo: 200507
+data[5].nombre: ROSASPATA
+data[6].ubigeo: 200508
+data[6].nombre: TARACO
+data[7].ubigeo: 200509
+data[7].nombre: VILQUE CHICO

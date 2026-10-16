@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/130000_LAMBAYEQUE/130100_CHICLAYO/130113_SANTA_ROSA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 35
+data.totalActas: 35
+data.participacionCiudadana: 69.802
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 7110
+data.totalVotosValidos: 5846
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

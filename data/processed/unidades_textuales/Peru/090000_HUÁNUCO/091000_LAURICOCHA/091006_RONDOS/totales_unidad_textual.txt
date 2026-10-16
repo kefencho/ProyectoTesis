@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/091000_LAURICOCHA/091006_RONDOS/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 17
+data.totalActas: 17
+data.participacionCiudadana: 51.678
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 2310
+data.totalVotosValidos: 1830
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

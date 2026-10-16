@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/020700_HUAYLAS/020708_SANTA_CRUZ/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 16
+data.totalActas: 16
+data.participacionCiudadana: 73.106
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 3262
+data.totalVotosValidos: 1961
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

@@ -1,0 +1,30 @@
+FUENTE: data/raw/ONPE_2026/Peru/040000_AREQUIPA/040400_CARAVELÍ/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 040402
+data[0].nombre: ACARI
+data[1].ubigeo: 040403
+data[1].nombre: ATICO
+data[2].ubigeo: 040404
+data[2].nombre: ATIQUIPA
+data[3].ubigeo: 040405
+data[3].nombre: BELLA UNIÓN
+data[4].ubigeo: 040406
+data[4].nombre: CAHUACHO
+data[5].ubigeo: 040401
+data[5].nombre: CARAVELÍ
+data[6].ubigeo: 040407
+data[6].nombre: CHALA
+data[7].ubigeo: 040408
+data[7].nombre: CHAPARRA
+data[8].ubigeo: 040409
+data[8].nombre: HUANUHUANU
+data[9].ubigeo: 040410
+data[9].nombre: JAQUI
+data[10].ubigeo: 040411
+data[10].nombre: LOMAS
+data[11].ubigeo: 040412
+data[11].nombre: QUICACHA
+data[12].ubigeo: 040413
+data[12].nombre: YAUCA

@@ -1,0 +1,34 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/110200_CONCEPCIÓN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 110202
+data[0].nombre: ACO
+data[1].ubigeo: 110203
+data[1].nombre: ANDAMARCA
+data[2].ubigeo: 110206
+data[2].nombre: CHAMBARA
+data[3].ubigeo: 110205
+data[3].nombre: COCHAS
+data[4].ubigeo: 110204
+data[4].nombre: COMAS
+data[5].ubigeo: 110201
+data[5].nombre: CONCEPCIÓN
+data[6].ubigeo: 110207
+data[6].nombre: HEROÍNAS TOLEDO
+data[7].ubigeo: 110208
+data[7].nombre: MANZANARES
+data[8].ubigeo: 110209
+data[8].nombre: MARISCAL CASTILLA
+data[9].ubigeo: 110210
+data[9].nombre: MATAHUASI
+data[10].ubigeo: 110211
+data[10].nombre: MITO
+data[11].ubigeo: 110212
+data[11].nombre: NUEVE DE JULIO
+data[12].ubigeo: 110213
+data[12].nombre: ORCOTUNA
+data[13].ubigeo: 110215
+data[13].nombre: SAN JOSÉ DE QUERO
+data[14].ubigeo: 110214
+data[14].nombre: SANTA ROSA DE OCOPA

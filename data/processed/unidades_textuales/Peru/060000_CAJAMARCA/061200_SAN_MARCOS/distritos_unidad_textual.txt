@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/061200_SAN_MARCOS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 061207
+data[0].nombre: CHANCAY
+data[1].ubigeo: 061205
+data[1].nombre: EDUARDO VILLANUEVA
+data[2].ubigeo: 061203
+data[2].nombre: GREGORIO PITA
+data[3].ubigeo: 061202
+data[3].nombre: ICHOCÁN
+data[4].ubigeo: 061204
+data[4].nombre: JOSÉ MANUEL QUIRÓZ
+data[5].ubigeo: 061206
+data[5].nombre: JOSÉ SABOGAL
+data[6].ubigeo: 061201
+data[6].nombre: PEDRO GÁLVEZ

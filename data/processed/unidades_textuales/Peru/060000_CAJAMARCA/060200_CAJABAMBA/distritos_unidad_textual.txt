@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/060200_CAJABAMBA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 060202
+data[0].nombre: CACHACHI
+data[1].ubigeo: 060201
+data[1].nombre: CAJABAMBA
+data[2].ubigeo: 060203
+data[2].nombre: CONDEBAMBA
+data[3].ubigeo: 060205
+data[3].nombre: SITACOCHA

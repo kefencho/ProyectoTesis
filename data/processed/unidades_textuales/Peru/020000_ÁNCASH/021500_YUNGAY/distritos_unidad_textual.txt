@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/021500_YUNGAY/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 021502
+data[0].nombre: CASCAPARA
+data[1].ubigeo: 021503
+data[1].nombre: MANCOS
+data[2].ubigeo: 021504
+data[2].nombre: MATACOTO
+data[3].ubigeo: 021505
+data[3].nombre: QUILLO
+data[4].ubigeo: 021506
+data[4].nombre: RANRAHIRCA
+data[5].ubigeo: 021507
+data[5].nombre: SHUPLUY
+data[6].ubigeo: 021508
+data[6].nombre: YANAMA
+data[7].ubigeo: 021501
+data[7].nombre: YUNGAY

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/200900_SAN_ROMÁN/200904_CARACOTO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 39
+data.totalActas: 39
+data.participacionCiudadana: 87.738
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 9831
+data.totalVotosValidos: 8280
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

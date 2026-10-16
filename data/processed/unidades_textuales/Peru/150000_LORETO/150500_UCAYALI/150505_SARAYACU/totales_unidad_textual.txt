@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/150000_LORETO/150500_UCAYALI/150505_SARAYACU/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 39
+data.totalActas: 39
+data.participacionCiudadana: 37.249
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 4024
+data.totalVotosValidos: 2807
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

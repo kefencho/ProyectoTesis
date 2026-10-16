@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/030000_APURÍMAC/030100_ABANCAY/030101_ABANCAY/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 162
+data.totalActas: 162
+data.participacionCiudadana: 76.133
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 35975
+data.totalVotosValidos: 30776
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

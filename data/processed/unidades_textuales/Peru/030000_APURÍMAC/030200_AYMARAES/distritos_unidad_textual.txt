@@ -1,0 +1,38 @@
+FUENTE: data/raw/ONPE_2026/Peru/030000_APURÍMAC/030200_AYMARAES/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 030202
+data[0].nombre: CAPAYA
+data[1].ubigeo: 030203
+data[1].nombre: CARAYBAMBA
+data[2].ubigeo: 030201
+data[2].nombre: CHALHUANCA
+data[3].ubigeo: 030206
+data[3].nombre: CHAPIMARCA
+data[4].ubigeo: 030204
+data[4].nombre: COLCABAMBA
+data[5].ubigeo: 030205
+data[5].nombre: COTARUSE
+data[6].ubigeo: 030207
+data[6].nombre: IHUAYLLO
+data[7].ubigeo: 030217
+data[7].nombre: JUSTO APU SAHUARAURA
+data[8].ubigeo: 030208
+data[8].nombre: LUCRE
+data[9].ubigeo: 030209
+data[9].nombre: POCOHUANCA
+data[10].ubigeo: 030216
+data[10].nombre: SAN JUAN DE CHACÑA
+data[11].ubigeo: 030210
+data[11].nombre: SAÑAYCA
+data[12].ubigeo: 030211
+data[12].nombre: SORAYA
+data[13].ubigeo: 030212
+data[13].nombre: TAPAIRIHUA
+data[14].ubigeo: 030213
+data[14].nombre: TINTAY
+data[15].ubigeo: 030214
+data[15].nombre: TORAYA
+data[16].ubigeo: 030215
+data[16].nombre: YANACA

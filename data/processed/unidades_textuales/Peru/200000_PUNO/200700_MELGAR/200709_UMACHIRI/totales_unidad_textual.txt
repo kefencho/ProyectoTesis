@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/200700_MELGAR/200709_UMACHIRI/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 11
+data.totalActas: 11
+data.participacionCiudadana: 83.675
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 2691
+data.totalVotosValidos: 2301
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/090600_LEONCIO_PRADO/090605_MARIANO_DÁMASO_BERAÚN/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 38
+data.totalActas: 38
+data.participacionCiudadana: 70.766
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 7618
+data.totalVotosValidos: 5598
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/140000_LIMA/140100_LIMA/140110_LA_MOLINA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 571
+data.totalActas: 571
+data.participacionCiudadana: 78.637
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 134055
+data.totalVotosValidos: 126023
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

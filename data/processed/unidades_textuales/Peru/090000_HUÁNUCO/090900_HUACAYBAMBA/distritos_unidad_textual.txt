@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/090900_HUACAYBAMBA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 090903
+data[0].nombre: CANCHABAMBA
+data[1].ubigeo: 090904
+data[1].nombre: COCHABAMBA
+data[2].ubigeo: 090901
+data[2].nombre: HUACAYBAMBA
+data[3].ubigeo: 090902
+data[3].nombre: PINRA

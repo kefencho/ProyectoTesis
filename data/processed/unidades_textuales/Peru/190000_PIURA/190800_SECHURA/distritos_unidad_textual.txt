@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/190000_PIURA/190800_SECHURA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 190804
+data[0].nombre: BELLAVISTA DE LA UNIÓN
+data[1].ubigeo: 190803
+data[1].nombre: BERNAL
+data[2].ubigeo: 190805
+data[2].nombre: CRISTO NOS VALGA
+data[3].ubigeo: 190806
+data[3].nombre: RINCONADA LLICUAR
+data[4].ubigeo: 190801
+data[4].nombre: SECHURA
+data[5].ubigeo: 190802
+data[5].nombre: VICE

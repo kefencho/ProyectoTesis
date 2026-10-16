@@ -1,0 +1,60 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/110100_HUANCAYO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 110103
+data[0].nombre: CARHUACALLANGA
+data[1].ubigeo: 110106
+data[1].nombre: CHACAPAMPA
+data[2].ubigeo: 110107
+data[2].nombre: CHICCHE
+data[3].ubigeo: 110108
+data[3].nombre: CHILCA
+data[4].ubigeo: 110109
+data[4].nombre: CHONGOS ALTO
+data[5].ubigeo: 110112
+data[5].nombre: CHUPURO
+data[6].ubigeo: 110104
+data[6].nombre: COLCA
+data[7].ubigeo: 110105
+data[7].nombre: CULLHUAS
+data[8].ubigeo: 110113
+data[8].nombre: EL TAMBO
+data[9].ubigeo: 110114
+data[9].nombre: HUACRAPUQUIO
+data[10].ubigeo: 110116
+data[10].nombre: HUALHUAS
+data[11].ubigeo: 110118
+data[11].nombre: HUANCAN
+data[12].ubigeo: 110101
+data[12].nombre: HUANCAYO
+data[13].ubigeo: 110119
+data[13].nombre: HUASICANCHA
+data[14].ubigeo: 110120
+data[14].nombre: HUAYUCACHI
+data[15].ubigeo: 110121
+data[15].nombre: INGENIO
+data[16].ubigeo: 110122
+data[16].nombre: PARIAHUANCA
+data[17].ubigeo: 110123
+data[17].nombre: PILCOMAYO
+data[18].ubigeo: 110124
+data[18].nombre: PUCARA
+data[19].ubigeo: 110125
+data[19].nombre: QUICHUAY
+data[20].ubigeo: 110126
+data[20].nombre: QUILCAS
+data[21].ubigeo: 110127
+data[21].nombre: SAN AGUSTÍN
+data[22].ubigeo: 110128
+data[22].nombre: SAN JERÓNIMO DE TUNÁN
+data[23].ubigeo: 110131
+data[23].nombre: SANTO DOMINGO DE ACOBAMBA
+data[24].ubigeo: 110132
+data[24].nombre: SAÑO
+data[25].ubigeo: 110133
+data[25].nombre: SAPALLANGA
+data[26].ubigeo: 110134
+data[26].nombre: SICAYA
+data[27].ubigeo: 110136
+data[27].nombre: VIQUES

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/010000_AMAZONAS/010200_BAGUA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 250
+data.totalActas: 250
+data.participacionCiudadana: 59.994
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 41906
+data.totalVotosValidos: 32354
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

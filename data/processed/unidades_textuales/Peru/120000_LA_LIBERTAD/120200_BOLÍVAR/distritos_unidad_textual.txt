@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/120200_BOLÍVAR/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 120202
+data[0].nombre: BAMBAMARCA
+data[1].ubigeo: 120201
+data[1].nombre: BOLÍVAR
+data[2].ubigeo: 120203
+data[2].nombre: CONDORMARCA
+data[3].ubigeo: 120204
+data[3].nombre: LONGOTEA
+data[4].ubigeo: 120206
+data[4].nombre: UCHUMARCA
+data[5].ubigeo: 120205
+data[5].nombre: UCUNCHA

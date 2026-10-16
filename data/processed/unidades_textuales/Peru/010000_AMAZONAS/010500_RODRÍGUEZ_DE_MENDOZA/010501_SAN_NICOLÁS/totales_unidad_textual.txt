@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/010000_AMAZONAS/010500_RODRÍGUEZ_DE_MENDOZA/010501_SAN_NICOLÁS/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 15
+data.totalActas: 15
+data.participacionCiudadana: 66.838
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 2866
+data.totalVotosValidos: 2155
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

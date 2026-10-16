@@ -1,0 +1,34 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/050400_LA_MAR/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 050410
+data[0].nombre: ANCHIHUAY
+data[1].ubigeo: 050402
+data[1].nombre: ANCO
+data[2].ubigeo: 050403
+data[2].nombre: AYNA
+data[3].ubigeo: 050404
+data[3].nombre: CHILCAS
+data[4].ubigeo: 050405
+data[4].nombre: CHUNGUI
+data[5].ubigeo: 050407
+data[5].nombre: LUIS CARRANZA
+data[6].ubigeo: 050414
+data[6].nombre: NINABAMBA
+data[7].ubigeo: 050411
+data[7].nombre: ORONCCOY
+data[8].ubigeo: 050413
+data[8].nombre: PATIBAMBA
+data[9].ubigeo: 050415
+data[9].nombre: RÍO MAGDALENA
+data[10].ubigeo: 050409
+data[10].nombre: SAMUGARI
+data[11].ubigeo: 050401
+data[11].nombre: SAN MIGUEL
+data[12].ubigeo: 050408
+data[12].nombre: SANTA ROSA
+data[13].ubigeo: 050406
+data[13].nombre: TAMBO
+data[14].ubigeo: 050412
+data[14].nombre: UNIÓN PROGRESO

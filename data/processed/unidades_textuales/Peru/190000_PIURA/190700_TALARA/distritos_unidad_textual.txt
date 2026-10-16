@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/190000_PIURA/190700_TALARA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 190702
+data[0].nombre: EL ALTO
+data[1].ubigeo: 190703
+data[1].nombre: LA BREA
+data[2].ubigeo: 190704
+data[2].nombre: LOBITOS
+data[3].ubigeo: 190706
+data[3].nombre: LOS ÓRGANOS
+data[4].ubigeo: 190705
+data[4].nombre: MÁNCORA
+data[5].ubigeo: 190701
+data[5].nombre: PARIÑAS

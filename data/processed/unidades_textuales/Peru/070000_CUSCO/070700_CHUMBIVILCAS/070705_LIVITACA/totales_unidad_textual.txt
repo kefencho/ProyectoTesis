@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/070700_CHUMBIVILCAS/070705_LIVITACA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 39
+data.totalActas: 39
+data.participacionCiudadana: 67.561
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 7173
+data.totalVotosValidos: 5308
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

@@ -1,0 +1,22 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/090300_DOS_DE_MAYO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 090307
+data[0].nombre: CHUQUIS
+data[1].ubigeo: 090301
+data[1].nombre: LA UNIÓN
+data[2].ubigeo: 090312
+data[2].nombre: MARÍAS
+data[3].ubigeo: 090314
+data[3].nombre: PACHAS
+data[4].ubigeo: 090316
+data[4].nombre: QUIVILLA
+data[5].ubigeo: 090317
+data[5].nombre: RIPÁN
+data[6].ubigeo: 090321
+data[6].nombre: SHUNQUI
+data[7].ubigeo: 090322
+data[7].nombre: SILLAPATA
+data[8].ubigeo: 090323
+data[8].nombre: YANAS

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/110100_HUANCAYO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 1588
+data.totalActas: 1588
+data.participacionCiudadana: 77.794
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 361855
+data.totalVotosValidos: 310286
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

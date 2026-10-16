@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/050200_CANGALLO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 050201
+data[0].nombre: CANGALLO
+data[1].ubigeo: 050204
+data[1].nombre: CHUSCHI
+data[2].ubigeo: 050206
+data[2].nombre: LOS MOROCHUCOS
+data[3].ubigeo: 050211
+data[3].nombre: MARÍA PARADO DE BELLIDO
+data[4].ubigeo: 050207
+data[4].nombre: PARAS
+data[5].ubigeo: 050208
+data[5].nombre: TOTOS

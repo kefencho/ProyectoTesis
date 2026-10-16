@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/120700_SANTIAGO_DE_CHUCO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 120708
+data[0].nombre: ANGASMARCA
+data[1].ubigeo: 120702
+data[1].nombre: CACHICADAN
+data[2].ubigeo: 120703
+data[2].nombre: MOLLEBAMBA
+data[3].ubigeo: 120704
+data[3].nombre: MOLLEPATA
+data[4].ubigeo: 120705
+data[4].nombre: QUIRUVILCA
+data[5].ubigeo: 120706
+data[5].nombre: SANTA CRUZ DE CHUCA
+data[6].ubigeo: 120701
+data[6].nombre: SANTIAGO DE CHUCO
+data[7].ubigeo: 120707
+data[7].nombre: SITABAMBA

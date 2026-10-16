@@ -1,0 +1,30 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 060200
+data[0].nombre: CAJABAMBA
+data[1].ubigeo: 060100
+data[1].nombre: CAJAMARCA
+data[2].ubigeo: 060300
+data[2].nombre: CELENDÍN
+data[3].ubigeo: 060600
+data[3].nombre: CHOTA
+data[4].ubigeo: 060400
+data[4].nombre: CONTUMAZA
+data[5].ubigeo: 060500
+data[5].nombre: CUTERVO
+data[6].ubigeo: 060700
+data[6].nombre: HUALGAYOC
+data[7].ubigeo: 060800
+data[7].nombre: JAÉN
+data[8].ubigeo: 061100
+data[8].nombre: SAN IGNACIO
+data[9].ubigeo: 061200
+data[9].nombre: SAN MARCOS
+data[10].ubigeo: 061000
+data[10].nombre: SAN MIGUEL
+data[11].ubigeo: 061300
+data[11].nombre: SAN PABLO
+data[12].ubigeo: 060900
+data[12].nombre: SANTA CRUZ

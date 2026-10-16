@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/090800_PUERTO_INCA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 090803
+data[0].nombre: CODO DEL POZUZO
+data[1].ubigeo: 090801
+data[1].nombre: HONORIA
+data[2].ubigeo: 090802
+data[2].nombre: PUERTO INCA
+data[3].ubigeo: 090804
+data[3].nombre: TOURNAVISTA
+data[4].ubigeo: 090805
+data[4].nombre: YUYAPICHIS

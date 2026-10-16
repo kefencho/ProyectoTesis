@@ -1,0 +1,26 @@
+FUENTE: data/raw/ONPE_2026/Peru/220000_TACNA/220100_TACNA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 220111
+data[0].nombre: ALTO DE LA ALIANZA
+data[1].ubigeo: 220102
+data[1].nombre: CALANA
+data[2].ubigeo: 220112
+data[2].nombre: CIUDAD NUEVA
+data[3].ubigeo: 220113
+data[3].nombre: CORONEL GREGORIO ALBARRACÍN LANCHIPA
+data[4].ubigeo: 220104
+data[4].nombre: INCLÁN
+data[5].ubigeo: 220114
+data[5].nombre: LA YARADA LOS PALOS
+data[6].ubigeo: 220107
+data[6].nombre: PACHIA
+data[7].ubigeo: 220108
+data[7].nombre: PALCA
+data[8].ubigeo: 220109
+data[8].nombre: POCOLLAY
+data[9].ubigeo: 220110
+data[9].nombre: SAMA
+data[10].ubigeo: 220101
+data[10].nombre: TACNA

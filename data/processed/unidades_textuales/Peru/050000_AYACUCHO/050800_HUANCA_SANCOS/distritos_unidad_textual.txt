@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/050800_HUANCA_SANCOS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 050804
+data[0].nombre: CARAPO
+data[1].ubigeo: 050802
+data[1].nombre: SACSAMARCA
+data[2].ubigeo: 050801
+data[2].nombre: SANCOS
+data[3].ubigeo: 050803
+data[3].nombre: SANTIAGO DE LUCANAMARCA

@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/030000_APURÍMAC/030500_COTABAMBAS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 030506
+data[0].nombre: CHALLHUAHUACHO
+data[1].ubigeo: 030503
+data[1].nombre: COTABAMBAS
+data[2].ubigeo: 030502
+data[2].nombre: COYLLURQUI
+data[3].ubigeo: 030504
+data[3].nombre: HAQUIRA
+data[4].ubigeo: 030505
+data[4].nombre: MARA
+data[5].ubigeo: 030501
+data[5].nombre: TAMBOBAMBA

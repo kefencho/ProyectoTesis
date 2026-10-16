@@ -1,0 +1,26 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 090200
+data[0].nombre: AMBO
+data[1].ubigeo: 090300
+data[1].nombre: DOS DE MAYO
+data[2].ubigeo: 090900
+data[2].nombre: HUACAYBAMBA
+data[3].ubigeo: 090400
+data[3].nombre: HUAMALIES
+data[4].ubigeo: 090100
+data[4].nombre: HUÁNUCO
+data[5].ubigeo: 091000
+data[5].nombre: LAURICOCHA
+data[6].ubigeo: 090600
+data[6].nombre: LEONCIO PRADO
+data[7].ubigeo: 090500
+data[7].nombre: MARAÑÓN
+data[8].ubigeo: 090700
+data[8].nombre: PACHITEA
+data[9].ubigeo: 090800
+data[9].nombre: PUERTO INCA
+data[10].ubigeo: 091100
+data[10].nombre: YAROWILCA

@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/060400_CONTUMAZA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 060403
+data[0].nombre: CHILETE
+data[1].ubigeo: 060401
+data[1].nombre: CONTUMAZA
+data[2].ubigeo: 060406
+data[2].nombre: CUPISNIQUE
+data[3].ubigeo: 060404
+data[3].nombre: GUZMANGO
+data[4].ubigeo: 060405
+data[4].nombre: SAN BENITO
+data[5].ubigeo: 060409
+data[5].nombre: SANTA CRUZ DE TOLED
+data[6].ubigeo: 060407
+data[6].nombre: TANTARICA
+data[7].ubigeo: 060408
+data[7].nombre: YONÁN

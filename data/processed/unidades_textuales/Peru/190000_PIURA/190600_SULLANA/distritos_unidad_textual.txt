@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/190000_PIURA/190600_SULLANA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 190602
+data[0].nombre: BELLAVISTA
+data[1].ubigeo: 190608
+data[1].nombre: IGNACIO ESCUDERO
+data[2].ubigeo: 190603
+data[2].nombre: LANCONES
+data[3].ubigeo: 190604
+data[3].nombre: MARCAVELICA
+data[4].ubigeo: 190605
+data[4].nombre: MIGUEL CHECA
+data[5].ubigeo: 190606
+data[5].nombre: QUERECOTILLO
+data[6].ubigeo: 190607
+data[6].nombre: SALITRAL
+data[7].ubigeo: 190601
+data[7].nombre: SULLANA

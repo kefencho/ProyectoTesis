@@ -1,0 +1,13 @@
+﻿tipo,campo,unidades_revisadas,unidades_con_campo,porcentaje_con_campo
+catalogos,nombre,222,222,100.0
+catalogos,ubigeo,222,222,100.0
+participantes,nombreAgrupacionPolitica,2114,2114,100.0
+participantes,nombreCandidato,2114,2114,100.0
+participantes,porcentajeVotosEmitidos,2114,2114,100.0
+participantes,porcentajeVotosValidos,2114,2114,100.0
+participantes,totalVotosValidos,2114,2114,100.0
+totales,actasContabilizadas,2114,2114,100.0
+totales,participacionCiudadana,2114,2114,100.0
+totales,totalActas,2114,2114,100.0
+totales,totalVotosEmitidos,2114,2114,100.0
+totales,totalVotosValidos,2114,2114,100.0

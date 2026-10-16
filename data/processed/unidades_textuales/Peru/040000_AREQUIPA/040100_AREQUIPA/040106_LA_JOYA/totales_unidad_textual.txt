@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/040000_AREQUIPA/040100_AREQUIPA/040106_LA_JOYA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 98
+data.totalActas: 98
+data.participacionCiudadana: 84.064
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 23933
+data.totalVotosValidos: 20213
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

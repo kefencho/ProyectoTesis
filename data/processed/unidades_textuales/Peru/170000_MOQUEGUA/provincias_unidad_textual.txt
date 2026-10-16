@@ -1,0 +1,10 @@
+FUENTE: data/raw/ONPE_2026/Peru/170000_MOQUEGUA/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 170200
+data[0].nombre: GENERAL SÁNCHEZ CERRO
+data[1].ubigeo: 170300
+data[1].nombre: ILO
+data[2].ubigeo: 170100
+data[2].nombre: MARISCAL NIETO

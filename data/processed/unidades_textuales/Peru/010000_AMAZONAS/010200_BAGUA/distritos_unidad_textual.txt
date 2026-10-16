@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/010000_AMAZONAS/010200_BAGUA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 010202
+data[0].nombre: ARAMANGO
+data[1].ubigeo: 010205
+data[1].nombre: BAGUA
+data[2].ubigeo: 010203
+data[2].nombre: COPALLIN
+data[3].ubigeo: 010204
+data[3].nombre: EL PARCO
+data[4].ubigeo: 010206
+data[4].nombre: IMAZA
+data[5].ubigeo: 010201
+data[5].nombre: LA PECA

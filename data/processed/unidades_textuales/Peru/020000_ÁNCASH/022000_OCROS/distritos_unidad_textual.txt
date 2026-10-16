@@ -1,0 +1,24 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/022000_OCROS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 022001
+data[0].nombre: ACAS
+data[1].ubigeo: 022002
+data[1].nombre: CAJAMARQUILLA
+data[2].ubigeo: 022003
+data[2].nombre: CARHUAPAMPA
+data[3].ubigeo: 022004
+data[3].nombre: COCHAS
+data[4].ubigeo: 022005
+data[4].nombre: CONGAS
+data[5].ubigeo: 022006
+data[5].nombre: LLIPA
+data[6].ubigeo: 022007
+data[6].nombre: OCROS
+data[7].ubigeo: 022008
+data[7].nombre: SAN CRISTÓBAL DE RAJAN
+data[8].ubigeo: 022009
+data[8].nombre: SAN PEDRO
+data[9].ubigeo: 022010
+data[9].nombre: SANTIAGO DE CHILCAS

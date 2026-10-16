@@ -1,0 +1,24 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/200600_LAMPA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 200602
+data[0].nombre: CABANILLA
+data[1].ubigeo: 200603
+data[1].nombre: CALAPUJA
+data[2].ubigeo: 200601
+data[2].nombre: LAMPA
+data[3].ubigeo: 200604
+data[3].nombre: NICASIO
+data[4].ubigeo: 200605
+data[4].nombre: OCUVIRI
+data[5].ubigeo: 200606
+data[5].nombre: PALCA
+data[6].ubigeo: 200607
+data[6].nombre: PARATIA
+data[7].ubigeo: 200608
+data[7].nombre: PUCARA
+data[8].ubigeo: 200609
+data[8].nombre: SANTA LUCÍA
+data[9].ubigeo: 200610
+data[9].nombre: VILAVILA

@@ -1,0 +1,22 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/110500_TARMA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 110502
+data[0].nombre: ACOBAMBA
+data[1].ubigeo: 110503
+data[1].nombre: HUARICOLCA
+data[2].ubigeo: 110504
+data[2].nombre: HUASAHUASI
+data[3].ubigeo: 110505
+data[3].nombre: LA UNIÓN
+data[4].ubigeo: 110506
+data[4].nombre: PALCA
+data[5].ubigeo: 110507
+data[5].nombre: PALCAMAYO
+data[6].ubigeo: 110508
+data[6].nombre: SAN PEDRO DE CAJAS
+data[7].ubigeo: 110509
+data[7].nombre: TAPO
+data[8].ubigeo: 110501
+data[8].nombre: TARMA

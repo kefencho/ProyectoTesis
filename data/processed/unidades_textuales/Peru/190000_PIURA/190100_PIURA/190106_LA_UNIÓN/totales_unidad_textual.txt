@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/190000_PIURA/190100_PIURA/190106_LA_UNIÓN/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 108
+data.totalActas: 108
+data.participacionCiudadana: 77.948
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 24796
+data.totalVotosValidos: 18524
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

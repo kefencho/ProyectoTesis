@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/140000_LIMA/140600_HUAROCHIRÍ/140628_SANTO_DOMINGO_DE_LOS_OLLEROS/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 21
+data.totalActas: 21
+data.participacionCiudadana: 58.29
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 3164
+data.totalVotosValidos: 2677
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

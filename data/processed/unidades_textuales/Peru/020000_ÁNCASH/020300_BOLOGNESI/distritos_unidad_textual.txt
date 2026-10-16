@@ -1,0 +1,34 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/020300_BOLOGNESI/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 020302
+data[0].nombre: ABELARDO PARDO LEZAMETA
+data[1].ubigeo: 020321
+data[1].nombre: ANTONIO RAYMONDI
+data[2].ubigeo: 020304
+data[2].nombre: AQUIA
+data[3].ubigeo: 020305
+data[3].nombre: CAJACAY
+data[4].ubigeo: 020322
+data[4].nombre: CANIS
+data[5].ubigeo: 020301
+data[5].nombre: CHIQUIAN
+data[6].ubigeo: 020323
+data[6].nombre: COLQUIOC
+data[7].ubigeo: 020325
+data[7].nombre: HUALLANCA
+data[8].ubigeo: 020311
+data[8].nombre: HUASTA
+data[9].ubigeo: 020310
+data[9].nombre: HUAYLLACAYAN
+data[10].ubigeo: 020324
+data[10].nombre: LA PRIMAVERA
+data[11].ubigeo: 020313
+data[11].nombre: MANGAS
+data[12].ubigeo: 020315
+data[12].nombre: PACLLON
+data[13].ubigeo: 020317
+data[13].nombre: SAN MIGUEL DE CORPANQUI
+data[14].ubigeo: 020320
+data[14].nombre: TICLLOS

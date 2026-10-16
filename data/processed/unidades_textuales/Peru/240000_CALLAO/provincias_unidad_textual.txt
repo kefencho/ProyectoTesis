@@ -1,0 +1,6 @@
+FUENTE: data/raw/ONPE_2026/Peru/240000_CALLAO/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 240100
+data[0].nombre: CALLAO

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/190000_PIURA/190200_AYABACA/190201_AYABACA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 99
+data.totalActas: 99
+data.participacionCiudadana: 41.23
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 11483
+data.totalVotosValidos: 8354
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

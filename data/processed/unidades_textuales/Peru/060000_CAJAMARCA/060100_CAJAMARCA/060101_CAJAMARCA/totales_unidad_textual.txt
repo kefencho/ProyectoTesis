@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/060100_CAJAMARCA/060101_CAJAMARCA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 593
+data.totalActas: 593
+data.participacionCiudadana: 80.616
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 140575
+data.totalVotosValidos: 117510
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

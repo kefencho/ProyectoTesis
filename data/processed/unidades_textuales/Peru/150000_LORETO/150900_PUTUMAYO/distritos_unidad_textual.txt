@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/150000_LORETO/150900_PUTUMAYO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 150901
+data[0].nombre: PUTUMAYO
+data[1].ubigeo: 150902
+data[1].nombre: ROSA PANDURO
+data[2].ubigeo: 150903
+data[2].nombre: TENIENTE MANUEL CLAVERO
+data[3].ubigeo: 150904
+data[3].nombre: YAGUAS

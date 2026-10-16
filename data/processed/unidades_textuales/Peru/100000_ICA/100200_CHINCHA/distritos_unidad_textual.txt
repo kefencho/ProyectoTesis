@@ -1,0 +1,26 @@
+FUENTE: data/raw/ONPE_2026/Peru/100000_ICA/100200_CHINCHA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 100209
+data[0].nombre: ALTO LARAN
+data[1].ubigeo: 100202
+data[1].nombre: CHAVÍN
+data[2].ubigeo: 100201
+data[2].nombre: CHINCHA ALTA
+data[3].ubigeo: 100203
+data[3].nombre: CHINCHA BAJA
+data[4].ubigeo: 100204
+data[4].nombre: EL CARMEN
+data[5].ubigeo: 100205
+data[5].nombre: GROCIO PRADO
+data[6].ubigeo: 100210
+data[6].nombre: PUEBLO NUEVO
+data[7].ubigeo: 100211
+data[7].nombre: SAN JUAN DE YANAC
+data[8].ubigeo: 100206
+data[8].nombre: SAN PEDRO DE HUACARPANA
+data[9].ubigeo: 100207
+data[9].nombre: SUNAMPE
+data[10].ubigeo: 100208
+data[10].nombre: TAMBO DE MORA

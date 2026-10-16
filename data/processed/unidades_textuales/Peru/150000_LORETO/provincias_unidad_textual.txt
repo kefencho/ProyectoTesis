@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/150000_LORETO/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 150200
+data[0].nombre: ALTO AMAZONAS
+data[1].ubigeo: 150700
+data[1].nombre: DATEM DEL MARAÑÓN
+data[2].ubigeo: 150300
+data[2].nombre: LORETO
+data[3].ubigeo: 150600
+data[3].nombre: MARISCAL RAMÓN CASTILLA
+data[4].ubigeo: 150100
+data[4].nombre: MAYNAS
+data[5].ubigeo: 150900
+data[5].nombre: PUTUMAYO
+data[6].ubigeo: 150400
+data[6].nombre: REQUENA
+data[7].ubigeo: 150500
+data[7].nombre: UCAYALI

@@ -1,0 +1,22 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/021300_SANTA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 021302
+data[0].nombre: CACERES DEL PERÚ
+data[1].ubigeo: 021301
+data[1].nombre: CHIMBOTE
+data[2].ubigeo: 021308
+data[2].nombre: COISHCO
+data[3].ubigeo: 021303
+data[3].nombre: MACATE
+data[4].ubigeo: 021304
+data[4].nombre: MORO
+data[5].ubigeo: 021305
+data[5].nombre: NEPEÑA
+data[6].ubigeo: 021309
+data[6].nombre: NUEVO CHIMBOTE
+data[7].ubigeo: 021306
+data[7].nombre: SAMANCO
+data[8].ubigeo: 021307
+data[8].nombre: SANTA

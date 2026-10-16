@@ -1,0 +1,24 @@
+FUENTE: data/raw/ONPE_2026/Peru/190000_PIURA/190200_AYABACA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 190201
+data[0].nombre: AYABACA
+data[1].ubigeo: 190202
+data[1].nombre: FRÍAS
+data[2].ubigeo: 190209
+data[2].nombre: JILILÍ
+data[3].ubigeo: 190203
+data[3].nombre: LAGUNAS
+data[4].ubigeo: 190204
+data[4].nombre: MONTERO
+data[5].ubigeo: 190205
+data[5].nombre: PACAIPAMPA
+data[6].ubigeo: 190210
+data[6].nombre: PAIMAS
+data[7].ubigeo: 190206
+data[7].nombre: SAPILLICA
+data[8].ubigeo: 190207
+data[8].nombre: SICCHEZ
+data[9].ubigeo: 190208
+data[9].nombre: SUYO

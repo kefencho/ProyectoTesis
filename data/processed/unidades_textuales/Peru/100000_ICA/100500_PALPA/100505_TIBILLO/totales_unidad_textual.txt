@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/100000_ICA/100500_PALPA/100505_TIBILLO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 2
+data.totalActas: 2
+data.participacionCiudadana: 65.8
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 329
+data.totalVotosValidos: 274
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

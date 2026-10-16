@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/050900_VILCAS_HUAMÁN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 050903
+data[0].nombre: ACCOMARCA
+data[1].ubigeo: 050904
+data[1].nombre: CARHUANCA
+data[2].ubigeo: 050905
+data[2].nombre: CONCEPCIÓN
+data[3].ubigeo: 050906
+data[3].nombre: HUAMBALPA
+data[4].ubigeo: 050908
+data[4].nombre: INDEPENDENCIA
+data[5].ubigeo: 050907
+data[5].nombre: SAURAMA
+data[6].ubigeo: 050901
+data[6].nombre: VILCAS HUAMÁN
+data[7].ubigeo: 050902
+data[7].nombre: VISCHONGO

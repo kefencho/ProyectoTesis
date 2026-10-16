@@ -1,0 +1,28 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/060800_JAÉN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 060802
+data[0].nombre: BELLAVISTA
+data[1].ubigeo: 060804
+data[1].nombre: CHONTALÍ
+data[2].ubigeo: 060803
+data[2].nombre: COLASAY
+data[3].ubigeo: 060812
+data[3].nombre: HUABAL
+data[4].ubigeo: 060801
+data[4].nombre: JAÉN
+data[5].ubigeo: 060811
+data[5].nombre: LAS PIRIAS
+data[6].ubigeo: 060805
+data[6].nombre: POMAHUACA
+data[7].ubigeo: 060806
+data[7].nombre: PUCARA
+data[8].ubigeo: 060807
+data[8].nombre: SALLIQUE
+data[9].ubigeo: 060808
+data[9].nombre: SAN FELIPE
+data[10].ubigeo: 060809
+data[10].nombre: SAN JOSÉ DEL ALTO
+data[11].ubigeo: 060810
+data[11].nombre: SANTA ROSA

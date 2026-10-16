@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/140000_LIMA/140300_CANTA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 140302
+data[0].nombre: ARAHUAY
+data[1].ubigeo: 140301
+data[1].nombre: CANTA
+data[2].ubigeo: 140303
+data[2].nombre: HUAMANTANGA
+data[3].ubigeo: 140304
+data[3].nombre: HUAROS
+data[4].ubigeo: 140305
+data[4].nombre: LACHAQUI
+data[5].ubigeo: 140306
+data[5].nombre: SAN BUENAVENTURA
+data[6].ubigeo: 140307
+data[6].nombre: SANTA ROSA DE QUIVES

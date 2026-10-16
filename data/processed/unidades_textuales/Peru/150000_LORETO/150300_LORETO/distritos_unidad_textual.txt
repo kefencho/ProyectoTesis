@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/150000_LORETO/150300_LORETO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 150301
+data[0].nombre: NAUTA
+data[1].ubigeo: 150302
+data[1].nombre: PARINARI
+data[2].ubigeo: 150303
+data[2].nombre: TIGRE
+data[3].ubigeo: 150305
+data[3].nombre: TROMPETEROS
+data[4].ubigeo: 150304
+data[4].nombre: URARINAS

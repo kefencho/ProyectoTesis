@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/020600_CORONGO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 020602
+data[0].nombre: ACO
+data[1].ubigeo: 020603
+data[1].nombre: BAMBAS
+data[2].ubigeo: 020601
+data[2].nombre: CORONGO
+data[3].ubigeo: 020604
+data[3].nombre: CUSCA
+data[4].ubigeo: 020605
+data[4].nombre: LA PAMPA
+data[5].ubigeo: 020606
+data[5].nombre: YANAC
+data[6].ubigeo: 020607
+data[6].nombre: YUPAN

@@ -1,0 +1,10 @@
+FUENTE: data/raw/ONPE_2026/Peru/170000_MOQUEGUA/170300_ILO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 170302
+data[0].nombre: EL ALGARROBAL
+data[1].ubigeo: 170301
+data[1].nombre: ILO
+data[2].ubigeo: 170303
+data[2].nombre: PACOCHA

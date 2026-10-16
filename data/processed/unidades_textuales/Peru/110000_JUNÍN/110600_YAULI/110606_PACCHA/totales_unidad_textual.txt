@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/110600_YAULI/110606_PACCHA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 5
+data.totalActas: 5
+data.participacionCiudadana: 75.272
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 1038
+data.totalVotosValidos: 863
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

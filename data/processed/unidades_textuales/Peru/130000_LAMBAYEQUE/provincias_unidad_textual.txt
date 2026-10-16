@@ -1,0 +1,10 @@
+FUENTE: data/raw/ONPE_2026/Peru/130000_LAMBAYEQUE/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 130100
+data[0].nombre: CHICLAYO
+data[1].ubigeo: 130200
+data[1].nombre: FERREÑAFE
+data[2].ubigeo: 130300
+data[2].nombre: LAMBAYEQUE

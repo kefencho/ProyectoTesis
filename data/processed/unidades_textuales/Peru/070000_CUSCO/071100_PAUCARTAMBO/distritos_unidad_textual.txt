@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/071100_PAUCARTAMBO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 071102
+data[0].nombre: CAICAY
+data[1].ubigeo: 071104
+data[1].nombre: CHALLABAMBA
+data[2].ubigeo: 071103
+data[2].nombre: COLQUEPATA
+data[3].ubigeo: 071106
+data[3].nombre: HUANCARANI
+data[4].ubigeo: 071105
+data[4].nombre: KOSÑIPATA
+data[5].ubigeo: 071101
+data[5].nombre: PAUCARTAMBO

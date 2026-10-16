@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/061100_SAN_IGNACIO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 061102
+data[0].nombre: CHIRINOS
+data[1].ubigeo: 061103
+data[1].nombre: HUARANGO
+data[2].ubigeo: 061105
+data[2].nombre: LA COIPA
+data[3].ubigeo: 061104
+data[3].nombre: NAMBALLE
+data[4].ubigeo: 061101
+data[4].nombre: SAN IGNACIO
+data[5].ubigeo: 061106
+data[5].nombre: SAN JOSÉ DE LOURDES
+data[6].ubigeo: 061107
+data[6].nombre: TABACONAS

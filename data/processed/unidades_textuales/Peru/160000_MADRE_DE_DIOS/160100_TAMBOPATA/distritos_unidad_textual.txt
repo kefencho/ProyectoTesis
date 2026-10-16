@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/160000_MADRE_DE_DIOS/160100_TAMBOPATA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 160102
+data[0].nombre: INAMBARI
+data[1].ubigeo: 160104
+data[1].nombre: LABERINTO
+data[2].ubigeo: 160103
+data[2].nombre: LAS PIEDRAS
+data[3].ubigeo: 160101
+data[3].nombre: TAMBOPATA

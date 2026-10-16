@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/230000_TUMBES/230300_ZARUMILLA/230304_AGUAS_VERDES/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 49
+data.totalActas: 49
+data.participacionCiudadana: 76.246
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 10782
+data.totalVotosValidos: 8491
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

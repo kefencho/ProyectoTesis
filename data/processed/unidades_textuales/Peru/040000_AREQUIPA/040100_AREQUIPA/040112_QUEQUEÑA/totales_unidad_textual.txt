@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/040000_AREQUIPA/040100_AREQUIPA/040112_QUEQUEÑA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 10
+data.totalActas: 10
+data.participacionCiudadana: 86.802
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 2532
+data.totalVotosValidos: 2228
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

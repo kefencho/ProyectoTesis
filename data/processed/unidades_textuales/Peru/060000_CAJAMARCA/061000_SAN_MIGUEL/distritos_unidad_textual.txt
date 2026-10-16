@@ -1,0 +1,30 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/061000_SAN_MIGUEL/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 061013
+data[0].nombre: BOLÍVAR
+data[1].ubigeo: 061002
+data[1].nombre: CALQUIS
+data[2].ubigeo: 061012
+data[2].nombre: CATILLUC
+data[3].ubigeo: 061009
+data[3].nombre: EL PRADO
+data[4].ubigeo: 061003
+data[4].nombre: LA FLORIDA
+data[5].ubigeo: 061004
+data[5].nombre: LLAPA
+data[6].ubigeo: 061005
+data[6].nombre: NANCHOC
+data[7].ubigeo: 061006
+data[7].nombre: NIEPOS
+data[8].ubigeo: 061007
+data[8].nombre: SAN GREGORIO
+data[9].ubigeo: 061001
+data[9].nombre: SAN MIGUEL
+data[10].ubigeo: 061008
+data[10].nombre: SAN SILVESTRE DE COCHAN
+data[11].ubigeo: 061011
+data[11].nombre: TONGOD
+data[12].ubigeo: 061010
+data[12].nombre: UNIÓN AGUA BLANCA

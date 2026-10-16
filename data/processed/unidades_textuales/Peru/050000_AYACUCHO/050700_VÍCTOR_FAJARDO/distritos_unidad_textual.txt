@@ -1,0 +1,28 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/050700_VÍCTOR_FAJARDO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 050702
+data[0].nombre: ALCAMENCA
+data[1].ubigeo: 050703
+data[1].nombre: APONGO
+data[2].ubigeo: 050715
+data[2].nombre: ASQUIPATA
+data[3].ubigeo: 050704
+data[3].nombre: CANARIA
+data[4].ubigeo: 050706
+data[4].nombre: CAYARA
+data[5].ubigeo: 050707
+data[5].nombre: COLCA
+data[6].ubigeo: 050708
+data[6].nombre: HUALLA
+data[7].ubigeo: 050709
+data[7].nombre: HUAMANQUIQUIA
+data[8].ubigeo: 050701
+data[8].nombre: HUANCAPI
+data[9].ubigeo: 050710
+data[9].nombre: HUANCARAYLLA
+data[10].ubigeo: 050713
+data[10].nombre: SARHUA
+data[11].ubigeo: 050714
+data[11].nombre: VILCANCHOS

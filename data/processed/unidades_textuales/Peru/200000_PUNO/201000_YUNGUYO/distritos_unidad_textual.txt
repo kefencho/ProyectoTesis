@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/201000_YUNGUYO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 201003
+data[0].nombre: ANAPIA
+data[1].ubigeo: 201004
+data[1].nombre: COPANI
+data[2].ubigeo: 201005
+data[2].nombre: CUTURAPI
+data[3].ubigeo: 201006
+data[3].nombre: OLLARAYA
+data[4].ubigeo: 201007
+data[4].nombre: TINICACHI
+data[5].ubigeo: 201002
+data[5].nombre: UNICACHI
+data[6].ubigeo: 201001
+data[6].nombre: YUNGUYO

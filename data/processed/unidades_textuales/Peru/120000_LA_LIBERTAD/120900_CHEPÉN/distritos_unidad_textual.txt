@@ -1,0 +1,10 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/120900_CHEPÉN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 120901
+data[0].nombre: CHEPÉN
+data[1].ubigeo: 120902
+data[1].nombre: PACANGA
+data[2].ubigeo: 120903
+data[2].nombre: PUEBLO NUEVO

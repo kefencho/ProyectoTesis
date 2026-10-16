@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/150000_LORETO/150600_MARISCAL_RAMÓN_CASTILLA/150604_SAN_PABLO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 46
+data.totalActas: 46
+data.participacionCiudadana: 48.089
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 6164
+data.totalVotosValidos: 2418
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

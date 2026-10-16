@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/220000_TACNA/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 220400
+data[0].nombre: CANDARAVE
+data[1].ubigeo: 220300
+data[1].nombre: JORGE BASADRE
+data[2].ubigeo: 220100
+data[2].nombre: TACNA
+data[3].ubigeo: 220200
+data[3].nombre: TARATA

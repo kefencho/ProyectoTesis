@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/210000_SAN_MARTÍN/210400_MARISCAL_CÁCERES/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 210402
+data[0].nombre: CAMPANILLA
+data[1].ubigeo: 210403
+data[1].nombre: HUICUNGO
+data[2].ubigeo: 210401
+data[2].nombre: JUANJUI
+data[3].ubigeo: 210404
+data[3].nombre: PACHIZA
+data[4].ubigeo: 210405
+data[4].nombre: PAJARILLO

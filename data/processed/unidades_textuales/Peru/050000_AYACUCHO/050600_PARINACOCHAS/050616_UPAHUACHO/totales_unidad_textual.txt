@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/050600_PARINACOCHAS/050616_UPAHUACHO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 7
+data.totalActas: 7
+data.participacionCiudadana: 47.303
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 605
+data.totalVotosValidos: 463
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

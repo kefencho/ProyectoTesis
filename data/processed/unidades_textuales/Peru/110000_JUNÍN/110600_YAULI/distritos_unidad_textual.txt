@@ -1,0 +1,24 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/110600_YAULI/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 110602
+data[0].nombre: CHACAPALPA
+data[1].ubigeo: 110603
+data[1].nombre: HUAY-HUAY
+data[2].ubigeo: 110601
+data[2].nombre: LA OROYA
+data[3].ubigeo: 110604
+data[3].nombre: MARCAPOMACOCHA
+data[4].ubigeo: 110605
+data[4].nombre: MOROCOCHA
+data[5].ubigeo: 110606
+data[5].nombre: PACCHA
+data[6].ubigeo: 110607
+data[6].nombre: SANTA BÁRBARA DE CARHUACAYÁN
+data[7].ubigeo: 110610
+data[7].nombre: SANTA ROSA DE SACCO
+data[8].ubigeo: 110608
+data[8].nombre: SUITUCANCHA
+data[9].ubigeo: 110609
+data[9].nombre: YAULI

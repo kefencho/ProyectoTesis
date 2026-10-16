@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/150000_LORETO/150100_MAYNAS/150113_SAN_JUAN_BAUTISTA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 322
+data.totalActas: 322
+data.participacionCiudadana: 66.208
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 62940
+data.totalVotosValidos: 49418
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

@@ -1,0 +1,44 @@
+FUENTE: data/raw/ONPE_2026/Peru/030000_APURÍMAC/030300_ANDAHUAYLAS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 030301
+data[0].nombre: ANDAHUAYLAS
+data[1].ubigeo: 030302
+data[1].nombre: ANDARAPA
+data[2].ubigeo: 030303
+data[2].nombre: CHIARA
+data[3].ubigeo: 030304
+data[3].nombre: HUANCARAMA
+data[4].ubigeo: 030305
+data[4].nombre: HUANCARAY
+data[5].ubigeo: 030317
+data[5].nombre: HUAYANA
+data[6].ubigeo: 030320
+data[6].nombre: JOSÉ MARIA ARGUEDAS
+data[7].ubigeo: 030319
+data[7].nombre: KAQUIABAMBA
+data[8].ubigeo: 030306
+data[8].nombre: KISHUARA
+data[9].ubigeo: 030307
+data[9].nombre: PACOBAMBA
+data[10].ubigeo: 030313
+data[10].nombre: PACUCHA
+data[11].ubigeo: 030308
+data[11].nombre: PAMPACHIRI
+data[12].ubigeo: 030314
+data[12].nombre: POMACOCHA
+data[13].ubigeo: 030309
+data[13].nombre: SAN ANTONIO DE CACHI
+data[14].ubigeo: 030310
+data[14].nombre: SAN JERÓNIMO
+data[15].ubigeo: 030318
+data[15].nombre: SAN MIGUEL DE CHACCRAMPA
+data[16].ubigeo: 030315
+data[16].nombre: SANTA MARÍA DE CHICMO
+data[17].ubigeo: 030311
+data[17].nombre: TALAVERA
+data[18].ubigeo: 030316
+data[18].nombre: TUMAY HUARACA
+data[19].ubigeo: 030312
+data[19].nombre: TURPO

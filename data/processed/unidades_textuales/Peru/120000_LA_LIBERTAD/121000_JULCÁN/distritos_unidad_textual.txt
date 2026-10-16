@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/121000_JULCÁN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 121003
+data[0].nombre: CALAMARCA
+data[1].ubigeo: 121002
+data[1].nombre: CARABAMBA
+data[2].ubigeo: 121004
+data[2].nombre: HUASO
+data[3].ubigeo: 121001
+data[3].nombre: JULCÁN

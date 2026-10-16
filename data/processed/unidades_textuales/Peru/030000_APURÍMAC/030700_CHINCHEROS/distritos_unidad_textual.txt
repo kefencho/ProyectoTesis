@@ -1,0 +1,28 @@
+FUENTE: data/raw/ONPE_2026/Peru/030000_APURÍMAC/030700_CHINCHEROS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 030712
+data[0].nombre: AHUAYRO
+data[1].ubigeo: 030705
+data[1].nombre: ANCO HUALLO
+data[2].ubigeo: 030701
+data[2].nombre: CHINCHEROS
+data[3].ubigeo: 030704
+data[3].nombre: COCHARCAS
+data[4].ubigeo: 030710
+data[4].nombre: EL PORVENIR
+data[5].ubigeo: 030706
+data[5].nombre: HUACCANA
+data[6].ubigeo: 030711
+data[6].nombre: LOS CHANKAS
+data[7].ubigeo: 030703
+data[7].nombre: OCOBAMBA
+data[8].ubigeo: 030702
+data[8].nombre: ONGOY
+data[9].ubigeo: 030708
+data[9].nombre: RANRACANCHA
+data[10].ubigeo: 030709
+data[10].nombre: ROCCHACC
+data[11].ubigeo: 030707
+data[11].nombre: URANMARCA

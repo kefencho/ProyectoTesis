@@ -1,0 +1,30 @@
+FUENTE: data/raw/ONPE_2026/Peru/080000_HUANCAVELICA/080400_CASTROVIRREYNA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 080402
+data[0].nombre: ARMA
+data[1].ubigeo: 080403
+data[1].nombre: AURAHUA
+data[2].ubigeo: 080405
+data[2].nombre: CAPILLAS
+data[3].ubigeo: 080401
+data[3].nombre: CASTROVIRREYNA
+data[4].ubigeo: 080408
+data[4].nombre: CHUPAMARCA
+data[5].ubigeo: 080406
+data[5].nombre: COCAS
+data[6].ubigeo: 080409
+data[6].nombre: HUACHOS
+data[7].ubigeo: 080410
+data[7].nombre: HUAMATAMBO
+data[8].ubigeo: 080414
+data[8].nombre: MOLLEPAMPA
+data[9].ubigeo: 080422
+data[9].nombre: SAN JUAN
+data[10].ubigeo: 080429
+data[10].nombre: SANTA ANA
+data[11].ubigeo: 080427
+data[11].nombre: TANTARA
+data[12].ubigeo: 080428
+data[12].nombre: TICRAPO

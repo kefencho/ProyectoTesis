@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/070900_LA_CONVENCIÓN/070908_QUELLOUNO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 43
+data.totalActas: 43
+data.participacionCiudadana: 60.404
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 7304
+data.totalVotosValidos: 5627
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/200900_SAN_ROMÁN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 200902
+data[0].nombre: CABANA
+data[1].ubigeo: 200903
+data[1].nombre: CABANILLAS
+data[2].ubigeo: 200904
+data[2].nombre: CARACOTO
+data[3].ubigeo: 200901
+data[3].nombre: JULIACA
+data[4].ubigeo: 200905
+data[4].nombre: SAN MIGUEL

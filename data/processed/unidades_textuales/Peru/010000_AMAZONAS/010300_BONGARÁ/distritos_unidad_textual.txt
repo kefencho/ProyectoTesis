@@ -1,0 +1,28 @@
+FUENTE: data/raw/ONPE_2026/Peru/010000_AMAZONAS/010300_BONGARÁ/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 010304
+data[0].nombre: CHISQUILLA
+data[1].ubigeo: 010305
+data[1].nombre: CHURUJA
+data[2].ubigeo: 010302
+data[2].nombre: COROSHA
+data[3].ubigeo: 010303
+data[3].nombre: CUISPES
+data[4].ubigeo: 010306
+data[4].nombre: FLORIDA
+data[5].ubigeo: 010312
+data[5].nombre: JAZAN
+data[6].ubigeo: 010301
+data[6].nombre: JUMBILLA
+data[7].ubigeo: 010307
+data[7].nombre: RECTA
+data[8].ubigeo: 010308
+data[8].nombre: SAN CARLOS
+data[9].ubigeo: 010309
+data[9].nombre: SHIPASBAMBA
+data[10].ubigeo: 010310
+data[10].nombre: VALERA
+data[11].ubigeo: 010311
+data[11].nombre: YAMBRASBAMBA

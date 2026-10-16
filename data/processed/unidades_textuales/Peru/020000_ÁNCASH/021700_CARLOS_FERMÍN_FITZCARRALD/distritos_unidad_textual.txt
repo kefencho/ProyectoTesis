@@ -1,0 +1,10 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/021700_CARLOS_FERMÍN_FITZCARRALD/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 021701
+data[0].nombre: SAN LUIS
+data[1].ubigeo: 021703
+data[1].nombre: SAN NICOLÁS
+data[2].ubigeo: 021702
+data[2].nombre: YAUYA

@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/250000_UCAYALI/250200_PADRE_ABAD/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 250205
+data[0].nombre: ALEXANDER VON HUMBOLDT
+data[1].ubigeo: 250206
+data[1].nombre: BOQUERÓN
+data[2].ubigeo: 250203
+data[2].nombre: CURIMANÁ
+data[3].ubigeo: 250207
+data[3].nombre: HUIPOCA
+data[4].ubigeo: 250202
+data[4].nombre: IRAZOLA
+data[5].ubigeo: 250204
+data[5].nombre: NESHUYA
+data[6].ubigeo: 250201
+data[6].nombre: PADRE ABAD

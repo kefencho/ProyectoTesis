@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/150000_LORETO/150100_MAYNAS/150112_BELÉN/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 186
+data.totalActas: 186
+data.participacionCiudadana: 66.988
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 36729
+data.totalVotosValidos: 28733
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/180000_PASCO/180300_OXAPAMPA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 180302
+data[0].nombre: CHONTABAMBA
+data[1].ubigeo: 180308
+data[1].nombre: CONSTITUCIÓN
+data[2].ubigeo: 180303
+data[2].nombre: HUANCABAMBA
+data[3].ubigeo: 180301
+data[3].nombre: OXAPAMPA
+data[4].ubigeo: 180307
+data[4].nombre: PALCAZU
+data[5].ubigeo: 180306
+data[5].nombre: POZUZO
+data[6].ubigeo: 180304
+data[6].nombre: PUERTO BERMÚDEZ
+data[7].ubigeo: 180305
+data[7].nombre: VILLA RICA

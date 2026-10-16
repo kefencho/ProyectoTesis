@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/210000_SAN_MARTÍN/210700_BELLAVISTA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 210704
+data[0].nombre: ALTO BIAVO
+data[1].ubigeo: 210706
+data[1].nombre: BAJO BIAVO
+data[2].ubigeo: 210701
+data[2].nombre: BELLAVISTA
+data[3].ubigeo: 210705
+data[3].nombre: HUALLAGA
+data[4].ubigeo: 210703
+data[4].nombre: SAN PABLO
+data[5].ubigeo: 210702
+data[5].nombre: SAN RAFAEL

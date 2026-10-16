@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/150000_LORETO/150300_LORETO/150304_URARINAS/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 42
+data.totalActas: 42
+data.participacionCiudadana: 44.473
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 5118
+data.totalVotosValidos: 3565
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

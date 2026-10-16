@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 2341
+data.totalActas: 2341
+data.participacionCiudadana: 67.151
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 440857
+data.totalVotosValidos: 342637
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

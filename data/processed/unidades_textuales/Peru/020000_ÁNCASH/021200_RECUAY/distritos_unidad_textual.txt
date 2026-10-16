@@ -1,0 +1,24 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/021200_RECUAY/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 021210
+data[0].nombre: CATAC
+data[1].ubigeo: 021202
+data[1].nombre: COTAPARACO
+data[2].ubigeo: 021203
+data[2].nombre: HUAYLLAPAMPA
+data[3].ubigeo: 021209
+data[3].nombre: LLACLLIN
+data[4].ubigeo: 021204
+data[4].nombre: MARCA
+data[5].ubigeo: 021205
+data[5].nombre: PAMPAS CHICO
+data[6].ubigeo: 021206
+data[6].nombre: PARARIN
+data[7].ubigeo: 021201
+data[7].nombre: RECUAY
+data[8].ubigeo: 021207
+data[8].nombre: TAPACOCHA
+data[9].ubigeo: 021208
+data[9].nombre: TICAPAMPA

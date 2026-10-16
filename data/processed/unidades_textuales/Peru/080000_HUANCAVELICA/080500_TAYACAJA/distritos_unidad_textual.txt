@@ -1,0 +1,50 @@
+FUENTE: data/raw/ONPE_2026/Peru/080000_HUANCAVELICA/080500_TAYACAJA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 080502
+data[0].nombre: ACOSTAMBO
+data[1].ubigeo: 080503
+data[1].nombre: ACRAQUIA
+data[2].ubigeo: 080504
+data[2].nombre: AHUAYCHA
+data[3].ubigeo: 080529
+data[3].nombre: ANDAYMARCA
+data[4].ubigeo: 080534
+data[4].nombre: COCHABAMBA
+data[5].ubigeo: 080506
+data[5].nombre: COLCABAMBA
+data[6].ubigeo: 080509
+data[6].nombre: DANIEL HERNANDEZ
+data[7].ubigeo: 080511
+data[7].nombre: HUACHOCOLPA
+data[8].ubigeo: 080512
+data[8].nombre: HUARIBAMBA
+data[9].ubigeo: 080533
+data[9].nombre: LAMBRAS
+data[10].ubigeo: 080515
+data[10].nombre: ÑAHUIMPUQUIO
+data[11].ubigeo: 080501
+data[11].nombre: PAMPAS
+data[12].ubigeo: 080517
+data[12].nombre: PAZOS
+data[13].ubigeo: 080531
+data[13].nombre: PICHOS
+data[14].ubigeo: 080528
+data[14].nombre: QUICHUAS
+data[15].ubigeo: 080518
+data[15].nombre: QUISHUAR
+data[16].ubigeo: 080530
+data[16].nombre: ROBLE
+data[17].ubigeo: 080519
+data[17].nombre: SALCABAMBA
+data[18].ubigeo: 080526
+data[18].nombre: SALCAHUASI
+data[19].ubigeo: 080520
+data[19].nombre: SAN MARCOS DE ROCCHAC
+data[20].ubigeo: 080532
+data[20].nombre: SANTIAGO DE TUCUMA
+data[21].ubigeo: 080523
+data[21].nombre: SURCUBAMBA
+data[22].ubigeo: 080525
+data[22].nombre: TINTAY PUNCU

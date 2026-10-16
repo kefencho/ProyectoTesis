@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/070800_ESPINAR/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 070808
+data[0].nombre: ALTO PICHIGUA
+data[1].ubigeo: 070802
+data[1].nombre: CONDOROMA
+data[2].ubigeo: 070803
+data[2].nombre: COPORAQUE
+data[3].ubigeo: 070801
+data[3].nombre: ESPINAR
+data[4].ubigeo: 070804
+data[4].nombre: OCORURO
+data[5].ubigeo: 070805
+data[5].nombre: PALLPATA
+data[6].ubigeo: 070806
+data[6].nombre: PICHIGUA
+data[7].ubigeo: 070807
+data[7].nombre: SUYCKUTAMBO

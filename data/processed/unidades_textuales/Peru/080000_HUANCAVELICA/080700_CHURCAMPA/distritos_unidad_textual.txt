@@ -1,0 +1,26 @@
+FUENTE: data/raw/ONPE_2026/Peru/080000_HUANCAVELICA/080700_CHURCAMPA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 080702
+data[0].nombre: ANCO
+data[1].ubigeo: 080703
+data[1].nombre: CHINCHIHUASI
+data[2].ubigeo: 080701
+data[2].nombre: CHURCAMPA
+data[3].ubigeo: 080711
+data[3].nombre: COSME
+data[4].ubigeo: 080704
+data[4].nombre: EL CARMEN
+data[5].ubigeo: 080705
+data[5].nombre: LA MERCED
+data[6].ubigeo: 080706
+data[6].nombre: LOCROJA
+data[7].ubigeo: 080710
+data[7].nombre: PACHAMARCA
+data[8].ubigeo: 080707
+data[8].nombre: PAUCARBAMBA
+data[9].ubigeo: 080708
+data[9].nombre: SAN MIGUEL DE MAYOCC
+data[10].ubigeo: 080709
+data[10].nombre: SAN PEDRO DE CORIS

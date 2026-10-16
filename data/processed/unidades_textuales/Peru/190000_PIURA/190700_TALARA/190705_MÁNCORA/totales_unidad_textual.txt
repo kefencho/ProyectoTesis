@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/190000_PIURA/190700_TALARA/190705_MÁNCORA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 31
+data.totalActas: 31
+data.participacionCiudadana: 76.956
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 6876
+data.totalVotosValidos: 5333
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

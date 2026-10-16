@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/201200_EL_COLLAO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 201204
+data[0].nombre: CAPASO
+data[1].ubigeo: 201205
+data[1].nombre: CONDURIRI
+data[2].ubigeo: 201201
+data[2].nombre: ILAVE
+data[3].ubigeo: 201202
+data[3].nombre: PILCUYO
+data[4].ubigeo: 201203
+data[4].nombre: SANTA ROSA

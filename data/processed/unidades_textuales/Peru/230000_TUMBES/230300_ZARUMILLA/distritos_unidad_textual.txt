@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/230000_TUMBES/230300_ZARUMILLA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 230304
+data[0].nombre: AGUAS VERDES
+data[1].ubigeo: 230302
+data[1].nombre: MATAPALO
+data[2].ubigeo: 230303
+data[2].nombre: PAPAYAL
+data[3].ubigeo: 230301
+data[3].nombre: ZARUMILLA

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/200800_SANDIA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 171
+data.totalActas: 171
+data.participacionCiudadana: 69.319
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 32543
+data.totalVotosValidos: 26011
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

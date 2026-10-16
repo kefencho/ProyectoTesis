@@ -1,0 +1,22 @@
+FUENTE: data/raw/ONPE_2026/Peru/210000_SAN_MARTÍN/210500_RIOJA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 210509
+data[0].nombre: AWAJUN
+data[1].ubigeo: 210506
+data[1].nombre: ELÍAS SOPLÍN VARGAS
+data[2].ubigeo: 210505
+data[2].nombre: NUEVA CAJAMARCA
+data[3].ubigeo: 210508
+data[3].nombre: PARDO MIGUEL
+data[4].ubigeo: 210502
+data[4].nombre: POSIC
+data[5].ubigeo: 210501
+data[5].nombre: RIOJA
+data[6].ubigeo: 210507
+data[6].nombre: SAN FERNANDO
+data[7].ubigeo: 210503
+data[7].nombre: YORONGOS
+data[8].ubigeo: 210504
+data[8].nombre: YURACYACU

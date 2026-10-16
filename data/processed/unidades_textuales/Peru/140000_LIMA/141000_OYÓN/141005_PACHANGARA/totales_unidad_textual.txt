@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/140000_LIMA/141000_OYÓN/141005_PACHANGARA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 12
+data.totalActas: 12
+data.participacionCiudadana: 72.818
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 1977
+data.totalVotosValidos: 1535
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

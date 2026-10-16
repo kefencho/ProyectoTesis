@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/040000_AREQUIPA/040100_AREQUIPA/040126_MARIANO_MELGAR/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 180
+data.totalActas: 180
+data.participacionCiudadana: 83.914
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 44685
+data.totalVotosValidos: 39885
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

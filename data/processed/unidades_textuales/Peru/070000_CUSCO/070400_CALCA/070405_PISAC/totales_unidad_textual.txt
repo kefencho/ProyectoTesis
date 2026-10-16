@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/070400_CALCA/070405_PISAC/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 32
+data.totalActas: 32
+data.participacionCiudadana: 78.531
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 7111
+data.totalVotosValidos: 5353
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

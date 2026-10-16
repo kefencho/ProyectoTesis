@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/100000_ICA/100300_NASCA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 218
+data.totalActas: 218
+data.participacionCiudadana: 78.284
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 49341
+data.totalVotosValidos: 40527
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

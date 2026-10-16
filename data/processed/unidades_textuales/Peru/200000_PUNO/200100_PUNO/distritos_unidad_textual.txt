@@ -1,0 +1,34 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/200100_PUNO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 200102
+data[0].nombre: ACORA
+data[1].ubigeo: 200115
+data[1].nombre: AMANTANI
+data[2].ubigeo: 200103
+data[2].nombre: ATUNCOLLA
+data[3].ubigeo: 200104
+data[3].nombre: CAPACHICA
+data[4].ubigeo: 200106
+data[4].nombre: CHUCUITO
+data[5].ubigeo: 200105
+data[5].nombre: COATA
+data[6].ubigeo: 200107
+data[6].nombre: HUATA
+data[7].ubigeo: 200108
+data[7].nombre: MAÑAZO
+data[8].ubigeo: 200109
+data[8].nombre: PAUCARCOLLA
+data[9].ubigeo: 200110
+data[9].nombre: PICHACANI
+data[10].ubigeo: 200114
+data[10].nombre: PLATERIA
+data[11].ubigeo: 200101
+data[11].nombre: PUNO
+data[12].ubigeo: 200111
+data[12].nombre: SAN ANTONIO
+data[13].ubigeo: 200112
+data[13].nombre: TIQUILLACA
+data[14].ubigeo: 200113
+data[14].nombre: VILQUE

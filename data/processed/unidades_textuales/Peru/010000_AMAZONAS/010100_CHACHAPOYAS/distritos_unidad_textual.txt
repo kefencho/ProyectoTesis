@@ -1,0 +1,46 @@
+FUENTE: data/raw/ONPE_2026/Peru/010000_AMAZONAS/010100_CHACHAPOYAS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 010102
+data[0].nombre: ASUNCIÓN
+data[1].ubigeo: 010103
+data[1].nombre: BALSAS
+data[2].ubigeo: 010101
+data[2].nombre: CHACHAPOYAS
+data[3].ubigeo: 010104
+data[3].nombre: CHETO
+data[4].ubigeo: 010105
+data[4].nombre: CHILIQUIN
+data[5].ubigeo: 010106
+data[5].nombre: CHUQUIBAMBA
+data[6].ubigeo: 010107
+data[6].nombre: GRANADA
+data[7].ubigeo: 010108
+data[7].nombre: HUANCAS
+data[8].ubigeo: 010109
+data[8].nombre: LA JALCA
+data[9].ubigeo: 010110
+data[9].nombre: LEIMEBAMBA
+data[10].ubigeo: 010111
+data[10].nombre: LEVANTO
+data[11].ubigeo: 010112
+data[11].nombre: MAGDALENA
+data[12].ubigeo: 010113
+data[12].nombre: MARISCAL CASTILLA
+data[13].ubigeo: 010114
+data[13].nombre: MOLINOPAMPA
+data[14].ubigeo: 010115
+data[14].nombre: MONTEVIDEO
+data[15].ubigeo: 010116
+data[15].nombre: OLLEROS
+data[16].ubigeo: 010117
+data[16].nombre: QUINJALCA
+data[17].ubigeo: 010118
+data[17].nombre: SAN FRANCISCO DE DAGUAS
+data[18].ubigeo: 010119
+data[18].nombre: SAN ISIDRO DE MAINO
+data[19].ubigeo: 010120
+data[19].nombre: SOLOCO
+data[20].ubigeo: 010121
+data[20].nombre: SONCHE

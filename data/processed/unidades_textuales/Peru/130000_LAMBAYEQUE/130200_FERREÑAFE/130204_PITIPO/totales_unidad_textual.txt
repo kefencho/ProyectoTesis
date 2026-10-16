@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/130000_LAMBAYEQUE/130200_FERREÑAFE/130204_PITIPO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 60
+data.totalActas: 60
+data.participacionCiudadana: 75.515
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 13243
+data.totalVotosValidos: 10117
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

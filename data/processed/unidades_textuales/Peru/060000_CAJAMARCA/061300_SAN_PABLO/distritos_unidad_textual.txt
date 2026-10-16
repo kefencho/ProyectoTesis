@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/061300_SAN_PABLO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 061302
+data[0].nombre: SAN BERNARDINO
+data[1].ubigeo: 061303
+data[1].nombre: SAN LUIS
+data[2].ubigeo: 061301
+data[2].nombre: SAN PABLO
+data[3].ubigeo: 061304
+data[3].nombre: TUMBADÉN

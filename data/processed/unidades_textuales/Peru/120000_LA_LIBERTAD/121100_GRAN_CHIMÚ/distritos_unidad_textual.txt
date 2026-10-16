@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/121100_GRAN_CHIMÚ/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 121101
+data[0].nombre: CASCAS
+data[1].ubigeo: 121102
+data[1].nombre: LUCMA
+data[2].ubigeo: 121103
+data[2].nombre: MARMOT
+data[3].ubigeo: 121104
+data[3].nombre: SAYAPULLO

@@ -1,0 +1,26 @@
+FUENTE: data/raw/ONPE_2026/Peru/210000_SAN_MARTÍN/210300_LAMAS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 210315
+data[0].nombre: ALONSO DE ALVARADO
+data[1].ubigeo: 210303
+data[1].nombre: BARRANQUITA
+data[2].ubigeo: 210304
+data[2].nombre: CAYNARACHI
+data[3].ubigeo: 210305
+data[3].nombre: CUÑUMBUQUI
+data[4].ubigeo: 210301
+data[4].nombre: LAMAS
+data[5].ubigeo: 210306
+data[5].nombre: PINTO RECODO
+data[6].ubigeo: 210307
+data[6].nombre: RUMISAPA
+data[7].ubigeo: 210316
+data[7].nombre: SAN ROQUE DE CUMBAZA
+data[8].ubigeo: 210311
+data[8].nombre: SHANAO
+data[9].ubigeo: 210313
+data[9].nombre: TABALOSOS
+data[10].ubigeo: 210314
+data[10].nombre: ZAPATERO

@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/210000_SAN_MARTÍN/210100_MOYOBAMBA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 210102
+data[0].nombre: CALZADA
+data[1].ubigeo: 210103
+data[1].nombre: HABANA
+data[2].ubigeo: 210104
+data[2].nombre: JEPELACIO
+data[3].ubigeo: 210101
+data[3].nombre: MOYOBAMBA
+data[4].ubigeo: 210105
+data[4].nombre: SORITOR
+data[5].ubigeo: 210106
+data[5].nombre: YANTALÓ

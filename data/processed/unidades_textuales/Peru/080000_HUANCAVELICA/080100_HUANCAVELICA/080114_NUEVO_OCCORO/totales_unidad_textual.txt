@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/080000_HUANCAVELICA/080100_HUANCAVELICA/080114_NUEVO_OCCORO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 9
+data.totalActas: 9
+data.participacionCiudadana: 62.781
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 1228
+data.totalVotosValidos: 1003
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

@@ -1,0 +1,10 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/060700_HUALGAYOC/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 060701
+data[0].nombre: BAMBAMARCA
+data[1].ubigeo: 060702
+data[1].nombre: CHUGUR
+data[2].ubigeo: 060703
+data[2].nombre: HUALGAYOC

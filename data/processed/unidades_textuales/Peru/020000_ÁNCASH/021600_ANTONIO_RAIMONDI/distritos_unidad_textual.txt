@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/021600_ANTONIO_RAIMONDI/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 021602
+data[0].nombre: ACZO
+data[1].ubigeo: 021603
+data[1].nombre: CHACCHO
+data[2].ubigeo: 021604
+data[2].nombre: CHINGAS
+data[3].ubigeo: 021601
+data[3].nombre: LLAMELLIN
+data[4].ubigeo: 021605
+data[4].nombre: MIRGAS
+data[5].ubigeo: 021606
+data[5].nombre: SAN JUAN DE RONTOY

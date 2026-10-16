@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/051100_SUCRE/051102_BELÉN/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 1
+data.totalActas: 1
+data.participacionCiudadana: 52.227
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 129
+data.totalVotosValidos: 105
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

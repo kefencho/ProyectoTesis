@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/091000_LAURICOCHA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 091002
+data[0].nombre: BAÑOS
+data[1].ubigeo: 091001
+data[1].nombre: JESÚS
+data[2].ubigeo: 091007
+data[2].nombre: JIVIA
+data[3].ubigeo: 091004
+data[3].nombre: QUEROPALCA
+data[4].ubigeo: 091006
+data[4].nombre: RONDOS
+data[5].ubigeo: 091003
+data[5].nombre: SAN FRANCISCO DE ASÍS
+data[6].ubigeo: 091005
+data[6].nombre: SAN MIGUEL DE CAURI

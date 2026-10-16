@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/210000_SAN_MARTÍN/210200_HUALLAGA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 210205
+data[0].nombre: ALTO SAPOSOA
+data[1].ubigeo: 210206
+data[1].nombre: EL ESLABÓN
+data[2].ubigeo: 210202
+data[2].nombre: PISCOYACU
+data[3].ubigeo: 210203
+data[3].nombre: SACANCHE
+data[4].ubigeo: 210201
+data[4].nombre: SAPOSOA
+data[5].ubigeo: 210204
+data[5].nombre: TINGO DE SAPOSOA

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/240000_CALLAO/240100_CALLAO/240105_LA_PERLA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 195
+data.totalActas: 195
+data.participacionCiudadana: 76.208
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 43556
+data.totalVotosValidos: 38736
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

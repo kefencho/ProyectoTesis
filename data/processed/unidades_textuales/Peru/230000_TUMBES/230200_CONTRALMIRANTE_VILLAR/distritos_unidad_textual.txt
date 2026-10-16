@@ -1,0 +1,10 @@
+FUENTE: data/raw/ONPE_2026/Peru/230000_TUMBES/230200_CONTRALMIRANTE_VILLAR/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 230203
+data[0].nombre: CANOAS DE PUNTA SAL
+data[1].ubigeo: 230202
+data[1].nombre: CASITAS
+data[2].ubigeo: 230201
+data[2].nombre: ZORRITOS

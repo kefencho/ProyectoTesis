@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/250000_UCAYALI/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 250300
+data[0].nombre: ATALAYA
+data[1].ubigeo: 250100
+data[1].nombre: CORONEL PORTILLO
+data[2].ubigeo: 250200
+data[2].nombre: PADRE ABAD
+data[3].ubigeo: 250400
+data[3].nombre: PURÚS

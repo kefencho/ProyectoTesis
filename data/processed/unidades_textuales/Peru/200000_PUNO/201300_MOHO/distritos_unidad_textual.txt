@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/201300_MOHO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 201302
+data[0].nombre: CONIMA
+data[1].ubigeo: 201304
+data[1].nombre: HUAYRAPATA
+data[2].ubigeo: 201301
+data[2].nombre: MOHO
+data[3].ubigeo: 201303
+data[3].nombre: TILALI

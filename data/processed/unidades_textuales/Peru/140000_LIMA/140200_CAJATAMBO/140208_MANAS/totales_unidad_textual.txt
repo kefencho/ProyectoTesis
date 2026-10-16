@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/140000_LIMA/140200_CAJATAMBO/140208_MANAS/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 4
+data.totalActas: 4
+data.participacionCiudadana: 63.563
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 628
+data.totalVotosValidos: 513
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

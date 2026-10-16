@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/120500_PACASMAYO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 120503
+data[0].nombre: GUADALUPE
+data[1].ubigeo: 120504
+data[1].nombre: JEQUETEPEQUE
+data[2].ubigeo: 120506
+data[2].nombre: PACASMAYO
+data[3].ubigeo: 120508
+data[3].nombre: SAN JOSÉ
+data[4].ubigeo: 120501
+data[4].nombre: SAN PEDRO DE LLOC

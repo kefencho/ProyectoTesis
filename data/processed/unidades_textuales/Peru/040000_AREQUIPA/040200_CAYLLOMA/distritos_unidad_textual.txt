@@ -1,0 +1,44 @@
+FUENTE: data/raw/ONPE_2026/Peru/040000_AREQUIPA/040200_CAYLLOMA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 040202
+data[0].nombre: ACHOMA
+data[1].ubigeo: 040203
+data[1].nombre: CABANACONDE
+data[2].ubigeo: 040205
+data[2].nombre: CALLALLI
+data[3].ubigeo: 040204
+data[3].nombre: CAYLLOMA
+data[4].ubigeo: 040201
+data[4].nombre: CHIVAY
+data[5].ubigeo: 040206
+data[5].nombre: COPORAQUE
+data[6].ubigeo: 040207
+data[6].nombre: HUAMBO
+data[7].ubigeo: 040208
+data[7].nombre: HUANCA
+data[8].ubigeo: 040209
+data[8].nombre: ICHUPAMPA
+data[9].ubigeo: 040210
+data[9].nombre: LARI
+data[10].ubigeo: 040211
+data[10].nombre: LLUTA
+data[11].ubigeo: 040212
+data[11].nombre: MACA
+data[12].ubigeo: 040213
+data[12].nombre: MADRIGAL
+data[13].ubigeo: 040220
+data[13].nombre: MAJES
+data[14].ubigeo: 040214
+data[14].nombre: SAN ANTONIO DE CHUCA
+data[15].ubigeo: 040215
+data[15].nombre: SIBAYO
+data[16].ubigeo: 040216
+data[16].nombre: TAPAY
+data[17].ubigeo: 040217
+data[17].nombre: TISCO
+data[18].ubigeo: 040218
+data[18].nombre: TUTI
+data[19].ubigeo: 040219
+data[19].nombre: YANQUE

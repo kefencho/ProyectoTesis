@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/080000_HUANCAVELICA/080200_ACOBAMBA/080204_CAJA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 9
+data.totalActas: 9
+data.participacionCiudadana: 64.229
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 1370
+data.totalVotosValidos: 1126
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

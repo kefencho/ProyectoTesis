@@ -1,0 +1,32 @@
+FUENTE: data/raw/ONPE_2026/Peru/100000_ICA/100100_ICA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 100101
+data[0].nombre: ICA
+data[1].ubigeo: 100102
+data[1].nombre: LA TINGUIÑA
+data[2].ubigeo: 100103
+data[2].nombre: LOS AQUIJES
+data[3].ubigeo: 100114
+data[3].nombre: OCUCAJE
+data[4].ubigeo: 100113
+data[4].nombre: PACHACUTEC
+data[5].ubigeo: 100104
+data[5].nombre: PARCONA
+data[6].ubigeo: 100105
+data[6].nombre: PUEBLO NUEVO
+data[7].ubigeo: 100106
+data[7].nombre: SALAS
+data[8].ubigeo: 100107
+data[8].nombre: SAN JOSÉ DE LOS MOLINOS
+data[9].ubigeo: 100108
+data[9].nombre: SAN JUAN BAUTISTA
+data[10].ubigeo: 100109
+data[10].nombre: SANTIAGO
+data[11].ubigeo: 100110
+data[11].nombre: SUBTANJALLA
+data[12].ubigeo: 100112
+data[12].nombre: TATE
+data[13].ubigeo: 100111
+data[13].nombre: YAUCA DEL ROSARIO

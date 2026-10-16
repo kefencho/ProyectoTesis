@@ -1,0 +1,26 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/090400_HUAMALIES/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 090402
+data[0].nombre: ARANCAY
+data[1].ubigeo: 090403
+data[1].nombre: CHAVÍN DE PARIARCA
+data[2].ubigeo: 090404
+data[2].nombre: JACAS GRANDE
+data[3].ubigeo: 090405
+data[3].nombre: JIRCÁN
+data[4].ubigeo: 090401
+data[4].nombre: LLATA
+data[5].ubigeo: 090406
+data[5].nombre: MIRAFLORES
+data[6].ubigeo: 090407
+data[6].nombre: MONZÓN
+data[7].ubigeo: 090408
+data[7].nombre: PUNCHAO
+data[8].ubigeo: 090409
+data[8].nombre: PUÑOS
+data[9].ubigeo: 090410
+data[9].nombre: SINGA
+data[10].ubigeo: 090411
+data[10].nombre: TANTAMAYO

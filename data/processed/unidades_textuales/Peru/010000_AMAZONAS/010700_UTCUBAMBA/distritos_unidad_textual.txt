@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/010000_AMAZONAS/010700_UTCUBAMBA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 010701
+data[0].nombre: BAGUA GRANDE
+data[1].ubigeo: 010702
+data[1].nombre: CAJARURO
+data[2].ubigeo: 010703
+data[2].nombre: CUMBA
+data[3].ubigeo: 010704
+data[3].nombre: EL MILAGRO
+data[4].ubigeo: 010705
+data[4].nombre: JAMALCA
+data[5].ubigeo: 010706
+data[5].nombre: LONYA GRANDE
+data[6].ubigeo: 010707
+data[6].nombre: YAMON

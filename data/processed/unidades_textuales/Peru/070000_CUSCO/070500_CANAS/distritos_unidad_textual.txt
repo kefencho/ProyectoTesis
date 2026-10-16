@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/070500_CANAS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 070502
+data[0].nombre: CHECCA
+data[1].ubigeo: 070503
+data[1].nombre: KUNTURKANKI
+data[2].ubigeo: 070504
+data[2].nombre: LANGUI
+data[3].ubigeo: 070505
+data[3].nombre: LAYO
+data[4].ubigeo: 070506
+data[4].nombre: PAMPAMARCA
+data[5].ubigeo: 070507
+data[5].nombre: QUEHUE
+data[6].ubigeo: 070508
+data[6].nombre: TÚPAC AMARU
+data[7].ubigeo: 070501
+data[7].nombre: YANAOCA

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/totales_nacional.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 90223
+data.totalActas: 90223
+data.participacionCiudadana: 75.654
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 19756668
+data.totalVotosValidos: 16430347
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

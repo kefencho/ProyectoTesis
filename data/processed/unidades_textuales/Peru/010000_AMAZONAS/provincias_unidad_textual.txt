@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/010000_AMAZONAS/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 010200
+data[0].nombre: BAGUA
+data[1].ubigeo: 010300
+data[1].nombre: BONGARÁ
+data[2].ubigeo: 010100
+data[2].nombre: CHACHAPOYAS
+data[3].ubigeo: 010600
+data[3].nombre: CONDORCANQUI
+data[4].ubigeo: 010400
+data[4].nombre: LUYA
+data[5].ubigeo: 010500
+data[5].nombre: RODRÍGUEZ DE MENDOZA
+data[6].ubigeo: 010700
+data[6].nombre: UTCUBAMBA

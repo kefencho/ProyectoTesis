@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/250000_UCAYALI/250100_CORONEL_PORTILLO/250103_MASISEA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 45
+data.totalActas: 45
+data.participacionCiudadana: 43.805
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 5282
+data.totalVotosValidos: 3561
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

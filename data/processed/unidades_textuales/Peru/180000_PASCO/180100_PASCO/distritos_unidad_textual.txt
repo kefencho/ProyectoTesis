@@ -1,0 +1,30 @@
+FUENTE: data/raw/ONPE_2026/Peru/180000_PASCO/180100_PASCO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 180101
+data[0].nombre: CHAUPIMARCA
+data[1].ubigeo: 180103
+data[1].nombre: HUACHÓN
+data[2].ubigeo: 180104
+data[2].nombre: HUARIACA
+data[3].ubigeo: 180105
+data[3].nombre: HUAYLLAY
+data[4].ubigeo: 180106
+data[4].nombre: NINACACA
+data[5].ubigeo: 180107
+data[5].nombre: PALLANCHACRA
+data[6].ubigeo: 180108
+data[6].nombre: PAUCARTAMBO
+data[7].ubigeo: 180109
+data[7].nombre: SAN FRANCISCO DE ASÍS DE YARUSYACÁN
+data[8].ubigeo: 180110
+data[8].nombre: SIMÓN BOLÍVAR
+data[9].ubigeo: 180111
+data[9].nombre: TICLACAYÁN
+data[10].ubigeo: 180112
+data[10].nombre: TINYAHUARCO
+data[11].ubigeo: 180113
+data[11].nombre: VICCO
+data[12].ubigeo: 180114
+data[12].nombre: YANACANCHA

@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/070700_CHUMBIVILCAS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 070702
+data[0].nombre: CAPACMARCA
+data[1].ubigeo: 070704
+data[1].nombre: CHAMACA
+data[2].ubigeo: 070703
+data[2].nombre: COLQUEMARCA
+data[3].ubigeo: 070705
+data[3].nombre: LIVITACA
+data[4].ubigeo: 070706
+data[4].nombre: LLUSCO
+data[5].ubigeo: 070707
+data[5].nombre: QUIÑOTA
+data[6].ubigeo: 070701
+data[6].nombre: SANTO TOMÁS
+data[7].ubigeo: 070708
+data[7].nombre: VELILLE

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/010000_AMAZONAS/010600_CONDORCANQUI/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 174
+data.totalActas: 174
+data.participacionCiudadana: 42.584
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 20146
+data.totalVotosValidos: 14918
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

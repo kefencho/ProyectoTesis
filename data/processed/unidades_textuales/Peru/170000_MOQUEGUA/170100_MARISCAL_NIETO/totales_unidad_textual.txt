@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/170000_MOQUEGUA/170100_MARISCAL_NIETO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 283
+data.totalActas: 283
+data.participacionCiudadana: 80.993
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 65553
+data.totalVotosValidos: 57531
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

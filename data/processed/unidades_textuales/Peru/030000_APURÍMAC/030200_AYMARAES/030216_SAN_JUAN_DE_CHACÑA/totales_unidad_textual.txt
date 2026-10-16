@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/030000_APURÍMAC/030200_AYMARAES/030216_SAN_JUAN_DE_CHACÑA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 3
+data.totalActas: 3
+data.participacionCiudadana: 73.333
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 561
+data.totalVotosValidos: 436
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

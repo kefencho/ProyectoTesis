@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/250000_UCAYALI/250300_ATALAYA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 250301
+data[0].nombre: RAIMONDI
+data[1].ubigeo: 250304
+data[1].nombre: SEPAHUA
+data[2].ubigeo: 250302
+data[2].nombre: TAHUANIA
+data[3].ubigeo: 250303
+data[3].nombre: YURÚA

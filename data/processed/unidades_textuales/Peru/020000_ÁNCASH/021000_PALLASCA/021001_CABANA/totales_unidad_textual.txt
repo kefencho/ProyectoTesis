@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/021000_PALLASCA/021001_CABANA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 7
+data.totalActas: 7
+data.participacionCiudadana: 66.633
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 1332
+data.totalVotosValidos: 921
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

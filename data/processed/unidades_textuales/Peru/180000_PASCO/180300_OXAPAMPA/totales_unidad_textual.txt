@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/180000_PASCO/180300_OXAPAMPA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 317
+data.totalActas: 317
+data.participacionCiudadana: 63.094
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 55179
+data.totalVotosValidos: 40736
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

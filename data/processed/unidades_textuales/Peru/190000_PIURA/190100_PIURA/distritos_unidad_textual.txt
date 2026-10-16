@@ -1,0 +1,24 @@
+FUENTE: data/raw/ONPE_2026/Peru/190000_PIURA/190100_PIURA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 190103
+data[0].nombre: CASTILLA
+data[1].ubigeo: 190104
+data[1].nombre: CATACAOS
+data[2].ubigeo: 190113
+data[2].nombre: CURA MORI
+data[3].ubigeo: 190114
+data[3].nombre: EL TALLÁN
+data[4].ubigeo: 190105
+data[4].nombre: LA ARENA
+data[5].ubigeo: 190107
+data[5].nombre: LAS LOMAS
+data[6].ubigeo: 190106
+data[6].nombre: LA UNIÓN
+data[7].ubigeo: 190101
+data[7].nombre: PIURA
+data[8].ubigeo: 190109
+data[8].nombre: TAMBO GRANDE
+data[9].ubigeo: 190115
+data[9].nombre: VEINTISÉIS DE OCTUBRE

@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/210000_SAN_MARTÍN/210800_TOCACHE/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 210802
+data[0].nombre: NUEVO PROGRESO
+data[1].ubigeo: 210803
+data[1].nombre: PÓLVORA
+data[2].ubigeo: 210806
+data[2].nombre: SANTA LUCÍA
+data[3].ubigeo: 210804
+data[3].nombre: SHUNTE
+data[4].ubigeo: 210801
+data[4].nombre: TOCACHE
+data[5].ubigeo: 210805
+data[5].nombre: UCHIZA

@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/190000_PIURA/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 190200
+data[0].nombre: AYABACA
+data[1].ubigeo: 190300
+data[1].nombre: HUANCABAMBA
+data[2].ubigeo: 190400
+data[2].nombre: MORROPÓN
+data[3].ubigeo: 190500
+data[3].nombre: PAITA
+data[4].ubigeo: 190100
+data[4].nombre: PIURA
+data[5].ubigeo: 190800
+data[5].nombre: SECHURA
+data[6].ubigeo: 190600
+data[6].nombre: SULLANA
+data[7].ubigeo: 190700
+data[7].nombre: TALARA

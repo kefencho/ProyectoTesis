@@ -1,0 +1,72 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/110300_JAUJA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 110302
+data[0].nombre: ACOLLA
+data[1].ubigeo: 110303
+data[1].nombre: APATA
+data[2].ubigeo: 110304
+data[2].nombre: ATAURA
+data[3].ubigeo: 110305
+data[3].nombre: CANCHAYLLO
+data[4].ubigeo: 110331
+data[4].nombre: CURICACA
+data[5].ubigeo: 110306
+data[5].nombre: EL MANTARO
+data[6].ubigeo: 110307
+data[6].nombre: HUAMALÍ
+data[7].ubigeo: 110308
+data[7].nombre: HUARIPAMPA
+data[8].ubigeo: 110309
+data[8].nombre: HUERTAS
+data[9].ubigeo: 110310
+data[9].nombre: JANJAILLO
+data[10].ubigeo: 110301
+data[10].nombre: JAUJA
+data[11].ubigeo: 110311
+data[11].nombre: JULCÁN
+data[12].ubigeo: 110312
+data[12].nombre: LEONOR ORDOÑEZ
+data[13].ubigeo: 110313
+data[13].nombre: LLOCLLAPAMPA
+data[14].ubigeo: 110314
+data[14].nombre: MARCO
+data[15].ubigeo: 110315
+data[15].nombre: MASMA
+data[16].ubigeo: 110332
+data[16].nombre: MASMA CHICCHE
+data[17].ubigeo: 110316
+data[17].nombre: MOLINOS
+data[18].ubigeo: 110317
+data[18].nombre: MONOBAMBA
+data[19].ubigeo: 110318
+data[19].nombre: MUQUI
+data[20].ubigeo: 110319
+data[20].nombre: MUQUIYAUYO
+data[21].ubigeo: 110320
+data[21].nombre: PACA
+data[22].ubigeo: 110321
+data[22].nombre: PACCHA
+data[23].ubigeo: 110322
+data[23].nombre: PANCAN
+data[24].ubigeo: 110323
+data[24].nombre: PARCO
+data[25].ubigeo: 110324
+data[25].nombre: POMACANCHA
+data[26].ubigeo: 110325
+data[26].nombre: RICRAN
+data[27].ubigeo: 110326
+data[27].nombre: SAN LORENZO
+data[28].ubigeo: 110327
+data[28].nombre: SAN PEDRO DE CHUNAN
+data[29].ubigeo: 110333
+data[29].nombre: SAUSA
+data[30].ubigeo: 110328
+data[30].nombre: SINCOS
+data[31].ubigeo: 110329
+data[31].nombre: TUNAN MARCA
+data[32].ubigeo: 110330
+data[32].nombre: YAULI
+data[33].ubigeo: 110334
+data[33].nombre: YAUYOS

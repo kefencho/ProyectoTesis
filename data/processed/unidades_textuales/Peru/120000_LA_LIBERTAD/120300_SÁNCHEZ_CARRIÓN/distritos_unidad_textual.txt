@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/120300_SÁNCHEZ_CARRIÓN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 120304
+data[0].nombre: CHUGAY
+data[1].ubigeo: 120302
+data[1].nombre: COCHORCO
+data[2].ubigeo: 120303
+data[2].nombre: CURGOS
+data[3].ubigeo: 120301
+data[3].nombre: HUAMACHUCO
+data[4].ubigeo: 120305
+data[4].nombre: MARCABAL
+data[5].ubigeo: 120306
+data[5].nombre: SANAGORÁN
+data[6].ubigeo: 120307
+data[6].nombre: SARÍN
+data[7].ubigeo: 120308
+data[7].nombre: SARTIMBAMBA

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/090200_AMBO/090201_AMBO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 52
+data.totalActas: 52
+data.participacionCiudadana: 76.399
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 11663
+data.totalVotosValidos: 8874
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

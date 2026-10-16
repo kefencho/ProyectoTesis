@@ -1,0 +1,10 @@
+FUENTE: data/raw/ONPE_2026/Peru/230000_TUMBES/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 230200
+data[0].nombre: CONTRALMIRANTE VILLAR
+data[1].ubigeo: 230100
+data[1].nombre: TUMBES
+data[2].ubigeo: 230300
+data[2].nombre: ZARUMILLA

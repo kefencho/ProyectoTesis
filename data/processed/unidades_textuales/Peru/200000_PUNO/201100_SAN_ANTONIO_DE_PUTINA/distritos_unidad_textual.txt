@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/201100_SAN_ANTONIO_DE_PUTINA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 201104
+data[0].nombre: ANANEA
+data[1].ubigeo: 201102
+data[1].nombre: PEDRO VILCA APAZA
+data[2].ubigeo: 201101
+data[2].nombre: PUTINA
+data[3].ubigeo: 201103
+data[3].nombre: QUILCAPUNCU
+data[4].ubigeo: 201105
+data[4].nombre: SINA

@@ -1,0 +1,36 @@
+FUENTE: data/raw/ONPE_2026/Peru/080000_HUANCAVELICA/080600_HUAYTARA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 080601
+data[0].nombre: AYAVI
+data[1].ubigeo: 080602
+data[1].nombre: CÓRDOVA
+data[2].ubigeo: 080603
+data[2].nombre: HUAYACUNDO ARMA
+data[3].ubigeo: 080604
+data[3].nombre: HUAYTARA
+data[4].ubigeo: 080605
+data[4].nombre: LARAMARCA
+data[5].ubigeo: 080606
+data[5].nombre: OCOYO
+data[6].ubigeo: 080607
+data[6].nombre: PILPICHACA
+data[7].ubigeo: 080608
+data[7].nombre: QUERCO
+data[8].ubigeo: 080609
+data[8].nombre: QUITO-ARMA
+data[9].ubigeo: 080610
+data[9].nombre: SAN ANTONIO DE CUSICANCHA
+data[10].ubigeo: 080611
+data[10].nombre: SAN FRANCISCO DE SANGAYAICO
+data[11].ubigeo: 080612
+data[11].nombre: SAN ISIDRO
+data[12].ubigeo: 080613
+data[12].nombre: SANTIAGO DE CHOCORVOS
+data[13].ubigeo: 080614
+data[13].nombre: SANTIAGO DE QUIRAHUARA
+data[14].ubigeo: 080615
+data[14].nombre: SANTO DOMINGO DE CAPILLAS
+data[15].ubigeo: 080616
+data[15].nombre: TAMBO

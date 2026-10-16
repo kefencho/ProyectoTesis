@@ -1,0 +1,26 @@
+FUENTE: data/raw/ONPE_2026/Peru/150000_LORETO/150400_REQUENA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 150402
+data[0].nombre: ALTO TAPICHE
+data[1].ubigeo: 150403
+data[1].nombre: CAPELO
+data[2].ubigeo: 150404
+data[2].nombre: EMILIO SAN MARTÍN
+data[3].ubigeo: 150410
+data[3].nombre: JENARO HERRERA
+data[4].ubigeo: 150405
+data[4].nombre: MAQUIA
+data[5].ubigeo: 150406
+data[5].nombre: PUINAHUA
+data[6].ubigeo: 150401
+data[6].nombre: REQUENA
+data[7].ubigeo: 150407
+data[7].nombre: SAQUENA
+data[8].ubigeo: 150408
+data[8].nombre: SOPLIN
+data[9].ubigeo: 150409
+data[9].nombre: TAPICHE
+data[10].ubigeo: 150411
+data[10].nombre: YAQUERANA

@@ -1,0 +1,36 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/020800_HUARI/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 020816
+data[0].nombre: ANRA
+data[1].ubigeo: 020802
+data[1].nombre: CAJAY
+data[2].ubigeo: 020803
+data[2].nombre: CHAVÍN DE HUÁNTAR
+data[3].ubigeo: 020804
+data[3].nombre: HUACACHI
+data[4].ubigeo: 020806
+data[4].nombre: HUACCHIS
+data[5].ubigeo: 020805
+data[5].nombre: HUACHIS
+data[6].ubigeo: 020807
+data[6].nombre: HUANTAR
+data[7].ubigeo: 020801
+data[7].nombre: HUARI
+data[8].ubigeo: 020808
+data[8].nombre: MASIN
+data[9].ubigeo: 020809
+data[9].nombre: PAUCAS
+data[10].ubigeo: 020810
+data[10].nombre: PONTO
+data[11].ubigeo: 020811
+data[11].nombre: RAHUAPAMPA
+data[12].ubigeo: 020812
+data[12].nombre: RAPAYAN
+data[13].ubigeo: 020813
+data[13].nombre: SAN MARCOS
+data[14].ubigeo: 020814
+data[14].nombre: SAN PEDRO DE CHANA
+data[15].ubigeo: 020815
+data[15].nombre: UCO

@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/140000_LIMA/140200_CAJATAMBO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 140201
+data[0].nombre: CAJATAMBO
+data[1].ubigeo: 140205
+data[1].nombre: COPA
+data[2].ubigeo: 140206
+data[2].nombre: GORGOR
+data[3].ubigeo: 140207
+data[3].nombre: HUANCAPON
+data[4].ubigeo: 140208
+data[4].nombre: MANAS

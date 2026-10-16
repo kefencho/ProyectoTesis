@@ -1,0 +1,28 @@
+FUENTE: data/raw/ONPE_2026/Peru/010000_AMAZONAS/010500_RODRÍGUEZ_DE_MENDOZA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 010503
+data[0].nombre: CHIRIMOTO
+data[1].ubigeo: 010502
+data[1].nombre: COCHAMAL
+data[2].ubigeo: 010504
+data[2].nombre: HUAMBO
+data[3].ubigeo: 010505
+data[3].nombre: LIMABAMBA
+data[4].ubigeo: 010506
+data[4].nombre: LONGAR
+data[5].ubigeo: 010508
+data[5].nombre: MARISCAL BENAVIDES
+data[6].ubigeo: 010507
+data[6].nombre: MILPUCC
+data[7].ubigeo: 010509
+data[7].nombre: OMIA
+data[8].ubigeo: 010501
+data[8].nombre: SAN NICOLÁS
+data[9].ubigeo: 010510
+data[9].nombre: SANTA ROSA
+data[10].ubigeo: 010511
+data[10].nombre: TOTORA
+data[11].ubigeo: 010512
+data[11].nombre: VISTA ALEGRE

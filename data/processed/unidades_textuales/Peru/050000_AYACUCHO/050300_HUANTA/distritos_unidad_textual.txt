@@ -1,0 +1,30 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/050300_HUANTA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 050302
+data[0].nombre: AYAHUANCO
+data[1].ubigeo: 050310
+data[1].nombre: CANAYRE
+data[2].ubigeo: 050313
+data[2].nombre: CHACA
+data[3].ubigeo: 050303
+data[3].nombre: HUAMANGUILLA
+data[4].ubigeo: 050301
+data[4].nombre: HUANTA
+data[5].ubigeo: 050304
+data[5].nombre: IGUAIN
+data[6].ubigeo: 050309
+data[6].nombre: LLOCHEGUA
+data[7].ubigeo: 050305
+data[7].nombre: LURICOCHA
+data[8].ubigeo: 050312
+data[8].nombre: PUCACOLPA
+data[9].ubigeo: 050314
+data[9].nombre: PUTIS
+data[10].ubigeo: 050307
+data[10].nombre: SANTILLANA
+data[11].ubigeo: 050308
+data[11].nombre: SIVIA
+data[12].ubigeo: 050311
+data[12].nombre: UCHURACCAY

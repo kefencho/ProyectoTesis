@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/050300_HUANTA/050309_LLOCHEGUA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 27
+data.totalActas: 27
+data.participacionCiudadana: 55.665
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 4284
+data.totalVotosValidos: 3216
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

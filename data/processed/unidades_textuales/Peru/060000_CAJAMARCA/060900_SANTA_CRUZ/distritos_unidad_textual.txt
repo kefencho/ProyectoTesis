@@ -1,0 +1,26 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/060900_SANTA_CRUZ/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 060910
+data[0].nombre: ANDABAMBA
+data[1].ubigeo: 060902
+data[1].nombre: CATACHE
+data[2].ubigeo: 060903
+data[2].nombre: CHANCAYBAÑOS
+data[3].ubigeo: 060904
+data[3].nombre: LA ESPERANZA
+data[4].ubigeo: 060905
+data[4].nombre: NINABAMBA
+data[5].ubigeo: 060906
+data[5].nombre: PULÁN
+data[6].ubigeo: 060901
+data[6].nombre: SANTA CRUZ
+data[7].ubigeo: 060911
+data[7].nombre: SAUCEPAMPA
+data[8].ubigeo: 060907
+data[8].nombre: SEXI
+data[9].ubigeo: 060908
+data[9].nombre: UTICYACU
+data[10].ubigeo: 060909
+data[10].nombre: YAUYUCAN

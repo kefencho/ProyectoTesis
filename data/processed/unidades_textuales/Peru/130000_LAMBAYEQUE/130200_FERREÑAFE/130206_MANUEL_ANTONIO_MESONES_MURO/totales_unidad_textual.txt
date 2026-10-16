@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/130000_LAMBAYEQUE/130200_FERREÑAFE/130206_MANUEL_ANTONIO_MESONES_MURO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 13
+data.totalActas: 13
+data.participacionCiudadana: 80.65
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 2980
+data.totalVotosValidos: 2263
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

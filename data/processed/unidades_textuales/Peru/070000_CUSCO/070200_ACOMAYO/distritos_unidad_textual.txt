@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/070200_ACOMAYO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 070201
+data[0].nombre: ACOMAYO
+data[1].ubigeo: 070202
+data[1].nombre: ACOPIA
+data[2].ubigeo: 070203
+data[2].nombre: ACOS
+data[3].ubigeo: 070207
+data[3].nombre: MOSOC LLACTA
+data[4].ubigeo: 070204
+data[4].nombre: POMACANCHI
+data[5].ubigeo: 070205
+data[5].nombre: RONDOCAN
+data[6].ubigeo: 070206
+data[6].nombre: SANGARARA

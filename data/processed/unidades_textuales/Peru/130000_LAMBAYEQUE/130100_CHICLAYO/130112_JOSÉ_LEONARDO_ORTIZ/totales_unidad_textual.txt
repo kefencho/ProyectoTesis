@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/130000_LAMBAYEQUE/130100_CHICLAYO/130112_JOSÉ_LEONARDO_ORTIZ/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 477
+data.totalActas: 477
+data.participacionCiudadana: 77.944
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 111102
+data.totalVotosValidos: 92486
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

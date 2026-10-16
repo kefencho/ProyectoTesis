@@ -1,0 +1,46 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/050500_LUCANAS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 050502
+data[0].nombre: AUCARA
+data[1].ubigeo: 050503
+data[1].nombre: CABANA
+data[2].ubigeo: 050504
+data[2].nombre: CARMEN SALCEDO
+data[3].ubigeo: 050506
+data[3].nombre: CHAVIÑA
+data[4].ubigeo: 050508
+data[4].nombre: CHIPAO
+data[5].ubigeo: 050510
+data[5].nombre: HUAC-HUAS
+data[6].ubigeo: 050511
+data[6].nombre: LARAMATE
+data[7].ubigeo: 050512
+data[7].nombre: LEONCIO PRADO
+data[8].ubigeo: 050514
+data[8].nombre: LLAUTA
+data[9].ubigeo: 050513
+data[9].nombre: LUCANAS
+data[10].ubigeo: 050516
+data[10].nombre: OCAÑA
+data[11].ubigeo: 050517
+data[11].nombre: OTOCA
+data[12].ubigeo: 050501
+data[12].nombre: PUQUIO
+data[13].ubigeo: 050529
+data[13].nombre: SAISA
+data[14].ubigeo: 050520
+data[14].nombre: SANCOS
+data[15].ubigeo: 050532
+data[15].nombre: SAN CRISTÓBAL
+data[16].ubigeo: 050521
+data[16].nombre: SAN JUAN
+data[17].ubigeo: 050522
+data[17].nombre: SAN PEDRO
+data[18].ubigeo: 050531
+data[18].nombre: SAN PEDRO DE PALCO
+data[19].ubigeo: 050524
+data[19].nombre: SANTA ANA DE HUAYCAHUACHO
+data[20].ubigeo: 050525
+data[20].nombre: SANTA LUCÍA

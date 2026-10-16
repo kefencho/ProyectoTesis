@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/050600_PARINACOCHAS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 050605
+data[0].nombre: CHUMPI
+data[1].ubigeo: 050601
+data[1].nombre: CORACORA
+data[2].ubigeo: 050604
+data[2].nombre: CORONEL CASTAÑEDA
+data[3].ubigeo: 050608
+data[3].nombre: PACAPAUSA
+data[4].ubigeo: 050611
+data[4].nombre: PULLO
+data[5].ubigeo: 050612
+data[5].nombre: PUYUSCA
+data[6].ubigeo: 050615
+data[6].nombre: SAN FRANCISCO DE RIVACAYCO
+data[7].ubigeo: 050616
+data[7].nombre: UPAHUACHO

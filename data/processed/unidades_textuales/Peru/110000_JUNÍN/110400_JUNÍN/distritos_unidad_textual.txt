@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/110400_JUNÍN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 110402
+data[0].nombre: CARHUAMAYO
+data[1].ubigeo: 110401
+data[1].nombre: JUNÍN
+data[2].ubigeo: 110403
+data[2].nombre: ONDORES
+data[3].ubigeo: 110404
+data[3].nombre: ULCUMAYO

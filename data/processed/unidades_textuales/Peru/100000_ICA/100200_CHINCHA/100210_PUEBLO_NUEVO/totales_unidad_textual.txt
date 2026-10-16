@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/100000_ICA/100200_CHINCHA/100210_PUEBLO_NUEVO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 139
+data.totalActas: 139
+data.participacionCiudadana: 83.056
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 34106
+data.totalVotosValidos: 28163
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

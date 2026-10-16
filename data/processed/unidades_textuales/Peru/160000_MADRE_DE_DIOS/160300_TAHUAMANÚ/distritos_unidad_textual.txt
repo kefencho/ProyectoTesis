@@ -1,0 +1,10 @@
+FUENTE: data/raw/ONPE_2026/Peru/160000_MADRE_DE_DIOS/160300_TAHUAMANÚ/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 160302
+data[0].nombre: IBERIA
+data[1].ubigeo: 160301
+data[1].nombre: IÑAPARÍ
+data[2].ubigeo: 160303
+data[2].nombre: TAHUAMANÚ

@@ -1,0 +1,22 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 110800
+data[0].nombre: CHANCHAMAYO
+data[1].ubigeo: 110900
+data[1].nombre: CHUPACA
+data[2].ubigeo: 110200
+data[2].nombre: CONCEPCIÓN
+data[3].ubigeo: 110100
+data[3].nombre: HUANCAYO
+data[4].ubigeo: 110300
+data[4].nombre: JAUJA
+data[5].ubigeo: 110400
+data[5].nombre: JUNÍN
+data[6].ubigeo: 110700
+data[6].nombre: SATIPO
+data[7].ubigeo: 110500
+data[7].nombre: TARMA
+data[8].ubigeo: 110600
+data[8].nombre: YAULI

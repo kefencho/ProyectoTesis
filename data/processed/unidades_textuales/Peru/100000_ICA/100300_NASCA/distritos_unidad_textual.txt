@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/100000_ICA/100300_NASCA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 100302
+data[0].nombre: CHANGUILLO
+data[1].ubigeo: 100303
+data[1].nombre: EL INGENIO
+data[2].ubigeo: 100304
+data[2].nombre: MARCONA
+data[3].ubigeo: 100301
+data[3].nombre: NASCA
+data[4].ubigeo: 100305
+data[4].nombre: VISTA ALEGRE

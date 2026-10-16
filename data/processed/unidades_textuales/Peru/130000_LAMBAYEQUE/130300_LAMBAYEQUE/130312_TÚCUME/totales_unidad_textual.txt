@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/130000_LAMBAYEQUE/130300_LAMBAYEQUE/130312_TÚCUME/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 69
+data.totalActas: 69
+data.participacionCiudadana: 80.436
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 16343
+data.totalVotosValidos: 13020
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

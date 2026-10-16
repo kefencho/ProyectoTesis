@@ -1,0 +1,32 @@
+FUENTE: data/raw/ONPE_2026/Peru/040000_AREQUIPA/040500_CASTILLA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 040502
+data[0].nombre: ANDAGUA
+data[1].ubigeo: 040501
+data[1].nombre: APLAO
+data[2].ubigeo: 040503
+data[2].nombre: AYO
+data[3].ubigeo: 040504
+data[3].nombre: CHACHAS
+data[4].ubigeo: 040505
+data[4].nombre: CHILCAYMARCA
+data[5].ubigeo: 040506
+data[5].nombre: CHOCO
+data[6].ubigeo: 040507
+data[6].nombre: HUANCARQUI
+data[7].ubigeo: 040508
+data[7].nombre: MACHAGUAY
+data[8].ubigeo: 040509
+data[8].nombre: ORCOPAMPA
+data[9].ubigeo: 040510
+data[9].nombre: PAMPACOLCA
+data[10].ubigeo: 040511
+data[10].nombre: TIPAN
+data[11].ubigeo: 040513
+data[11].nombre: UÑON
+data[12].ubigeo: 040512
+data[12].nombre: URACA
+data[13].ubigeo: 040514
+data[13].nombre: VIRACO

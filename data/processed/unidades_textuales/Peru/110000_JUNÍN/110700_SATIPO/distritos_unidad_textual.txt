@@ -1,0 +1,22 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/110700_SATIPO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 110702
+data[0].nombre: COVIRIALI
+data[1].ubigeo: 110703
+data[1].nombre: LLAYLLA
+data[2].ubigeo: 110704
+data[2].nombre: MAZAMARI
+data[3].ubigeo: 110705
+data[3].nombre: PAMPA HERMOSA
+data[4].ubigeo: 110706
+data[4].nombre: PANGOA
+data[5].ubigeo: 110707
+data[5].nombre: RÍO NEGRO
+data[6].ubigeo: 110708
+data[6].nombre: RÍO TAMBO
+data[7].ubigeo: 110701
+data[7].nombre: SATIPO
+data[8].ubigeo: 110709
+data[8].nombre: VIZCATÁN DEL ENE

@@ -1,0 +1,22 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/070300_ANTA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 070309
+data[0].nombre: ANCAHUASI
+data[1].ubigeo: 070301
+data[1].nombre: ANTA
+data[2].ubigeo: 070308
+data[2].nombre: CACHIMAYO
+data[3].ubigeo: 070302
+data[3].nombre: CHINCHAYPUJIO
+data[4].ubigeo: 070303
+data[4].nombre: HUAROCONDO
+data[5].ubigeo: 070304
+data[5].nombre: LIMATAMBO
+data[6].ubigeo: 070305
+data[6].nombre: MOLLEPATA
+data[7].ubigeo: 070306
+data[7].nombre: PUCYURA
+data[8].ubigeo: 070307
+data[8].nombre: ZURITE

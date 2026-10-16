@@ -1,0 +1,6 @@
+FUENTE: data/raw/ONPE_2026/Peru/250000_UCAYALI/250400_PURÚS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 250401
+data[0].nombre: PURÚS

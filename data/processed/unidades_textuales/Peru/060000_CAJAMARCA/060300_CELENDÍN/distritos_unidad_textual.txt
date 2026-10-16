@@ -1,0 +1,28 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/060300_CELENDÍN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 060301
+data[0].nombre: CELENDÍN
+data[1].ubigeo: 060303
+data[1].nombre: CHUMUCH
+data[2].ubigeo: 060302
+data[2].nombre: CORTEGANA
+data[3].ubigeo: 060304
+data[3].nombre: HUASMÍN
+data[4].ubigeo: 060305
+data[4].nombre: JORGE CHÁVEZ
+data[5].ubigeo: 060306
+data[5].nombre: JOSÉ GÁLVEZ
+data[6].ubigeo: 060312
+data[6].nombre: LA LIBERTAD DE PALLÁN
+data[7].ubigeo: 060307
+data[7].nombre: MIGUEL IGLESIAS
+data[8].ubigeo: 060308
+data[8].nombre: OXAMARCA
+data[9].ubigeo: 060309
+data[9].nombre: SOROCHUCO
+data[10].ubigeo: 060310
+data[10].nombre: SUCRE
+data[11].ubigeo: 060311
+data[11].nombre: UTCO

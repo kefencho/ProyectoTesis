@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/150000_LORETO/150500_UCAYALI/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 150501
+data[0].nombre: CONTAMANA
+data[1].ubigeo: 150506
+data[1].nombre: INAHUAYA
+data[2].ubigeo: 150503
+data[2].nombre: PADRE MÁRQUEZ
+data[3].ubigeo: 150504
+data[3].nombre: PAMPA HERMOSA
+data[4].ubigeo: 150505
+data[4].nombre: SARAYACU
+data[5].ubigeo: 150502
+data[5].nombre: VARGAS GUERRA

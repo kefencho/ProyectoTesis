@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/180000_PASCO/180200_DANIEL_ALCIDES_CARRIÓN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 180202
+data[0].nombre: CHACAYÁN
+data[1].ubigeo: 180203
+data[1].nombre: GOYLLARISQUIZGA
+data[2].ubigeo: 180204
+data[2].nombre: PAUCAR
+data[3].ubigeo: 180205
+data[3].nombre: SAN PEDRO DE PILLAO
+data[4].ubigeo: 180206
+data[4].nombre: SANTA ANA DE TUSI
+data[5].ubigeo: 180207
+data[5].nombre: TAPUC
+data[6].ubigeo: 180208
+data[6].nombre: VILCABAMBA
+data[7].ubigeo: 180201
+data[7].nombre: YANAHUANCA

@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/120300_SÁNCHEZ_CARRIÓN/120303_CURGOS/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 25
+data.totalActas: 25
+data.participacionCiudadana: 73.116
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 5238
+data.totalVotosValidos: 3757
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

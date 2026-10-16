@@ -1,0 +1,10 @@
+FUENTE: data/raw/ONPE_2026/Peru/180000_PASCO/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 180200
+data[0].nombre: DANIEL ALCIDES CARRIÓN
+data[1].ubigeo: 180300
+data[1].nombre: OXAPAMPA
+data[2].ubigeo: 180100
+data[2].nombre: PASCO

@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/170000_MOQUEGUA/170100_MARISCAL_NIETO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 170102
+data[0].nombre: CARUMAS
+data[1].ubigeo: 170103
+data[1].nombre: CUCHUMBAYA
+data[2].ubigeo: 170101
+data[2].nombre: MOQUEGUA
+data[3].ubigeo: 170106
+data[3].nombre: SAMEGUA
+data[4].ubigeo: 170107
+data[4].nombre: SAN ANTONIO
+data[5].ubigeo: 170104
+data[5].nombre: SAN CRISTÓBAL
+data[6].ubigeo: 170105
+data[6].nombre: TORATA

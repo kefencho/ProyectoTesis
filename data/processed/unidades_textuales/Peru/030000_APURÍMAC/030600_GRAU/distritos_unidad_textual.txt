@@ -1,0 +1,32 @@
+FUENTE: data/raw/ONPE_2026/Peru/030000_APURÍMAC/030600_GRAU/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 030601
+data[0].nombre: CHUQUIBAMBILLA
+data[1].ubigeo: 030614
+data[1].nombre: CURASCO
+data[2].ubigeo: 030602
+data[2].nombre: CURPAHUASI
+data[3].ubigeo: 030605
+data[3].nombre: GAMARRA
+data[4].ubigeo: 030603
+data[4].nombre: HUAYLLATI
+data[5].ubigeo: 030604
+data[5].nombre: MAMARA
+data[6].ubigeo: 030606
+data[6].nombre: MICAELA BASTIDAS
+data[7].ubigeo: 030608
+data[7].nombre: PATAYPAMPA
+data[8].ubigeo: 030607
+data[8].nombre: PROGRESO
+data[9].ubigeo: 030609
+data[9].nombre: SAN ANTONIO
+data[10].ubigeo: 030613
+data[10].nombre: SANTA ROSA
+data[11].ubigeo: 030610
+data[11].nombre: TURPAY
+data[12].ubigeo: 030611
+data[12].nombre: VILCABAMBA
+data[13].ubigeo: 030612
+data[13].nombre: VIRUNDO

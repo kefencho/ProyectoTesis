@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/030000_APURÍMAC/030400_ANTABAMBA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 030401
+data[0].nombre: ANTABAMBA
+data[1].ubigeo: 030402
+data[1].nombre: EL ORO
+data[2].ubigeo: 030403
+data[2].nombre: HUAQUIRCA
+data[3].ubigeo: 030404
+data[3].nombre: JUAN ESPINOZA MEDRANO
+data[4].ubigeo: 030405
+data[4].nombre: OROPESA
+data[5].ubigeo: 030406
+data[5].nombre: PACHACONAS
+data[6].ubigeo: 030407
+data[6].nombre: SABAINO

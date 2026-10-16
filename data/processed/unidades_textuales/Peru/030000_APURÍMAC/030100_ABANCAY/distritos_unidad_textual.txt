@@ -1,0 +1,22 @@
+FUENTE: data/raw/ONPE_2026/Peru/030000_APURÍMAC/030100_ABANCAY/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 030101
+data[0].nombre: ABANCAY
+data[1].ubigeo: 030104
+data[1].nombre: CHACOCHE
+data[2].ubigeo: 030102
+data[2].nombre: CIRCA
+data[3].ubigeo: 030103
+data[3].nombre: CURAHUASI
+data[4].ubigeo: 030105
+data[4].nombre: HUANIPACA
+data[5].ubigeo: 030106
+data[5].nombre: LAMBRAMA
+data[6].ubigeo: 030107
+data[6].nombre: PICHIRHUA
+data[7].ubigeo: 030108
+data[7].nombre: SAN PEDRO DE CACHORA
+data[8].ubigeo: 030109
+data[8].nombre: TAMBURCO

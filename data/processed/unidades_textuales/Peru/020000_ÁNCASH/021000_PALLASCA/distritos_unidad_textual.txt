@@ -1,0 +1,26 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/021000_PALLASCA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 021002
+data[0].nombre: BOLOGNESI
+data[1].ubigeo: 021001
+data[1].nombre: CABANA
+data[2].ubigeo: 021003
+data[2].nombre: CONCHUCOS
+data[3].ubigeo: 021004
+data[3].nombre: HUACASCHUQUE
+data[4].ubigeo: 021005
+data[4].nombre: HUANDOVAL
+data[5].ubigeo: 021006
+data[5].nombre: LACABAMBA
+data[6].ubigeo: 021007
+data[6].nombre: LLAPO
+data[7].ubigeo: 021008
+data[7].nombre: PALLASCA
+data[8].ubigeo: 021009
+data[8].nombre: PAMPAS
+data[9].ubigeo: 021010
+data[9].nombre: SANTA ROSA
+data[10].ubigeo: 021011
+data[10].nombre: TAUCA

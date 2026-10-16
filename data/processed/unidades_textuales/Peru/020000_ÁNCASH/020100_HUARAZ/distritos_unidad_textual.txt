@@ -1,0 +1,28 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/020100_HUARAZ/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 020103
+data[0].nombre: COCHABAMBA
+data[1].ubigeo: 020104
+data[1].nombre: COLCABAMBA
+data[2].ubigeo: 020105
+data[2].nombre: HUANCHAY
+data[3].ubigeo: 020101
+data[3].nombre: HUARAZ
+data[4].ubigeo: 020102
+data[4].nombre: INDEPENDENCIA
+data[5].ubigeo: 020106
+data[5].nombre: JANGAS
+data[6].ubigeo: 020107
+data[6].nombre: LA LIBERTAD
+data[7].ubigeo: 020108
+data[7].nombre: OLLEROS
+data[8].ubigeo: 020109
+data[8].nombre: PAMPAS GRANDE
+data[9].ubigeo: 020110
+data[9].nombre: PARIACOTO
+data[10].ubigeo: 020111
+data[10].nombre: PIRA
+data[11].ubigeo: 020112
+data[11].nombre: TARICA

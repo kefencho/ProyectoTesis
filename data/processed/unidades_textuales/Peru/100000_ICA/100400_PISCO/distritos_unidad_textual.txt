@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/100000_ICA/100400_PISCO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 100402
+data[0].nombre: HUANCANO
+data[1].ubigeo: 100403
+data[1].nombre: HUMAY
+data[2].ubigeo: 100404
+data[2].nombre: INDEPENDENCIA
+data[3].ubigeo: 100405
+data[3].nombre: PARACAS
+data[4].ubigeo: 100401
+data[4].nombre: PISCO
+data[5].ubigeo: 100406
+data[5].nombre: SAN ANDRÉS
+data[6].ubigeo: 100407
+data[6].nombre: SAN CLEMENTE
+data[7].ubigeo: 100408
+data[7].nombre: TUPAC AMARU INCA

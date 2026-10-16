@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/040000_AREQUIPA/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 040100
+data[0].nombre: AREQUIPA
+data[1].ubigeo: 040300
+data[1].nombre: CAMANÁ
+data[2].ubigeo: 040400
+data[2].nombre: CARAVELÍ
+data[3].ubigeo: 040500
+data[3].nombre: CASTILLA
+data[4].ubigeo: 040200
+data[4].nombre: CAYLLOMA
+data[5].ubigeo: 040600
+data[5].nombre: CONDESUYOS
+data[6].ubigeo: 040700
+data[6].nombre: ISLAY
+data[7].ubigeo: 040800
+data[7].nombre: LA UNIÓN

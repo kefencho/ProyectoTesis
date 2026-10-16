@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/100000_ICA/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 100200
+data[0].nombre: CHINCHA
+data[1].ubigeo: 100100
+data[1].nombre: ICA
+data[2].ubigeo: 100300
+data[2].nombre: NASCA
+data[3].ubigeo: 100500
+data[3].nombre: PALPA
+data[4].ubigeo: 100400
+data[4].nombre: PISCO

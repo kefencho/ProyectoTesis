@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/021100_POMABAMBA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 021102
+data[0].nombre: HUAYLLAN
+data[1].ubigeo: 021103
+data[1].nombre: PAROBAMBA
+data[2].ubigeo: 021101
+data[2].nombre: POMABAMBA
+data[3].ubigeo: 021104
+data[3].nombre: QUINUABAMBA

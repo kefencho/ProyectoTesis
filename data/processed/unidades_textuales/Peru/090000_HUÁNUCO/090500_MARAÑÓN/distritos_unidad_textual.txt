@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/090500_MARAÑÓN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 090502
+data[0].nombre: CHOLÓN
+data[1].ubigeo: 090501
+data[1].nombre: HUACRACHUCO
+data[2].ubigeo: 090506
+data[2].nombre: LA MORADA
+data[3].ubigeo: 090505
+data[3].nombre: SAN BUENAVENTURA
+data[4].ubigeo: 090507
+data[4].nombre: SANTA ROSA DE ALTO YANAJANCA

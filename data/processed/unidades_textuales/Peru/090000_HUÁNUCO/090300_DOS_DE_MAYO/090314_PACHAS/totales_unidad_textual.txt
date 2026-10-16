@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/090300_DOS_DE_MAYO/090314_PACHAS/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 20
+data.totalActas: 20
+data.participacionCiudadana: 62.995
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 3403
+data.totalVotosValidos: 2539
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

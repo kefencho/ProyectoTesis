@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/230000_TUMBES/230200_CONTRALMIRANTE_VILLAR/230203_CANOAS_DE_PUNTA_SAL/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 17
+data.totalActas: 17
+data.participacionCiudadana: 81.368
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 3865
+data.totalVotosValidos: 3056
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

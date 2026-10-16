@@ -1,0 +1,30 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/090100_HUÁNUCO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 090110
+data[0].nombre: AMARILIS
+data[1].ubigeo: 090102
+data[1].nombre: CHINCHAO
+data[2].ubigeo: 090103
+data[2].nombre: CHURUBAMBA
+data[3].ubigeo: 090101
+data[3].nombre: HUÁNUCO
+data[4].ubigeo: 090104
+data[4].nombre: MARGOS
+data[5].ubigeo: 090111
+data[5].nombre: PILLCO MARCA
+data[6].ubigeo: 090105
+data[6].nombre: QUISQUI (KICHKI)
+data[7].ubigeo: 090106
+data[7].nombre: SAN FRANCISCO DE CAYRÁN
+data[8].ubigeo: 090113
+data[8].nombre: SAN PABLO DE PILLAO
+data[9].ubigeo: 090107
+data[9].nombre: SAN PEDRO DE CHAULÁN
+data[10].ubigeo: 090108
+data[10].nombre: SANTA MARÍA DEL VALLE
+data[11].ubigeo: 090112
+data[11].nombre: YACUS
+data[12].ubigeo: 090109
+data[12].nombre: YARUMAYO

@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/071300_URUBAMBA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 071302
+data[0].nombre: CHINCHERO
+data[1].ubigeo: 071303
+data[1].nombre: HUAYLLABAMBA
+data[2].ubigeo: 071304
+data[2].nombre: MACHUPICCHU
+data[3].ubigeo: 071305
+data[3].nombre: MARAS
+data[4].ubigeo: 071306
+data[4].nombre: OLLANTAYTAMBO
+data[5].ubigeo: 071301
+data[5].nombre: URUBAMBA
+data[6].ubigeo: 071307
+data[6].nombre: YUCAY

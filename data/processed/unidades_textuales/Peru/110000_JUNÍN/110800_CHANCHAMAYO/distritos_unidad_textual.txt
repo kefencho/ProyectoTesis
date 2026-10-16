@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/110800_CHANCHAMAYO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 110801
+data[0].nombre: CHANCHAMAYO
+data[1].ubigeo: 110806
+data[1].nombre: PERENÉ
+data[2].ubigeo: 110805
+data[2].nombre: PICHANAQUI
+data[3].ubigeo: 110804
+data[3].nombre: SAN LUIS DE SHUARO
+data[4].ubigeo: 110802
+data[4].nombre: SAN RAMÓN
+data[5].ubigeo: 110803
+data[5].nombre: VITOC

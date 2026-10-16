@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/110200_CONCEPCIÓN/110215_SAN_JOSÉ_DE_QUERO/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 19
+data.totalActas: 19
+data.participacionCiudadana: 67.644
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 3483
+data.totalVotosValidos: 2461
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

@@ -1,0 +1,26 @@
+FUENTE: data/raw/ONPE_2026/Peru/050000_AYACUCHO/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 050200
+data[0].nombre: CANGALLO
+data[1].ubigeo: 050100
+data[1].nombre: HUAMANGA
+data[2].ubigeo: 050800
+data[2].nombre: HUANCA SANCOS
+data[3].ubigeo: 050300
+data[3].nombre: HUANTA
+data[4].ubigeo: 050400
+data[4].nombre: LA MAR
+data[5].ubigeo: 050500
+data[5].nombre: LUCANAS
+data[6].ubigeo: 050600
+data[6].nombre: PARINACOCHAS
+data[7].ubigeo: 051000
+data[7].nombre: PÁUCAR DEL SARA SARA
+data[8].ubigeo: 051100
+data[8].nombre: SUCRE
+data[9].ubigeo: 050700
+data[9].nombre: VÍCTOR FAJARDO
+data[10].ubigeo: 050900
+data[10].nombre: VILCAS HUAMÁN

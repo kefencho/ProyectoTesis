@@ -1,0 +1,24 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/120400_OTUZCO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 120402
+data[0].nombre: AGALLPAMPA
+data[1].ubigeo: 120403
+data[1].nombre: CHARAT
+data[2].ubigeo: 120404
+data[2].nombre: HUARANCHAL
+data[3].ubigeo: 120405
+data[3].nombre: LA CUESTA
+data[4].ubigeo: 120413
+data[4].nombre: MACHE
+data[5].ubigeo: 120401
+data[5].nombre: OTUZCO
+data[6].ubigeo: 120408
+data[6].nombre: PARANDAY
+data[7].ubigeo: 120409
+data[7].nombre: SALPO
+data[8].ubigeo: 120410
+data[8].nombre: SINSICAP
+data[9].ubigeo: 120411
+data[9].nombre: USQUIL

@@ -1,0 +1,34 @@
+FUENTE: data/raw/ONPE_2026/Peru/200000_PUNO/200200_AZÁNGARO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 200202
+data[0].nombre: ACHAYA
+data[1].ubigeo: 200203
+data[1].nombre: ARAPA
+data[2].ubigeo: 200204
+data[2].nombre: ASILLO
+data[3].ubigeo: 200201
+data[3].nombre: AZÁNGARO
+data[4].ubigeo: 200205
+data[4].nombre: CAMINACA
+data[5].ubigeo: 200206
+data[5].nombre: CHUPA
+data[6].ubigeo: 200207
+data[6].nombre: JOSÉ DOMINGO CHOQUEHUANCA
+data[7].ubigeo: 200208
+data[7].nombre: MUÑANI
+data[8].ubigeo: 200210
+data[8].nombre: POTONI
+data[9].ubigeo: 200212
+data[9].nombre: SAMAN
+data[10].ubigeo: 200213
+data[10].nombre: SAN ANTON
+data[11].ubigeo: 200214
+data[11].nombre: SAN JOSÉ
+data[12].ubigeo: 200215
+data[12].nombre: SAN JUAN DE SALINAS
+data[13].ubigeo: 200216
+data[13].nombre: SANTIAGO DE PUPUJA
+data[14].ubigeo: 200217
+data[14].nombre: TIRAPATA

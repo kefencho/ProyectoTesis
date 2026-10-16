@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/070100_CUSCO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 070102
+data[0].nombre: CCORCA
+data[1].ubigeo: 070101
+data[1].nombre: CUSCO
+data[2].ubigeo: 070103
+data[2].nombre: POROY
+data[3].ubigeo: 070104
+data[3].nombre: SAN JERÓNIMO
+data[4].ubigeo: 070105
+data[4].nombre: SAN SEBASTIÁN
+data[5].ubigeo: 070106
+data[5].nombre: SANTIAGO
+data[6].ubigeo: 070107
+data[6].nombre: SAYLLA
+data[7].ubigeo: 070108
+data[7].nombre: WANCHAQ

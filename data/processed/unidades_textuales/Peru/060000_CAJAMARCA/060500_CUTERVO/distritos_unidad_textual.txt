@@ -1,0 +1,34 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/060500_CUTERVO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 060502
+data[0].nombre: CALLAYUC
+data[1].ubigeo: 060504
+data[1].nombre: CHOROS
+data[2].ubigeo: 060503
+data[2].nombre: CUJILLO
+data[3].ubigeo: 060501
+data[3].nombre: CUTERVO
+data[4].ubigeo: 060505
+data[4].nombre: LA RAMADA
+data[5].ubigeo: 060506
+data[5].nombre: PIMPINGOS
+data[6].ubigeo: 060507
+data[6].nombre: QUEROCOTILLO
+data[7].ubigeo: 060508
+data[7].nombre: SAN ANDRÉS DE CUTERVO
+data[8].ubigeo: 060509
+data[8].nombre: SAN JUAN DE CUTERVO
+data[9].ubigeo: 060510
+data[9].nombre: SAN LUIS DE LUCMA
+data[10].ubigeo: 060511
+data[10].nombre: SANTA CRUZ
+data[11].ubigeo: 060512
+data[11].nombre: SANTO DOMINGO DE LA CAPILLA
+data[12].ubigeo: 060513
+data[12].nombre: SANTO TOMÁS
+data[13].ubigeo: 060514
+data[13].nombre: SOCOTA
+data[14].ubigeo: 060515
+data[14].nombre: TORIBIO CASANOVA

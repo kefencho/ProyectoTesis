@@ -1,0 +1,32 @@
+FUENTE: data/raw/ONPE_2026/Peru/210000_SAN_MARTÍN/210600_SAN_MARTÍN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 210602
+data[0].nombre: ALBERTO LEVEAU
+data[1].ubigeo: 210604
+data[1].nombre: CACATACHI
+data[2].ubigeo: 210606
+data[2].nombre: CHAZUTA
+data[3].ubigeo: 210607
+data[3].nombre: CHIPURANA
+data[4].ubigeo: 210608
+data[4].nombre: EL PORVENIR
+data[5].ubigeo: 210609
+data[5].nombre: HUIMBAYOC
+data[6].ubigeo: 210610
+data[6].nombre: JUAN GUERRA
+data[7].ubigeo: 210621
+data[7].nombre: LA BANDA DE SHILCAYO
+data[8].ubigeo: 210611
+data[8].nombre: MORALES
+data[9].ubigeo: 210612
+data[9].nombre: PAPAPLAYA
+data[10].ubigeo: 210616
+data[10].nombre: SAN ANTONIO
+data[11].ubigeo: 210619
+data[11].nombre: SAUCE
+data[12].ubigeo: 210620
+data[12].nombre: SHAPAJA
+data[13].ubigeo: 210601
+data[13].nombre: TARAPOTO

@@ -1,0 +1,44 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 020200
+data[0].nombre: AIJA
+data[1].ubigeo: 021600
+data[1].nombre: ANTONIO RAIMONDI
+data[2].ubigeo: 021800
+data[2].nombre: ASUNCIÓN
+data[3].ubigeo: 020300
+data[3].nombre: BOLOGNESI
+data[4].ubigeo: 020400
+data[4].nombre: CARHUAZ
+data[5].ubigeo: 021700
+data[5].nombre: CARLOS FERMÍN FITZCARRALD
+data[6].ubigeo: 020500
+data[6].nombre: CASMA
+data[7].ubigeo: 020600
+data[7].nombre: CORONGO
+data[8].ubigeo: 020100
+data[8].nombre: HUARAZ
+data[9].ubigeo: 020800
+data[9].nombre: HUARI
+data[10].ubigeo: 021900
+data[10].nombre: HUARMEY
+data[11].ubigeo: 020700
+data[11].nombre: HUAYLAS
+data[12].ubigeo: 020900
+data[12].nombre: MARISCAL LUZURIAGA
+data[13].ubigeo: 022000
+data[13].nombre: OCROS
+data[14].ubigeo: 021000
+data[14].nombre: PALLASCA
+data[15].ubigeo: 021100
+data[15].nombre: POMABAMBA
+data[16].ubigeo: 021200
+data[16].nombre: RECUAY
+data[17].ubigeo: 021300
+data[17].nombre: SANTA
+data[18].ubigeo: 021400
+data[18].nombre: SIHUAS
+data[19].ubigeo: 021500
+data[19].nombre: YUNGAY

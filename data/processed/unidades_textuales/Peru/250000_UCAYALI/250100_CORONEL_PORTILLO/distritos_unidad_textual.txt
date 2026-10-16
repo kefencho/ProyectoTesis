@@ -1,0 +1,18 @@
+FUENTE: data/raw/ONPE_2026/Peru/250000_UCAYALI/250100_CORONEL_PORTILLO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 250101
+data[0].nombre: CALLERIA
+data[1].ubigeo: 250104
+data[1].nombre: CAMPOVERDE
+data[2].ubigeo: 250105
+data[2].nombre: IPARÍA
+data[3].ubigeo: 250107
+data[3].nombre: MANANTAY
+data[4].ubigeo: 250103
+data[4].nombre: MASISEA
+data[5].ubigeo: 250106
+data[5].nombre: NUEVA REQUENA
+data[6].ubigeo: 250102
+data[6].nombre: YARINACOCHA

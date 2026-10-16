@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/140000_LIMA/140900_BARRANCA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 140901
+data[0].nombre: BARRANCA
+data[1].ubigeo: 140902
+data[1].nombre: PARAMONGA
+data[2].ubigeo: 140903
+data[2].nombre: PATIVILCA
+data[3].ubigeo: 140904
+data[3].nombre: SUPE
+data[4].ubigeo: 140905
+data[4].nombre: SUPE PUERTO

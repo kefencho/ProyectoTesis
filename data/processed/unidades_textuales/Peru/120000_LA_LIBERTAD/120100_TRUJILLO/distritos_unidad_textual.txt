@@ -1,0 +1,28 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/120100_TRUJILLO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 120113
+data[0].nombre: ALTO TRUJILLO
+data[1].ubigeo: 120110
+data[1].nombre: EL PORVENIR
+data[2].ubigeo: 120112
+data[2].nombre: FLORENCIA DE MORA
+data[3].ubigeo: 120102
+data[3].nombre: HUANCHACO
+data[4].ubigeo: 120111
+data[4].nombre: LA ESPERANZA
+data[5].ubigeo: 120103
+data[5].nombre: LAREDO
+data[6].ubigeo: 120104
+data[6].nombre: MOCHE
+data[7].ubigeo: 120109
+data[7].nombre: POROTO
+data[8].ubigeo: 120105
+data[8].nombre: SALAVERRY
+data[9].ubigeo: 120106
+data[9].nombre: SIMBAL
+data[10].ubigeo: 120101
+data[10].nombre: TRUJILLO
+data[11].ubigeo: 120107
+data[11].nombre: VÍCTOR LARCO HERRERA

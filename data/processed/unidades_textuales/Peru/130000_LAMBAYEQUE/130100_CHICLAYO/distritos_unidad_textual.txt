@@ -1,0 +1,44 @@
+FUENTE: data/raw/ONPE_2026/Peru/130000_LAMBAYEQUE/130100_CHICLAYO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 130116
+data[0].nombre: CAYALTÍ
+data[1].ubigeo: 130101
+data[1].nombre: CHICLAYO
+data[2].ubigeo: 130102
+data[2].nombre: CHONGOYAPE
+data[3].ubigeo: 130103
+data[3].nombre: ETEN
+data[4].ubigeo: 130104
+data[4].nombre: ETEN PUERTO
+data[5].ubigeo: 130112
+data[5].nombre: JOSÉ LEONARDO ORTIZ
+data[6].ubigeo: 130105
+data[6].nombre: LAGUNAS
+data[7].ubigeo: 130115
+data[7].nombre: LA VICTORIA
+data[8].ubigeo: 130106
+data[8].nombre: MONSEFÚ
+data[9].ubigeo: 130107
+data[9].nombre: NUEVA ARICA
+data[10].ubigeo: 130108
+data[10].nombre: OYOTÚN
+data[11].ubigeo: 130117
+data[11].nombre: PÁTAPO
+data[12].ubigeo: 130109
+data[12].nombre: PICSÍ
+data[13].ubigeo: 130110
+data[13].nombre: PIMENTEL
+data[14].ubigeo: 130118
+data[14].nombre: POMALCA
+data[15].ubigeo: 130119
+data[15].nombre: PUCALÁ
+data[16].ubigeo: 130111
+data[16].nombre: REQUE
+data[17].ubigeo: 130113
+data[17].nombre: SANTA ROSA
+data[18].ubigeo: 130114
+data[18].nombre: SAÑA
+data[19].ubigeo: 130120
+data[19].nombre: TUMÁN

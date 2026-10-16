@@ -1,0 +1,10 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/121200_VIRÚ/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 121202
+data[0].nombre: CHAO
+data[1].ubigeo: 121203
+data[1].nombre: GUADALUPITO
+data[2].ubigeo: 121201
+data[2].nombre: VIRÚ

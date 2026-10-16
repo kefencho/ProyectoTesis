@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/110000_JUNÍN/110800_CHANCHAMAYO/110802_SAN_RAMÓN/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 77
+data.totalActas: 77
+data.participacionCiudadana: 72.762
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 16202
+data.totalVotosValidos: 12748
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

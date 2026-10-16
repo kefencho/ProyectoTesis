@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/040000_AREQUIPA/040700_ISLAY/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 040702
+data[0].nombre: COCACHACRA
+data[1].ubigeo: 040703
+data[1].nombre: DEÁN VALDIVIA
+data[2].ubigeo: 040704
+data[2].nombre: ISLAY
+data[3].ubigeo: 040705
+data[3].nombre: MEJÍA
+data[4].ubigeo: 040701
+data[4].nombre: MOLLENDO
+data[5].ubigeo: 040706
+data[5].nombre: PUNTA DE BOMBÓN

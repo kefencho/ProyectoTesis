@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/250000_UCAYALI/250300_ATALAYA/250302_TAHUANIA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 33
+data.totalActas: 33
+data.participacionCiudadana: 39.485
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 3588
+data.totalVotosValidos: 2067
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

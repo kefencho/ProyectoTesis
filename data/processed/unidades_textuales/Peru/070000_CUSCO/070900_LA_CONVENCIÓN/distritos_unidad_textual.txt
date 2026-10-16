@@ -1,0 +1,40 @@
+FUENTE: data/raw/ONPE_2026/Peru/070000_CUSCO/070900_LA_CONVENCIÓN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 070917
+data[0].nombre: CIELO PUNCO
+data[1].ubigeo: 070902
+data[1].nombre: ECHARATE
+data[2].ubigeo: 070903
+data[2].nombre: HUAYOPATA
+data[3].ubigeo: 070911
+data[3].nombre: INKAWASI
+data[4].ubigeo: 070909
+data[4].nombre: KIMBIRI
+data[5].ubigeo: 070916
+data[5].nombre: KUMPIRUSHIATO
+data[6].ubigeo: 070918
+data[6].nombre: MANITEA
+data[7].ubigeo: 070904
+data[7].nombre: MARANURA
+data[8].ubigeo: 070915
+data[8].nombre: MEGANTONI
+data[9].ubigeo: 070905
+data[9].nombre: OCOBAMBA
+data[10].ubigeo: 070910
+data[10].nombre: PICHARI
+data[11].ubigeo: 070908
+data[11].nombre: QUELLOUNO
+data[12].ubigeo: 070901
+data[12].nombre: SANTA ANA
+data[13].ubigeo: 070906
+data[13].nombre: SANTA TERESA
+data[14].ubigeo: 070919
+data[14].nombre: UNIÓN ASHÁNINKA
+data[15].ubigeo: 070907
+data[15].nombre: VILCABAMBA
+data[16].ubigeo: 070913
+data[16].nombre: VILLA KINTIARINA
+data[17].ubigeo: 070912
+data[17].nombre: VILLA VIRGEN

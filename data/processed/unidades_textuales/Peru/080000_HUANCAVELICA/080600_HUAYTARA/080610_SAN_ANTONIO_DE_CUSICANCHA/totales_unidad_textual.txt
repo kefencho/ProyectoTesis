@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/080000_HUANCAVELICA/080600_HUAYTARA/080610_SAN_ANTONIO_DE_CUSICANCHA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 5
+data.totalActas: 5
+data.participacionCiudadana: 51.915
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 759
+data.totalVotosValidos: 535
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

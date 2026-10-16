@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/040000_AREQUIPA/040300_CAMANÁ/040301_CAMANÁ/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 45
+data.totalActas: 45
+data.participacionCiudadana: 75.218
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 9834
+data.totalVotosValidos: 8449
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

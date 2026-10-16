@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/220000_TACNA/220400_CANDARAVE/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 220402
+data[0].nombre: CAIRANI
+data[1].ubigeo: 220406
+data[1].nombre: CAMILACA
+data[2].ubigeo: 220401
+data[2].nombre: CANDARAVE
+data[3].ubigeo: 220403
+data[3].nombre: CURIBAYA
+data[4].ubigeo: 220404
+data[4].nombre: HUANUARA
+data[5].ubigeo: 220405
+data[5].nombre: QUILAHUANI

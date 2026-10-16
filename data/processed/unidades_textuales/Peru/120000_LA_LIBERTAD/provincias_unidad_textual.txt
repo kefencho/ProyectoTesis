@@ -1,0 +1,28 @@
+FUENTE: data/raw/ONPE_2026/Peru/120000_LA_LIBERTAD/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 120800
+data[0].nombre: ASCOPE
+data[1].ubigeo: 120200
+data[1].nombre: BOLÍVAR
+data[2].ubigeo: 120900
+data[2].nombre: CHEPÉN
+data[3].ubigeo: 121100
+data[3].nombre: GRAN CHIMÚ
+data[4].ubigeo: 121000
+data[4].nombre: JULCÁN
+data[5].ubigeo: 120400
+data[5].nombre: OTUZCO
+data[6].ubigeo: 120500
+data[6].nombre: PACASMAYO
+data[7].ubigeo: 120600
+data[7].nombre: PATAZ
+data[8].ubigeo: 120300
+data[8].nombre: SÁNCHEZ CARRIÓN
+data[9].ubigeo: 120700
+data[9].nombre: SANTIAGO DE CHUCO
+data[10].ubigeo: 120100
+data[10].nombre: TRUJILLO
+data[11].ubigeo: 121200
+data[11].nombre: VIRÚ

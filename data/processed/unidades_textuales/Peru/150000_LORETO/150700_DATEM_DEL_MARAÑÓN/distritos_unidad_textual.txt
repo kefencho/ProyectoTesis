@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/150000_LORETO/150700_DATEM_DEL_MARAÑÓN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 150702
+data[0].nombre: ANDOAS
+data[1].ubigeo: 150701
+data[1].nombre: BARRANCA
+data[2].ubigeo: 150703
+data[2].nombre: CAHUAPANAS
+data[3].ubigeo: 150704
+data[3].nombre: MANSERICHE
+data[4].ubigeo: 150705
+data[4].nombre: MORONA
+data[5].ubigeo: 150706
+data[5].nombre: PASTAZA

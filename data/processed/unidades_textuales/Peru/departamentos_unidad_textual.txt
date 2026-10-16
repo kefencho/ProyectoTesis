@@ -1,0 +1,54 @@
+FUENTE: data/raw/ONPE_2026/Peru/departamentos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 010000
+data[0].nombre: AMAZONAS
+data[1].ubigeo: 020000
+data[1].nombre: ÁNCASH
+data[2].ubigeo: 030000
+data[2].nombre: APURÍMAC
+data[3].ubigeo: 040000
+data[3].nombre: AREQUIPA
+data[4].ubigeo: 050000
+data[4].nombre: AYACUCHO
+data[5].ubigeo: 060000
+data[5].nombre: CAJAMARCA
+data[6].ubigeo: 240000
+data[6].nombre: CALLAO
+data[7].ubigeo: 070000
+data[7].nombre: CUSCO
+data[8].ubigeo: 080000
+data[8].nombre: HUANCAVELICA
+data[9].ubigeo: 090000
+data[9].nombre: HUÁNUCO
+data[10].ubigeo: 100000
+data[10].nombre: ICA
+data[11].ubigeo: 110000
+data[11].nombre: JUNÍN
+data[12].ubigeo: 120000
+data[12].nombre: LA LIBERTAD
+data[13].ubigeo: 130000
+data[13].nombre: LAMBAYEQUE
+data[14].ubigeo: 140000
+data[14].nombre: LIMA
+data[15].ubigeo: 150000
+data[15].nombre: LORETO
+data[16].ubigeo: 160000
+data[16].nombre: MADRE DE DIOS
+data[17].ubigeo: 170000
+data[17].nombre: MOQUEGUA
+data[18].ubigeo: 180000
+data[18].nombre: PASCO
+data[19].ubigeo: 190000
+data[19].nombre: PIURA
+data[20].ubigeo: 200000
+data[20].nombre: PUNO
+data[21].ubigeo: 210000
+data[21].nombre: SAN MARTÍN
+data[22].ubigeo: 220000
+data[22].nombre: TACNA
+data[23].ubigeo: 230000
+data[23].nombre: TUMBES
+data[24].ubigeo: 250000
+data[24].nombre: UCAYALI

@@ -1,0 +1,12 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/020500_CASMA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 020502
+data[0].nombre: BUENA VISTA ALTA
+data[1].ubigeo: 020501
+data[1].nombre: CASMA
+data[2].ubigeo: 020503
+data[2].nombre: COMANDANTE NOEL
+data[3].ubigeo: 020505
+data[3].nombre: YAUTAN

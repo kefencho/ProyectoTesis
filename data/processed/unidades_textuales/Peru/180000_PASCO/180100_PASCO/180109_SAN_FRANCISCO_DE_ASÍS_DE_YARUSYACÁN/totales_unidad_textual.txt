@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/180000_PASCO/180100_PASCO/180109_SAN_FRANCISCO_DE_ASÍS_DE_YARUSYACÁN/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 23
+data.totalActas: 23
+data.participacionCiudadana: 59.805
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 3623
+data.totalVotosValidos: 2919
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

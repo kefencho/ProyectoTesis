@@ -1,0 +1,16 @@
+FUENTE: data/raw/ONPE_2026/Peru/140000_LIMA/141000_OYÓN/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 141004
+data[0].nombre: ANDAJES
+data[1].ubigeo: 141003
+data[1].nombre: CAUJUL
+data[2].ubigeo: 141006
+data[2].nombre: COCHAMARCA
+data[3].ubigeo: 141002
+data[3].nombre: NAVAN
+data[4].ubigeo: 141001
+data[4].nombre: OYÓN
+data[5].ubigeo: 141005
+data[5].nombre: PACHANGARA

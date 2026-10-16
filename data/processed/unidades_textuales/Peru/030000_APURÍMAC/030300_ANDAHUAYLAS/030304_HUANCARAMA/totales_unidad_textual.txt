@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/030000_APURÍMAC/030300_ANDAHUAYLAS/030304_HUANCARAMA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 18
+data.totalActas: 18
+data.participacionCiudadana: 74.725
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 3731
+data.totalVotosValidos: 2805
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

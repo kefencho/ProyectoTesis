@@ -1,0 +1,256 @@
+FUENTE: data/raw/ONPE_2026/Peru/170000_MOQUEGUA/participantes.json
+========================================================================
+success: True
+message: 
+data[0].nombreAgrupacionPolitica: PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERÚ
+data[0].codigoAgrupacionPolitica: 15
+data[0].nombreCandidato: NAPOLEON BECERRA GARCIA
+data[0].dniCandidato: 08058852
+data[0].totalVotosValidos: 0
+data[0].porcentajeVotosValidos: 0.0
+data[0].porcentajeVotosEmitidos: 0.0
+data[1].nombreAgrupacionPolitica: FE EN EL PERÚ
+data[1].codigoAgrupacionPolitica: 5
+data[1].nombreCandidato: ALVARO GONZALO PAZ DE LA BARRA FREIGEIRO
+data[1].dniCandidato: 41904418
+data[1].totalVotosValidos: 107
+data[1].porcentajeVotosValidos: 0.094
+data[1].porcentajeVotosEmitidos: 0.081
+data[2].nombreAgrupacionPolitica: PERÚ MODERNO
+data[2].codigoAgrupacionPolitica: 4
+data[2].nombreCandidato: CARLOS ERNESTO JAICO CARRANZA
+data[2].dniCandidato: 06529088
+data[2].totalVotosValidos: 118
+data[2].porcentajeVotosValidos: 0.104
+data[2].porcentajeVotosEmitidos: 0.09
+data[3].nombreAgrupacionPolitica: SALVEMOS AL PERÚ
+data[3].codigoAgrupacionPolitica: 36
+data[3].nombreCandidato: ANTONIO ORTIZ VILLANO
+data[3].dniCandidato: 08587486
+data[3].totalVotosValidos: 119
+data[3].porcentajeVotosValidos: 0.104
+data[3].porcentajeVotosEmitidos: 0.091
+data[4].nombreAgrupacionPolitica: AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL
+data[4].codigoAgrupacionPolitica: 7
+data[4].nombreCandidato: JOSE DANIEL WILLIAMS ZAPATA
+data[4].dniCandidato: 43287528
+data[4].totalVotosValidos: 127
+data[4].porcentajeVotosValidos: 0.111
+data[4].porcentajeVotosEmitidos: 0.097
+data[5].nombreAgrupacionPolitica: PARTIDO POLÍTICO PRIN
+data[5].codigoAgrupacionPolitica: 30
+data[5].nombreCandidato: WALTER GILMER CHIRINOS PURIZAGA
+data[5].dniCandidato: 18870364
+data[5].totalVotosValidos: 142
+data[5].porcentajeVotosValidos: 0.125
+data[5].porcentajeVotosEmitidos: 0.108
+data[6].nombreAgrupacionPolitica: FUERZA Y LIBERTAD
+data[6].codigoAgrupacionPolitica: 9
+data[6].nombreCandidato: FIORELLA GIANNINA MOLINELLI ARISTONDO
+data[6].dniCandidato: 25681995
+data[6].totalVotosValidos: 167
+data[6].porcentajeVotosValidos: 0.147
+data[6].porcentajeVotosEmitidos: 0.127
+data[7].nombreAgrupacionPolitica: LIBERTAD POPULAR
+data[7].codigoAgrupacionPolitica: 11
+data[7].nombreCandidato: RAFAEL JORGE BELAUNDE LLOSA
+data[7].dniCandidato: 10219647
+data[7].totalVotosValidos: 179
+data[7].porcentajeVotosValidos: 0.157
+data[7].porcentajeVotosEmitidos: 0.136
+data[8].nombreAgrupacionPolitica: PARTIDO DEMOCRATICO FEDERAL
+data[8].codigoAgrupacionPolitica: 19
+data[8].nombreCandidato: ARMANDO JOAQUIN MASSE FERNANDEZ
+data[8].dniCandidato: 08255194
+data[8].totalVotosValidos: 205
+data[8].porcentajeVotosValidos: 0.18
+data[8].porcentajeVotosEmitidos: 0.156
+data[9].nombreAgrupacionPolitica: PARTIDO POLÍTICO PERÚ ACCIÓN
+data[9].codigoAgrupacionPolitica: 28
+data[9].nombreCandidato: FRANCISCO ERNESTO DIEZ-CANSECO TÁVARA
+data[9].dniCandidato: 08263758
+data[9].totalVotosValidos: 220
+data[9].porcentajeVotosValidos: 0.193
+data[9].porcentajeVotosEmitidos: 0.168
+data[10].nombreAgrupacionPolitica: PARTIDO POLÍTICO INTEGRIDAD DEMOCRÁTICA
+data[10].codigoAgrupacionPolitica: 26
+data[10].nombreCandidato: WOLFGANG MARIO GROZO COSTA
+data[10].dniCandidato: 07260881
+data[10].totalVotosValidos: 313
+data[10].porcentajeVotosValidos: 0.275
+data[10].porcentajeVotosEmitidos: 0.238
+data[11].nombreAgrupacionPolitica: UN CAMINO DIFERENTE
+data[11].codigoAgrupacionPolitica: 37
+data[11].nombreCandidato: ROSARIO DEL PILAR FERNANDEZ BAZAN
+data[11].dniCandidato: 18141156
+data[11].totalVotosValidos: 338
+data[11].porcentajeVotosValidos: 0.297
+data[11].porcentajeVotosEmitidos: 0.257
+data[12].nombreAgrupacionPolitica: UNIDAD NACIONAL
+data[12].codigoAgrupacionPolitica: 38
+data[12].nombreCandidato: ROBERTO ENRIQUE CHIABRA LEON
+data[12].dniCandidato: 40728264
+data[12].totalVotosValidos: 392
+data[12].porcentajeVotosValidos: 0.344
+data[12].porcentajeVotosEmitidos: 0.299
+data[13].nombreAgrupacionPolitica: PARTIDO DEMÓCRATA VERDE
+data[13].codigoAgrupacionPolitica: 18
+data[13].nombreCandidato: ALEX GONZALES CASTILLO
+data[13].dniCandidato: 09307547
+data[13].totalVotosValidos: 415
+data[13].porcentajeVotosValidos: 0.364
+data[13].porcentajeVotosEmitidos: 0.316
+data[14].nombreAgrupacionPolitica: PARTIDO APRISTA PERUANO
+data[14].codigoAgrupacionPolitica: 12
+data[14].nombreCandidato: PITTER ENRIQUE VALDERRAMA PEÑA
+data[14].dniCandidato: 43632186
+data[14].totalVotosValidos: 585
+data[14].porcentajeVotosValidos: 0.513
+data[14].porcentajeVotosEmitidos: 0.445
+data[15].nombreAgrupacionPolitica: PARTIDO MORADO
+data[15].codigoAgrupacionPolitica: 22
+data[15].nombreCandidato: MESIAS ANTONIO GUEVARA AMASIFUEN
+data[15].dniCandidato: 09871134
+data[15].totalVotosValidos: 599
+data[15].porcentajeVotosValidos: 0.526
+data[15].porcentajeVotosEmitidos: 0.456
+data[16].nombreAgrupacionPolitica: ALIANZA PARA EL PROGRESO
+data[16].codigoAgrupacionPolitica: 1
+data[16].nombreCandidato: CESAR ACUÑA PERALTA
+data[16].dniCandidato: 17903382
+data[16].totalVotosValidos: 610
+data[16].porcentajeVotosValidos: 0.535
+data[16].porcentajeVotosEmitidos: 0.465
+data[17].nombreAgrupacionPolitica: PARTIDO DEMOCRÁTICO SOMOS PERÚ
+data[17].codigoAgrupacionPolitica: 20
+data[17].nombreCandidato: GEORGE PATRICK FORSYTH SOMMER
+data[17].dniCandidato: 41265978
+data[17].totalVotosValidos: 725
+data[17].porcentajeVotosValidos: 0.636
+data[17].porcentajeVotosEmitidos: 0.552
+data[18].nombreAgrupacionPolitica: PARTIDO POLÍTICO NACIONAL PERÚ LIBRE
+data[18].codigoAgrupacionPolitica: 27
+data[18].nombreCandidato: VLADIMIR ROY CERRON ROJAS
+data[18].dniCandidato: 06466585
+data[18].totalVotosValidos: 975
+data[18].porcentajeVotosValidos: 0.856
+data[18].porcentajeVotosEmitidos: 0.742
+data[19].nombreAgrupacionPolitica: PROGRESEMOS
+data[19].codigoAgrupacionPolitica: 34
+data[19].nombreCandidato: PAUL DAVIS JAIMES BLANCO
+data[19].dniCandidato: 40139245
+data[19].totalVotosValidos: 1007
+data[19].porcentajeVotosValidos: 0.884
+data[19].porcentajeVotosEmitidos: 0.767
+data[20].nombreAgrupacionPolitica: PARTIDO PATRIÓTICO DEL PERÚ
+data[20].codigoAgrupacionPolitica: 24
+data[20].nombreCandidato: HERBERT CALLER GUTIERREZ
+data[20].dniCandidato: 43409673
+data[20].totalVotosValidos: 1097
+data[20].porcentajeVotosValidos: 0.963
+data[20].porcentajeVotosEmitidos: 0.835
+data[21].nombreAgrupacionPolitica: PARTIDO DEMÓCRATA UNIDO PERÚ
+data[21].codigoAgrupacionPolitica: 17
+data[21].nombreCandidato: CHARLIE CARRASCO SALAZAR
+data[21].dniCandidato: 40799023
+data[21].totalVotosValidos: 1331
+data[21].porcentajeVotosValidos: 1.168
+data[21].porcentajeVotosEmitidos: 1.014
+data[22].nombreAgrupacionPolitica: ALIANZA ELECTORAL VENCEREMOS
+data[22].codigoAgrupacionPolitica: 3
+data[22].nombreCandidato: RONALD DARWIN ATENCIO SOTOMAYOR
+data[22].dniCandidato: 41373494
+data[22].totalVotosValidos: 1592
+data[22].porcentajeVotosValidos: 1.397
+data[22].porcentajeVotosEmitidos: 1.212
+data[23].nombreAgrupacionPolitica: PODEMOS PERÚ
+data[23].codigoAgrupacionPolitica: 32
+data[23].nombreCandidato: JOSE LEON LUNA GALVEZ
+data[23].dniCandidato: 07246887
+data[23].totalVotosValidos: 1856
+data[23].porcentajeVotosValidos: 1.629
+data[23].porcentajeVotosEmitidos: 1.413
+data[24].nombreAgrupacionPolitica: PARTIDO SICREO
+data[24].codigoAgrupacionPolitica: 31
+data[24].nombreCandidato: ALFONSO CARLOS ESPA Y GARCES-ALVEAR
+data[24].dniCandidato: 10266270
+data[24].totalVotosValidos: 4858
+data[24].porcentajeVotosValidos: 4.263
+data[24].porcentajeVotosEmitidos: 3.699
+data[25].nombreAgrupacionPolitica: PARTIDO FRENTE DE LA ESPERANZA 2021
+data[25].codigoAgrupacionPolitica: 21
+data[25].nombreCandidato: LUIS FERNANDO OLIVERA VEGA
+data[25].dniCandidato: 06280714
+data[25].totalVotosValidos: 4889
+data[25].porcentajeVotosValidos: 4.29
+data[25].porcentajeVotosEmitidos: 3.723
+data[26].nombreAgrupacionPolitica: PARTIDO POLÍTICO COOPERACIÓN POPULAR
+data[26].codigoAgrupacionPolitica: 25
+data[26].nombreCandidato: YONHY LESCANO ANCIETA
+data[26].dniCandidato: 01211014
+data[26].totalVotosValidos: 5273
+data[26].porcentajeVotosValidos: 4.627
+data[26].porcentajeVotosEmitidos: 4.016
+data[27].nombreAgrupacionPolitica: PRIMERO LA GENTE – COMUNIDAD, ECOLOGÍA, LIBERTAD Y PROGRESO
+data[27].codigoAgrupacionPolitica: 33
+data[27].nombreCandidato: MARIA SOLEDAD PEREZ TELLO
+data[27].dniCandidato: 07867789
+data[27].totalVotosValidos: 5800
+data[27].porcentajeVotosValidos: 5.09
+data[27].porcentajeVotosEmitidos: 4.417
+data[28].nombreAgrupacionPolitica: PARTIDO PAÍS PARA TODOS
+data[28].codigoAgrupacionPolitica: 23
+data[28].nombreCandidato: CARLOS GONSALO ALVAREZ LOAYZA
+data[28].dniCandidato: 06002034
+data[28].totalVotosValidos: 6145
+data[28].porcentajeVotosValidos: 5.393
+data[28].porcentajeVotosEmitidos: 4.68
+data[29].nombreAgrupacionPolitica: RENOVACIÓN POPULAR
+data[29].codigoAgrupacionPolitica: 35
+data[29].nombreCandidato: RAFAEL BERNARDO LÓPEZ ALIAGA CAZORLA
+data[29].dniCandidato: 07845838
+data[29].totalVotosValidos: 6601
+data[29].porcentajeVotosValidos: 5.793
+data[29].porcentajeVotosEmitidos: 5.027
+data[30].nombreAgrupacionPolitica: PARTIDO POLÍTICO PERÚ PRIMERO
+data[30].codigoAgrupacionPolitica: 29
+data[30].nombreCandidato: MARIO ENRIQUE VIZCARRA CORNEJO
+data[30].dniCandidato: 04411300
+data[30].totalVotosValidos: 7087
+data[30].porcentajeVotosValidos: 6.219
+data[30].porcentajeVotosEmitidos: 5.397
+data[31].nombreAgrupacionPolitica: FUERZA POPULAR
+data[31].codigoAgrupacionPolitica: 8
+data[31].nombreCandidato: KEIKO SOFIA FUJIMORI HIGUCHI
+data[31].dniCandidato: 10001088
+data[31].totalVotosValidos: 7569
+data[31].porcentajeVotosValidos: 6.642
+data[31].porcentajeVotosEmitidos: 5.764
+data[32].nombreAgrupacionPolitica: PARTIDO DEL BUEN GOBIERNO
+data[32].codigoAgrupacionPolitica: 16
+data[32].nombreCandidato: JORGE NIETO MONTESINOS
+data[32].dniCandidato: 06506278
+data[32].totalVotosValidos: 11909
+data[32].porcentajeVotosValidos: 10.451
+data[32].porcentajeVotosEmitidos: 9.069
+data[33].nombreAgrupacionPolitica: AHORA NACIÓN - AN
+data[33].codigoAgrupacionPolitica: 2
+data[33].nombreCandidato: PABLO ALFONSO LOPEZ CHAU NAVA
+data[33].dniCandidato: 25331980
+data[33].totalVotosValidos: 11986
+data[33].porcentajeVotosValidos: 10.518
+data[33].porcentajeVotosEmitidos: 9.128
+data[34].nombreAgrupacionPolitica: PARTIDO CÍVICO OBRAS
+data[34].codigoAgrupacionPolitica: 14
+data[34].nombreCandidato: RICARDO PABLO BELMONT CASSINELLI
+data[34].dniCandidato: 09177250
+data[34].totalVotosValidos: 13899
+data[34].porcentajeVotosValidos: 12.197
+data[34].porcentajeVotosEmitidos: 10.584
+data[35].nombreAgrupacionPolitica: JUNTOS POR EL PERÚ
+data[35].codigoAgrupacionPolitica: 10
+data[35].nombreCandidato: ROBERTO HELBERT SANCHEZ PALOMINO
+data[35].dniCandidato: 16002918
+data[35].totalVotosValidos: 14719
+data[35].porcentajeVotosValidos: 12.917
+data[35].porcentajeVotosEmitidos: 11.209

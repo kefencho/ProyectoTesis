@@ -1,0 +1,14 @@
+FUENTE: data/raw/ONPE_2026/Peru/100000_ICA/100500_PALPA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 100502
+data[0].nombre: LLIPATA
+data[1].ubigeo: 100501
+data[1].nombre: PALPA
+data[2].ubigeo: 100503
+data[2].nombre: RÍO GRANDE
+data[3].ubigeo: 100504
+data[3].nombre: SANTA CRUZ
+data[4].ubigeo: 100505
+data[4].nombre: TIBILLO

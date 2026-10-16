@@ -1,0 +1,21 @@
+FUENTE: data/raw/ONPE_2026/Peru/210000_SAN_MARTÍN/210900_PICOTA/210908_TINGO_DE_PONASA/totales.json
+========================================================================
+success: True
+message: 
+data.actasContabilizadas: 100.0
+data.contabilizadas: 14
+data.totalActas: 14
+data.participacionCiudadana: 69.681
+data.actasEnviadasJee: 0.0
+data.enviadasJee: 0
+data.actasPendientesJee: 0.0
+data.pendientesJee: 0
+data.fechaActualizacion: 1781884800569
+data.idUbigeoDepartamento: 140000
+data.idUbigeoProvincia: 140100
+data.idUbigeoDistrito: 140101
+data.idUbigeoDistritoElectoral: 15
+data.totalVotosEmitidos: 2751
+data.totalVotosValidos: 1874
+data.porcentajeVotosEmitidos: 100
+data.porcentajeVotosValidos: 100

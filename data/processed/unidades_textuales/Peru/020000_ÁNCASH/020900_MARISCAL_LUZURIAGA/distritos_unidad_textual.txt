@@ -1,0 +1,20 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/020900_MARISCAL_LUZURIAGA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 020902
+data[0].nombre: CASCA
+data[1].ubigeo: 020908
+data[1].nombre: ELEAZAR GUZMÁN BARRÓN
+data[2].ubigeo: 020904
+data[2].nombre: FIDEL OLIVAS ESCUDERO
+data[3].ubigeo: 020905
+data[3].nombre: LLAMA
+data[4].ubigeo: 020906
+data[4].nombre: LLUMPA
+data[5].ubigeo: 020903
+data[5].nombre: LUCMA
+data[6].ubigeo: 020907
+data[6].nombre: MUSGA
+data[7].ubigeo: 020901
+data[7].nombre: PISCOBAMBA

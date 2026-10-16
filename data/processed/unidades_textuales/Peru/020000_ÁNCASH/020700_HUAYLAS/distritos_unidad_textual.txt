@@ -1,0 +1,24 @@
+FUENTE: data/raw/ONPE_2026/Peru/020000_ÁNCASH/020700_HUAYLAS/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 020701
+data[0].nombre: CARAZ
+data[1].ubigeo: 020702
+data[1].nombre: HUALLANCA
+data[2].ubigeo: 020703
+data[2].nombre: HUATA
+data[3].ubigeo: 020704
+data[3].nombre: HUAYLAS
+data[4].ubigeo: 020705
+data[4].nombre: MATO
+data[5].ubigeo: 020706
+data[5].nombre: PAMPAROMAS
+data[6].ubigeo: 020707
+data[6].nombre: PUEBLO LIBRE
+data[7].ubigeo: 020708
+data[7].nombre: SANTA CRUZ
+data[8].ubigeo: 020710
+data[8].nombre: SANTO TORIBIO
+data[9].ubigeo: 020709
+data[9].nombre: YURACMARCA

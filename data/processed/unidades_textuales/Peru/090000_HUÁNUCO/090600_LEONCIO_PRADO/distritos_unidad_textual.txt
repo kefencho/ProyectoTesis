@@ -1,0 +1,24 @@
+FUENTE: data/raw/ONPE_2026/Peru/090000_HUÁNUCO/090600_LEONCIO_PRADO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 090608
+data[0].nombre: CASTILLO GRANDE
+data[1].ubigeo: 090602
+data[1].nombre: DANIEL ALOMÍA ROBLES
+data[2].ubigeo: 090603
+data[2].nombre: HERMILIO VALDIZÁN
+data[3].ubigeo: 090606
+data[3].nombre: JOSÉ CRESPO Y CASTILLO
+data[4].ubigeo: 090604
+data[4].nombre: LUYANDO
+data[5].ubigeo: 090605
+data[5].nombre: MARIANO DÁMASO BERAÚN
+data[6].ubigeo: 090607
+data[6].nombre: PUCAYACU
+data[7].ubigeo: 090609
+data[7].nombre: PUEBLO NUEVO
+data[8].ubigeo: 090601
+data[8].nombre: RUPA-RUPA
+data[9].ubigeo: 090610
+data[9].nombre: SANTO DOMINGO DE ANDA

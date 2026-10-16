@@ -1,0 +1,28 @@
+FUENTE: data/raw/ONPE_2026/Peru/060000_CAJAMARCA/060100_CAJAMARCA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 060102
+data[0].nombre: ASUNCIÓN
+data[1].ubigeo: 060101
+data[1].nombre: CAJAMARCA
+data[2].ubigeo: 060104
+data[2].nombre: CHETILLA
+data[3].ubigeo: 060103
+data[3].nombre: COSPAN
+data[4].ubigeo: 060105
+data[4].nombre: ENCAÑADA
+data[5].ubigeo: 060106
+data[5].nombre: JESÚS
+data[6].ubigeo: 060108
+data[6].nombre: LLACANORA
+data[7].ubigeo: 060107
+data[7].nombre: LOS BAÑOS DEL INCA
+data[8].ubigeo: 060109
+data[8].nombre: MAGDALENA
+data[9].ubigeo: 060110
+data[9].nombre: MATARA
+data[10].ubigeo: 060111
+data[10].nombre: NAMORA
+data[11].ubigeo: 060112
+data[11].nombre: SAN JUAN

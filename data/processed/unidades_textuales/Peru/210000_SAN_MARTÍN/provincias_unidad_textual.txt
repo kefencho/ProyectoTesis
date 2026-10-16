@@ -1,0 +1,24 @@
+FUENTE: data/raw/ONPE_2026/Peru/210000_SAN_MARTÍN/provincias.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 210700
+data[0].nombre: BELLAVISTA
+data[1].ubigeo: 211000
+data[1].nombre: EL DORADO
+data[2].ubigeo: 210200
+data[2].nombre: HUALLAGA
+data[3].ubigeo: 210300
+data[3].nombre: LAMAS
+data[4].ubigeo: 210400
+data[4].nombre: MARISCAL CÁCERES
+data[5].ubigeo: 210100
+data[5].nombre: MOYOBAMBA
+data[6].ubigeo: 210900
+data[6].nombre: PICOTA
+data[7].ubigeo: 210500
+data[7].nombre: RIOJA
+data[8].ubigeo: 210600
+data[8].nombre: SAN MARTÍN
+data[9].ubigeo: 210800
+data[9].nombre: TOCACHE

@@ -1,0 +1,26 @@
+FUENTE: data/raw/ONPE_2026/Peru/170000_MOQUEGUA/170200_GENERAL_SÁNCHEZ_CERRO/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 170203
+data[0].nombre: CHOJATA
+data[1].ubigeo: 170202
+data[1].nombre: COALAQUE
+data[2].ubigeo: 170204
+data[2].nombre: ICHUÑA
+data[3].ubigeo: 170205
+data[3].nombre: LA CAPILLA
+data[4].ubigeo: 170206
+data[4].nombre: LLOQUE
+data[5].ubigeo: 170207
+data[5].nombre: MATALAQUE
+data[6].ubigeo: 170201
+data[6].nombre: OMATE
+data[7].ubigeo: 170208
+data[7].nombre: PUQUINA
+data[8].ubigeo: 170209
+data[8].nombre: QUINISTAQUILLAS
+data[9].ubigeo: 170210
+data[9].nombre: UBINAS
+data[10].ubigeo: 170211
+data[10].nombre: YUNGA

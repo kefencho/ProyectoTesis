@@ -1,0 +1,42 @@
+FUENTE: data/raw/ONPE_2026/Peru/080000_HUANCAVELICA/080100_HUANCAVELICA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 080102
+data[0].nombre: ACOBAMBILLA
+data[1].ubigeo: 080103
+data[1].nombre: ACORIA
+data[2].ubigeo: 080119
+data[2].nombre: ASCENSIÓN
+data[3].ubigeo: 080104
+data[3].nombre: CONAYCA
+data[4].ubigeo: 080105
+data[4].nombre: CUENCA
+data[5].ubigeo: 080106
+data[5].nombre: HUACHOCOLPA
+data[6].ubigeo: 080101
+data[6].nombre: HUANCAVELICA
+data[7].ubigeo: 080120
+data[7].nombre: HUANDO
+data[8].ubigeo: 080108
+data[8].nombre: HUAYLLAHUARA
+data[9].ubigeo: 080109
+data[9].nombre: IZCUCHACA
+data[10].ubigeo: 080110
+data[10].nombre: LARIA
+data[11].ubigeo: 080111
+data[11].nombre: MANTA
+data[12].ubigeo: 080112
+data[12].nombre: MARISCAL CÁCERES
+data[13].ubigeo: 080113
+data[13].nombre: MOYA
+data[14].ubigeo: 080114
+data[14].nombre: NUEVO OCCORO
+data[15].ubigeo: 080115
+data[15].nombre: PALCA
+data[16].ubigeo: 080116
+data[16].nombre: PILCHACA
+data[17].ubigeo: 080117
+data[17].nombre: VILCA
+data[18].ubigeo: 080118
+data[18].nombre: YAULI

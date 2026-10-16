@@ -1,0 +1,28 @@
+FUENTE: data/raw/ONPE_2026/Peru/140000_LIMA/140500_HUAURA/distritos.json
+========================================================================
+success: True
+message: 
+data[0].ubigeo: 140502
+data[0].nombre: AMBAR
+data[1].ubigeo: 140504
+data[1].nombre: CALETA DE CARQUIN
+data[2].ubigeo: 140505
+data[2].nombre: CHECRAS
+data[3].ubigeo: 140501
+data[3].nombre: HUACHO
+data[4].ubigeo: 140506
+data[4].nombre: HUALMAY
+data[5].ubigeo: 140507
+data[5].nombre: HUAURA
+data[6].ubigeo: 140508
+data[6].nombre: LEONCIO PRADO
+data[7].ubigeo: 140509
+data[7].nombre: PACCHO
+data[8].ubigeo: 140511
+data[8].nombre: SANTA LEONOR
+data[9].ubigeo: 140512
+data[9].nombre: SANTA MARÍA
+data[10].ubigeo: 140513
+data[10].nombre: SAYAN
+data[11].ubigeo: 140516
+data[11].nombre: VEGUETA
