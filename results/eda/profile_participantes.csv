@@ -1,0 +1,9 @@
+﻿,columna,tipo,valores_no_nulos,valores_distintos,ejemplos
+0,nombreAgrupacionPolitica,str,76068,36,PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERÚ | PERÚ MODERNO | SALVEMOS AL PERÚ
+1,codigoAgrupacionPolitica,int64,76068,36,15 | 4 | 36
+2,nombreCandidato,str,76068,36,NAPOLEON BECERRA GARCIA | CARLOS ERNESTO JAICO CARRANZA | ANTONIO ORTIZ VILLANO
+3,dniCandidato,str,76068,36,08058852 | 06529088 | 08587486
+4,totalVotosValidos,int64,76068,4247,0 | 7 | 8
+5,porcentajeVotosValidos,float64,76068,12406,0.0 | 0.052 | 0.059
+6,porcentajeVotosEmitidos,float64,76068,11135,0.0 | 0.042 | 0.049
+7,source_file,str,76068,2113,010000_AMAZONAS\010100_CHACHAPOYAS\010101_CHACHAPOYAS\participantes.json | 010000_AMAZONAS\010100_CHACHAPOYAS\010101_CHACHAPOYAS\participantes.json | 010000_AMAZONAS\010100_CHACHAPOYAS\010101_CHACHAPOYAS\participantes.json

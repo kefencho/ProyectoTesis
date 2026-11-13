@@ -1,0 +1,57 @@
+{
+  "fecha_ejecucion": "2026-11-13T02:09:49",
+  "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "plataforma": "Windows-10-10.0.26100-SP0",
+  "pandas": "3.0.6",
+  "numpy": "2.4.6",
+  "random_seed": 31,
+  "data_dir": "c:\\Users\\Kencho\\Desktop\\MaestriaIA\\Trabajo Investigacion II\\Repositorio\\ProyectoTesis\\data\\raw\\ONPE_2026\\Peru",
+  "cantidad_archivos_json": 4450,
+  "inventario": {
+    "participantes": 76068,
+    "totales": 2113,
+    "departamentos": 25,
+    "provincias": 196,
+    "distritos": 1892
+  },
+  "sha256_conjunto_json": "57f1c04bbae4c4e066bdbe9879521a56bab2442f5d5569ac8aeec87ed14d4058",
+  "filas_fact_votos_distrito": 76068,
+  "filas_fact_totales_distrito": 2113,
+  "validaciones": [
+    {
+      "validacion": "UBIGEO único en dim_departamento",
+      "resultado": "OK",
+      "detalle": "Filas=25, únicos=25"
+    },
+    {
+      "validacion": "UBIGEO único en dim_provincia",
+      "resultado": "OK",
+      "detalle": "Filas=196, únicos=196"
+    },
+    {
+      "validacion": "UBIGEO único en dim_distrito",
+      "resultado": "OK",
+      "detalle": "Filas=1892, únicos=1892"
+    },
+    {
+      "validacion": "Resultados vinculados a catálogo geográfico",
+      "resultado": "REVISAR",
+      "detalle": "Filas sin departamento asociado=76068"
+    },
+    {
+      "validacion": "Conciliación de votos por distrito",
+      "resultado": "OK",
+      "detalle": "Distritos conciliados=2113; con diferencias=0"
+    },
+    {
+      "validacion": "Votos no negativos",
+      "resultado": "OK",
+      "detalle": "Se revisa que los votos por organización no sean negativos."
+    },
+    {
+      "validacion": "Cuotas de voto dentro del rango [0, 1]",
+      "resultado": "OK",
+      "detalle": "La cuota se calcula como votos de organización / votos válidos del distrito."
+    }
+  ]
+}

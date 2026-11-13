@@ -1,0 +1,21 @@
+﻿,columna,tipo,valores_no_nulos,valores_distintos,ejemplos
+0,success,bool,2113,1,True | True | True
+1,message,str,2113,1, |  | 
+2,data.actasContabilizadas,float64,2113,1,100.0 | 100.0 | 100.0
+3,data.contabilizadas,int64,2113,344,76 | 2 | 5
+4,data.totalActas,int64,2113,344,76 | 2 | 5
+5,data.participacionCiudadana,float64,2113,2053,74.824 | 57.475 | 64.238
+6,data.actasEnviadasJee,float64,2113,1,0.0 | 0.0 | 0.0
+7,data.enviadasJee,int64,2113,1,0 | 0 | 0
+8,data.actasPendientesJee,float64,2113,1,0.0 | 0.0 | 0.0
+9,data.pendientesJee,int64,2113,1,0 | 0 | 0
+10,data.fechaActualizacion,int64,2113,1,1781884800569 | 1781884800569 | 1781884800569
+11,data.idUbigeoDepartamento,int64,2113,1,140000 | 140000 | 140000
+12,data.idUbigeoProvincia,int64,2113,1,140100 | 140100 | 140100
+13,data.idUbigeoDistrito,int64,2113,1,140101 | 140101 | 140101
+14,data.idUbigeoDistritoElectoral,int64,2113,1,15 | 15 | 15
+15,data.totalVotosEmitidos,int64,2113,1880,16471 | 173 | 776
+16,data.totalVotosValidos,int64,2113,1832,13472 | 121 | 611
+17,data.porcentajeVotosEmitidos,int64,2113,1,100 | 100 | 100
+18,data.porcentajeVotosValidos,int64,2113,1,100 | 100 | 100
+19,source_file,str,2113,2113,010000_AMAZONAS\010100_CHACHAPOYAS\010101_CHACHAPOYAS\totales.json | 010000_AMAZONAS\010100_CHACHAPOYAS\010102_ASUNCIÓN\totales.json | 010000_AMAZONAS\010100_CHACHAPOYAS\010103_BALSAS\totales.json

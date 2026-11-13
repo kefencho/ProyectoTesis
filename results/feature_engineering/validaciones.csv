@@ -1,0 +1,8 @@
+﻿validacion,resultado,detalle
+UBIGEO único en dim_departamento,OK,"Filas=25, únicos=25"
+UBIGEO único en dim_provincia,OK,"Filas=196, únicos=196"
+UBIGEO único en dim_distrito,OK,"Filas=1892, únicos=1892"
+Resultados vinculados a catálogo geográfico,REVISAR,Filas sin departamento asociado=76068
+Conciliación de votos por distrito,OK,Distritos conciliados=2113; con diferencias=0
+Votos no negativos,OK,Se revisa que los votos por organización no sean negativos.
+"Cuotas de voto dentro del rango [0, 1]",OK,La cuota se calcula como votos de organización / votos válidos del distrito.

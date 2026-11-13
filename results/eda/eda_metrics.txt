@@ -1,0 +1,8 @@
+Fecha de ejecución: 2026-11-13T00:45:35
+Archivos JSON encontrados: 4450
+Registros participantes: 76068
+Registros totales: 2113
+Errores de carga participantes: 0
+Errores de carga totales: 0
+SHA-256: 57f1c04bbae4c4e066bdbe9879521a56bab2442f5d5569ac8aeec87ed14d4058
+Semilla: 31

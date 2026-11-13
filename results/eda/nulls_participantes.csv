@@ -1,0 +1,9 @@
+﻿,nulos,porcentaje_nulos,tipo_dato
+nombreAgrupacionPolitica,0,0.0,str
+codigoAgrupacionPolitica,0,0.0,int64
+nombreCandidato,0,0.0,str
+dniCandidato,0,0.0,str
+totalVotosValidos,0,0.0,int64
+porcentajeVotosValidos,0,0.0,float64
+porcentajeVotosEmitidos,0,0.0,float64
+source_file,0,0.0,str

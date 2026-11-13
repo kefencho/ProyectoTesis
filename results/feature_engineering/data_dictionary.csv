@@ -1,0 +1,10 @@
+﻿tabla,granularidad,clave_logica
+dim_departamento,Una fila por departamento,ubigeo_departamento
+dim_provincia,Una fila por provincia,ubigeo_provincia
+dim_distrito,Una fila por distrito,ubigeo_distrito
+dim_geografia,Jerarquía distrito–provincia–departamento,ubigeo_distrito
+fact_votos_distrito,Una fila por distrito y organización política,ubigeo_distrito + codigo_organizacion
+fact_totales_distrito,Totales y atributos derivados por distrito,ubigeo_distrito
+fact_votos_provincia,Votos agregados por provincia y organización,ubigeo_provincia + codigo_organizacion
+fact_votos_departamento,Votos agregados por departamento y organización,ubigeo_departamento + codigo_organizacion
+district_wins_by_department,Cantidad de distritos ganados por organización en cada departamento,ubigeo_departamento + codigo_organizacion
