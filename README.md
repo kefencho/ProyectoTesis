@@ -1,8 +1,10 @@
-# 🛡️ Verificación de afirmaciones sobre los resultados de las Elecciones Generales del Perú 2026  mediante LLM y recuperación de evidencia
+# 🗳️ Sistema Text-to-SQL para el análisis de los resultados electorales del Perú 2026
 
-Proyecto de investigación de la Maestría en Inteligencia Artificial de la Universidad Nacional de Ingeniería (UNI), orientado a evaluar estrategias de recuperación de evidencia como búsqueda léxica, búsqueda semántica y recuperación híbrida, para la verificación automática de afirmaciones sobre los resultados de las Elecciones Generales del Perú 2026.
+Proyecto de investigación de la Maestría en Inteligencia Artificial de la Universidad Nacional de Ingeniería (UNI), orientado al desarrollo de un sistema basado en modelos de lenguaje de gran tamaño (LLM) que permita responder consultas analíticas sobre los resultados de la elección presidencial de las Elecciones Generales del Perú 2026.
 
-El proyecto utiliza los resultados electorales oficiales publicados por la Oficina Nacional de Procesos Electorales (ONPE), transformados en unidades textuales que servirán como fuente de evidencia para los experimentos con modelos de lenguaje (LLM).
+El sistema permitirá que los usuarios formulen preguntas en lenguaje natural, las cuales serán transformadas en consultas SQL, ejecutadas sobre una base de datos relacional y presentadas mediante una respuesta en lenguaje natural junto con la consulta SQL generada.
+
+La investigación busca facilitar el análisis de los resultados electorales sin requerir que los usuarios conozcan SQL, permitiendo realizar consultas que involucren filtros, agrupaciones, agregaciones, comparaciones entre organizaciones políticas y análisis de diferentes ámbitos geográficos.
 
 
 ---
@@ -15,11 +17,12 @@ El proyecto utiliza los resultados electorales oficiales publicados por la Ofici
 ## 📊 Dataset
 
 - **Fuente:** [ONPE – Resultados históricos de las Elecciones Generales del Perú 2026.](https://resultadohistorico-eg2026.onpe.gob.pe/main/resumen)
-- **Registros de origen:** aproximadamente 90,223 mesas de sufragio.
-- **Formato original:** archivos JSON con los resultados electorales por mesa y los votos obtenidos por cada candidato.
-- **Datos procesados:** unidades textuales generadas a partir de los resultados oficiales para facilitar la recuperación de evidencia.
-- **Dataset de evaluación:** conjunto de afirmaciones verdaderas y falsas relacionadas con los resultados electorales, pendiente de construcción y validación.
-Los archivos JSON originales constituyen la fuente de datos, mientras que las unidades textuales representan la información procesada que utilizará el sistema de recuperación.
+- **Fecha de descarga:** 16 de agosto de 2026.
+- **Cobertura geográfica:** 25 departamentos, 196 provincias y 1,892 distritos.
+- **Organizaciones políticas:** 36 organizaciones políticas identificadas.
+- **Formato original:** archivos JSON con información de participantes y totales de los resultados electorales.
+- **Datos procesados:** registros electorales organizados por ámbito geográfico y organización política, que serán almacenados en una base de datos relacional.
+Los archivos JSON originales constituyen la fuente de datos, mientras que la información procesada será utilizada para construir la base de datos que permitirá realizar consultas analíticas sobre los resultados electorales.
 ---
 
 ## 🗂️️ Estructura del Repositorio
@@ -30,8 +33,8 @@ Los archivos JSON originales constituyen la fuente de datos, mientras que las un
 │   │   └── ONPE_2026/
 │   │       └── Peru/                           # JSON originales descargados de ONPE
 |   ├── processed/              
-│   │   └── unidades_textuales/                 # Unidades textuales generadas
-│   └── evaluation/                             # Afirmaciones y etiquetas de referencia
+│   │   └── datos_electorales/                  # Datos procesados y validados
+│   └── evaluation/                             # Preguntas y resultados de referencia
 ├── notebooks/         
 │   ├── 01_exploracion_datos.ipynb              # Análisis exploratorio inicial
 │   └── 02_validacion_unidades_textuales.ipynb  # Validación de unidades textuales
@@ -39,17 +42,17 @@ Los archivos JSON originales constituyen la fuente de datos, mientras que las un
 │   └── descargar_onpe.sh                       # Descarga de datos oficiales de ONPE
 ├── src/               
 │   ├── data/
-│   │   └── generar_unidades.py                 # Conversión de JSON a texto
-│   ├── retrieval/
-│   │   ├── bm25.py                             # Recuperación léxica
-│   │   ├── semantic.py                         # Recuperación semántica
-│   │   └── hybrid.py                           # Recuperación híbrida
+│   │   └── generar_datos.py                    # Procesamiento de archivos JSON
+│   ├── text_to_sql/
+│   │   ├── llm_client.py                       # Integración con el modelo de lenguaje
+│   │   ├── prompt_builder.py                   # Construcción de instrucciones para el LLM
+│   │   └── sql_generator.py                    # Generación de consultas SQL
 │   ├── verification/
-│   │   └── llm_verifier.py                     # Verificación mediante LLM
+│   │   └── sql_validator.py                    # Validación de consultas SQL
 │   └── evaluation/
 │       └── metrics.py                          # Métricas de evaluación         
 ├── logs/                                       # Archivos de logging
-├── results/                                    # Predicciones y métricas
+├── results/                                    # Resultados y métricas de evaluación
 ├── slides/                                     # Presentaciones de resultados
 ├── .gitignore
 ├── README.md
@@ -59,7 +62,7 @@ Los archivos JSON originales constituyen la fuente de datos, mientras que las un
 
 ## ⚙️ Requisitos
 
-El proyecto utilizará Python y las bibliotecas necesarias para procesar los datos, implementar las estrategias de recuperación y evaluar los resultados.
+El proyecto utilizará Python y las bibliotecas necesarias para procesar los datos electorales, integrar modelos de lenguaje, interactuar con la base de datos y evaluar las consultas generadas.
 
 **1. Verificar Python**
 
@@ -106,21 +109,21 @@ El flujo de ejecución previsto consta de las siguientes etapas:
 
    Lectura de los archivos JSON originales de ONPE almacenados en data/raw/.
 
-3. **Generación de unidades textuales**
+2. **Procesamiento y almacenamiento de datos**
 
-    Transformación de los resultados electorales en unidades textuales que conserven la información necesaria para identificar candidatos, votos y ámbitos geográficos.
+   Limpieza, transformación y organización de los resultados electorales para su incorporación en una base de datos relacional.
 
-5. **Indexación y recuperación de evidencia**
+3. **Generación de consultas SQL**
 
-    Construcción de los índices para comparar las estrategias de recuperación léxica mediante BM25, búsqueda semántica mediante embeddings y recuperación híbrida.
+    Recepción de preguntas en lenguaje natural y utilización de un modelo de lenguaje de gran tamaño para generar las consultas SQL correspondientes, considerando el esquema de la base de datos.
 
-7. **Verificación mediante LLM**
+4. **Validación y ejecución de consultas**
 
-    Envío de la afirmación y de la evidencia recuperada al modelo de lenguaje para obtener un veredicto sustentado en la información disponible.
+    Validación de las consultas SQL generadas y ejecución sobre la base de datos relacional para obtener los resultados solicitados.
 
-9. **Evaluación experimental**
+7. **Generación de respuestas y evaluación**
 
-    Comparación de los resultados obtenidos por cada estrategia mediante las métricas definidas en el diseño metodológico.
+    Presentación de los resultados en lenguaje natural junto con la consulta SQL generada. Evaluación del sistema mediante un conjunto de 100 preguntas analíticas y las métricas definidas en el diseño metodológico.
 
 Los comandos específicos de ejecución se documentarán cuando los módulos correspondientes estén implementados.
 
@@ -129,26 +132,25 @@ Los comandos específicos de ejecución se documentarán cuando los módulos cor
 ## 📈 Resultados Esperados (Semana 3)
 
 * Datos originales de ONPE organizados y documentados.
-* Unidades textuales generadas y validadas.
-* Diseño inicial del conjunto de afirmaciones para la evaluación.
-* Primera implementación de una estrategia de recuperación de evidencia.
-* Definición del protocolo experimental para comparar las estrategias de recuperación.
-* Registro de las configuraciones y los resultados de cada experimento.
+* Base de datos relacional construida a partir de los resultados electorales.
+* Sistema Text-to-SQL integrado con un modelo de lenguaje de gran tamaño.
+* Generación y ejecución de consultas SQL a partir de preguntas en lenguaje natural.
+* Conjunto de 100 preguntas analíticas con sus respectivas consultas SQL y resultados de referencia.
+* Evaluación del sistema mediante métricas de validez SQL, exactitud de ejecución y tiempo de respuesta.
 ---
 
 ## 📌 Roadmap
 
 - [x] Descarga de los resultados electorales oficiales en formato JSON.
-- [x] Generación inicial de unidades textuales.
-- [ ] Validación de las unidades textuales.
-- [ ] Construcción del dataset de afirmaciones y sus etiquetas de referencia.
-- [ ] Implementación de recuperación léxica mediante BM25.
-- [ ] Implementación de recuperación semántica mediante embeddings.
-- [ ] Implementación de recuperación híbrida.
-- [ ] Integración del modelo de lenguaje para la verificación.
-- [ ] Ejecución de experimentos comparativos.
-- [ ] Evaluación de métricas y análisis de errores.
-- [ ] Documentación de resultados y conclusiones.
+- [x] Exploración inicial de la estructura de los archivos JSON.
+- [ ] Procesamiento y validación de los datos electorales.
+- [ ] Diseño e implementación de la base de datos relacional.
+- [ ] Construcción del conjunto de 100 preguntas de evaluación.
+- [ ] Elaboración y validación de las consultas SQL de referencia.
+- [ ] Integración del modelo de lenguaje de gran tamaño (LLM).
+- [ ] Implementación del generador y validador de consultas SQL.
+- [ ] Implementación de la ejecución de consultas y generación de respuestas.
+- [ ] Evaluación de métricas y análisis de resultados.
 
 ---
 
